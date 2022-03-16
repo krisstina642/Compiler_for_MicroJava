@@ -1,0 +1,233 @@
+INFO  22:11:04,857 - Compiling source file: C:\Users\Kristina\Desktop\prof\MJCompiler\test\program.mj
+INFO  22:11:04,918 - #2 program
+INFO  22:11:04,918 - #43 test302
+INFO  22:11:04,918 - #26 const
+INFO  22:11:04,919 - #43 int
+INFO  22:11:04,919 - #43 jedan
+INFO  22:11:04,920 - #8 =
+INFO  22:11:04,920 - #42 1
+INFO  22:11:04,920 - #5 ;
+INFO  22:11:04,920 - #43 int
+INFO  22:11:04,921 - #43 i
+INFO  22:11:04,921 - #11 ,
+INFO  22:11:04,922 - #43 j
+INFO  22:11:04,922 - #5 ;
+INFO  22:11:04,923 - #43 bool
+INFO  22:11:04,923 - #43 ibool
+INFO  22:11:04,923 - #5 ;
+INFO  22:11:04,923 - #43 int
+INFO  22:11:04,923 - #43 niz
+INFO  22:11:04,924 - #27 [
+INFO  22:11:04,924 - #25 ]
+INFO  22:11:04,924 - #5 ;
+INFO  22:11:04,925 - #3 {
+INFO  22:11:04,936 - #43 int
+INFO  22:11:04,936 - #43 sum
+INFO  22:11:04,936 - #6 (
+INFO  22:11:04,936 - #43 int
+INFO  22:11:04,937 - #43 z
+INFO  22:11:04,937 - #11 ,
+INFO  22:11:04,937 - #43 int
+INFO  22:11:04,937 - #43 d
+INFO  22:11:04,937 - #7 )
+INFO  22:11:04,937 - #3 {
+INFO  22:11:04,938 - #9 return
+INFO  22:11:04,939 - #43 z
+INFO  22:11:04,939 - #10 +
+INFO  22:11:04,940 - #43 d
+INFO  22:11:04,941 - #5 ;
+INFO  22:11:04,941 - #4 }
+INFO  22:11:04,941 - #13 void
+INFO  22:11:04,942 - #43 fibonaci
+INFO  22:11:04,942 - #6 (
+INFO  22:11:04,942 - #7 )
+INFO  22:11:04,942 - #43 int
+INFO  22:11:04,943 - #43 pom
+INFO  22:11:04,943 - #11 ,
+INFO  22:11:04,943 - #43 l
+INFO  22:11:04,943 - #11 ,
+INFO  22:11:04,943 - #43 a
+INFO  22:11:04,943 - #27 [
+INFO  22:11:04,943 - #25 ]
+INFO  22:11:04,943 - #5 ;
+INFO  22:11:04,943 - #3 {
+INFO  22:11:04,943 - #43 pom
+INFO  22:11:04,943 - #8 =
+INFO  22:11:04,944 - #43 len
+INFO  22:11:04,944 - #6 (
+INFO  22:11:04,944 - #43 a
+INFO  22:11:04,944 - #7 )
+INFO  22:11:04,945 - #5 ;
+INFO  22:11:04,945 - #51 if
+INFO  22:11:04,945 - #6 (
+INFO  22:11:04,945 - #43 pom
+INFO  22:11:04,945 - #48 <
+INFO  22:11:04,945 - #42 1
+INFO  22:11:04,945 - #7 )
+INFO  22:11:04,946 - #9 return
+INFO  22:11:04,946 - #5 ;
+INFO  22:11:04,946 - #43 l
+INFO  22:11:04,947 - #8 =
+INFO  22:11:04,947 - #42 2
+INFO  22:11:04,947 - #5 ;
+INFO  22:11:04,947 - #43 a
+INFO  22:11:04,947 - #27 [
+INFO  22:11:04,947 - #42 0
+INFO  22:11:04,948 - #25 ]
+INFO  22:11:04,949 - #8 =
+INFO  22:11:04,949 - #42 0
+INFO  22:11:04,949 - #5 ;
+INFO  22:11:04,949 - #51 if
+INFO  22:11:04,949 - #6 (
+INFO  22:11:04,949 - #43 pom
+INFO  22:11:04,949 - #48 <
+INFO  22:11:04,949 - #42 2
+INFO  22:11:04,949 - #7 )
+INFO  22:11:04,949 - #9 return
+INFO  22:11:04,949 - #5 ;
+INFO  22:11:04,949 - #43 a
+INFO  22:11:04,949 - #27 [
+INFO  22:11:04,949 - #42 1
+INFO  22:11:04,949 - #25 ]
+INFO  22:11:04,950 - #8 =
+INFO  22:11:04,950 - #42 1
+INFO  22:11:04,950 - #5 ;
+INFO  22:11:04,950 - #51 if
+INFO  22:11:04,950 - #6 (
+INFO  22:11:04,950 - #43 pom
+INFO  22:11:04,950 - #48 <
+INFO  22:11:04,950 - #42 3
+INFO  22:11:04,950 - #7 )
+INFO  22:11:04,950 - #9 return
+INFO  22:11:04,950 - #5 ;
+INFO  22:11:04,950 - #36 do
+INFO  22:11:04,950 - #3 {
+INFO  22:11:04,951 - #43 a
+INFO  22:11:04,951 - #27 [
+INFO  22:11:04,951 - #43 l
+INFO  22:11:04,951 - #25 ]
+INFO  22:11:04,951 - #8 =
+INFO  22:11:04,952 - #43 sum
+INFO  22:11:04,952 - #6 (
+INFO  22:11:04,952 - #43 a
+INFO  22:11:04,952 - #27 [
+INFO  22:11:04,952 - #43 l
+INFO  22:11:04,952 - #24 -
+INFO  22:11:04,952 - #42 1
+INFO  22:11:04,952 - #25 ]
+INFO  22:11:04,953 - #11 ,
+INFO  22:11:04,953 - #43 a
+INFO  22:11:04,953 - #27 [
+INFO  22:11:04,953 - #43 l
+INFO  22:11:04,953 - #24 -
+INFO  22:11:04,953 - #42 2
+INFO  22:11:04,953 - #25 ]
+INFO  22:11:04,953 - #7 )
+INFO  22:11:04,953 - #5 ;
+INFO  22:11:04,953 - #43 l
+INFO  22:11:04,953 - #33 ++
+INFO  22:11:04,953 - #5 ;
+INFO  22:11:04,953 - #4 }
+INFO  22:11:04,954 - #34 while
+INFO  22:11:04,954 - #6 (
+INFO  22:11:04,954 - #43 l
+INFO  22:11:04,954 - #48 <
+INFO  22:11:04,954 - #43 pom
+INFO  22:11:04,954 - #7 )
+INFO  22:11:04,954 - #5 ;
+INFO  22:11:04,954 - #4 }
+INFO  22:11:04,954 - #13 void
+INFO  22:11:04,954 - #43 main
+INFO  22:11:04,954 - #6 (
+INFO  22:11:04,954 - #7 )
+INFO  22:11:04,954 - #3 {
+INFO  22:11:04,954 - #43 niz
+INFO  22:11:04,955 - #8 =
+INFO  22:11:04,955 - #18 new
+INFO  22:11:04,955 - #43 int
+INFO  22:11:04,955 - #27 [
+INFO  22:11:04,955 - #42 7
+INFO  22:11:04,955 - #25 ]
+INFO  22:11:04,955 - #5 ;
+INFO  22:11:04,955 - #43 fibonaci
+INFO  22:11:04,955 - #6 (
+INFO  22:11:04,955 - #43 aa
+INFO  22:11:04,955 - #7 )
+INFO  22:11:04,955 - #5 ;
+INFO  22:11:04,955 - #43 i
+INFO  22:11:04,955 - #8 =
+INFO  22:11:04,956 - #42 0
+INFO  22:11:04,956 - #5 ;
+INFO  22:11:04,956 - #36 do
+INFO  22:11:04,956 - #3 {
+INFO  22:11:04,956 - #12 print
+INFO  22:11:04,956 - #6 (
+INFO  22:11:04,956 - #43 niz
+INFO  22:11:04,956 - #27 [
+INFO  22:11:04,956 - #43 i
+INFO  22:11:04,956 - #25 ]
+INFO  22:11:04,956 - #7 )
+INFO  22:11:04,956 - #5 ;
+INFO  22:11:04,956 - #43 i
+INFO  22:11:04,956 - #33 ++
+INFO  22:11:04,956 - #5 ;
+INFO  22:11:04,956 - #4 }
+INFO  22:11:04,956 - #34 while
+INFO  22:11:04,956 - #6 (
+INFO  22:11:04,956 - #43 i
+INFO  22:11:04,957 - #48 <
+INFO  22:11:04,957 - #43 len
+INFO  22:11:04,957 - #6 (
+INFO  22:11:04,957 - #43 niz
+INFO  22:11:04,957 - #7 )
+INFO  22:11:04,957 - #7 )
+INFO  22:11:04,957 - #5 ;
+INFO  22:11:04,957 - #12 print
+INFO  22:11:04,957 - #6 (
+INFO  22:11:04,957 - #43 eol
+INFO  22:11:04,957 - #7 )
+INFO  22:11:04,957 - #5 ;
+INFO  22:11:04,957 - #12 print
+INFO  22:11:04,957 - #6 (
+INFO  22:11:04,957 - #43 i
+INFO  22:11:04,957 - #7 )
+INFO  22:11:04,957 - #5 ;
+INFO  22:11:04,957 - #4 }
+INFO  22:11:04,957 - #4 }
+INFO  22:11:04,960 - ===================================
+INFO  22:11:04,970 - Pretraga na 16(z), nadjeno Var z: int, 0, 1  na liniji 16
+INFO  22:11:04,971 - Pretraga na 16(d), nadjeno Var d: int, 1, 1  na liniji 16
+INFO  22:11:04,971 - Pretraga na 22(pom), nadjeno Var pom: int, 0, 1  na liniji 22
+INFO  22:11:04,971 - Pretraga na 22(a), nadjeno Var a: Arr of int, 2, 1  na liniji 22
+INFO  22:11:04,971 - Pretraga na 24(pom), nadjeno Var pom: int, 0, 1  na liniji 24
+INFO  22:11:04,971 - Pretraga na 25(l), nadjeno Var l: int, 1, 1  na liniji 25
+INFO  22:11:04,971 - Pretraga na 26(a), nadjeno Var a: Arr of int, 2, 1  na liniji 26
+INFO  22:11:04,971 - Pretraga na 27(pom), nadjeno Var pom: int, 0, 1  na liniji 27
+INFO  22:11:04,971 - Pretraga na 28(a), nadjeno Var a: Arr of int, 2, 1  na liniji 28
+INFO  22:11:04,971 - Pretraga na 30(pom), nadjeno Var pom: int, 0, 1  na liniji 30
+INFO  22:11:04,971 - Pretraga na 34(l), nadjeno Var l: int, 1, 1  na liniji 34
+INFO  22:11:04,972 - Pretraga na 34(a), nadjeno Var a: Arr of int, 2, 1  na liniji 34
+INFO  22:11:04,972 - Pretraga na 34(l), nadjeno Var l: int, 1, 1  na liniji 34
+INFO  22:11:04,972 - Pretraga na 34(a), nadjeno Var a: Arr of int, 2, 1  na liniji 34
+INFO  22:11:04,972 - Pretraga na 34(l), nadjeno Var l: int, 1, 1  na liniji 34
+INFO  22:11:04,972 - Pretraga na 34(a), nadjeno Var a: Arr of int, 2, 1  na liniji 34
+INFO  22:11:04,972 - Pretraga na 35(l), nadjeno Var l: int, 1, 1  na liniji 35
+INFO  22:11:04,972 - Pretraga na 37(l), nadjeno Var l: int, 1, 1  na liniji 37
+INFO  22:11:04,972 - Pretraga na 37(pom), nadjeno Var pom: int, 0, 1  na liniji 37
+INFO  22:11:04,972 - Pretraga na 44(niz), nadjeno Var niz: Arr of int, 3, 0  na liniji 44
+ERROR 22:11:04,973 - Greska na 45(aa), nije nadjeno
+ERROR 22:11:04,973 - Greska na liniji 45 :  poziv funkcijefibonaci nema odgovarajuci broj formalnih parametara 
+INFO  22:11:04,973 - Pretraga na 46(i), nadjeno Var i: int, 0, 0  na liniji 46
+INFO  22:11:04,973 - Pretraga na 50(i), nadjeno Var i: int, 0, 0  na liniji 50
+INFO  22:11:04,974 - Pretraga na 50(niz), nadjeno Var niz: Arr of int, 3, 0  na liniji 50
+INFO  22:11:04,974 - Pretraga na 51(i), nadjeno Var i: int, 0, 0  na liniji 51
+INFO  22:11:04,974 - Pretraga na 53(i), nadjeno Var i: int, 0, 0  na liniji 53
+INFO  22:11:04,974 - Pretraga na 53(niz), nadjeno Var niz: Arr of int, 3, 0  na liniji 53
+INFO  22:11:04,974 - Pretraga na 55(eol), nadjeno Con eol: char, 10, 0  na liniji 55
+INFO  22:11:04,974 - Pretraga na 56(i), nadjeno Var i: int, 0, 0  na liniji 56
+INFO  22:11:04,974 - ===================================
+INFO  22:11:04,974 -  Print count calls = 3
+INFO  22:11:04,974 - ===================================
+INFO  22:11:04,974 - ===================================
+ERROR 22:11:04,974 - Parsiranje NIJE uspesno zavrseno!
+

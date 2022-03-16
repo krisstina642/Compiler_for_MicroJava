@@ -1,0 +1,161 @@
+codeSize=224
+dataSize=2
+mainPC=0
+0: enter 0 1
+3: const_0
+4: store_0
+5: load_0
+6: const_1
+7: add
+8: store_0
+9: load_0
+10: const_1
+11: add
+12: store_0
+13: load_0
+14: const_5
+15: mul
+16: store_0
+17: load_0
+18: const_1
+19: sub
+20: store_0
+21: load_0
+22: const_5
+23: print
+24: const_3
+25: newarray 1
+27: putstatic 0
+30: getstatic 0
+33: const_0
+34: const_1
+35: astore
+36: getstatic 0
+39: const_1
+40: const_2
+41: astore
+42: getstatic 0
+45: getstatic 0
+48: const_1
+49: aload
+50: getstatic 0
+53: getstatic 0
+56: const_0
+57: aload
+58: aload
+59: const_3
+60: mul
+61: astore
+62: getstatic 0
+65: const_2
+66: aload
+67: getstatic 0
+70: const_0
+71: aload
+72: div
+73: store_0
+74: load_0
+75: const_5
+76: print
+77: getstatic 0
+80: const_2
+81: dup2
+82: aload
+83: const_1
+84: sub
+85: astore
+86: getstatic 0
+89: const_2
+90: aload
+91: const_5
+92: print
+93: const_3
+94: newarray 0
+96: putstatic 1
+99: getstatic 1
+102: const_0
+103: const 97
+108: bastore
+109: getstatic 1
+112: const_1
+113: const 98
+118: bastore
+119: getstatic 1
+122: const_5
+123: const_3
+124: sub
+125: const 99
+130: bastore
+131: getstatic 1
+134: const_1
+135: baload
+136: const_1
+137: bprint
+138: getstatic 1
+141: const_1
+142: const_2
+143: mul
+144: baload
+145: const_1
+146: bprint
+147: load_0
+148: const_5
+149: const_1
+150: mul
+151: const_1
+152: sub
+153: load_0
+154: mul
+155: add
+156: const_3
+157: const_2
+158: const_3
+159: const_2
+160: div
+161: mul
+162: sub
+163: const_3
+164: const_2
+165: mul
+166: add
+167: const_3
+168: sub
+169: sub
+170: store_0
+171: load_0
+172: const_5
+173: print
+174: load_0
+175: const_2
+176: load_0
+177: const_2
+178: div
+179: mul
+180: sub
+181: const_0
+182: jne 7 (=189)
+185: const_1
+186: jmp 4 (=190)
+189: const_0
+190: const_0
+191: jeq 11 (=202)
+194: load_0
+195: const 10
+200: add
+201: store_0
+202: const_0
+203: const_0
+204: jeq 15 (=219)
+207: load_0
+208: const 20
+213: add
+214: const_5
+215: print
+216: jmp 6 (=222)
+219: load_0
+220: const_5
+221: print
+222: exit
+223: return
+    9    6    5bc   26   36
+Completion took 0 ms

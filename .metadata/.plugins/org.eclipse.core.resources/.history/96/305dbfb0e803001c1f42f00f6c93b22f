@@ -1,0 +1,28 @@
+// Test301
+
+program test301
+
+	const int nula = 0;
+	const int jedan = 1;
+	const int pet = 5;
+
+	int niz[];
+	char nizch[];
+	
+{
+	void main()	
+		int bodovi;
+	{
+	bodovi=8;
+		if (bodovi>6) 
+		
+			if (7>8) print('a');
+			
+		else if(1<3) print('b');
+		else print('c');
+		
+	 print(bodovi);
+	}
+}
+
+

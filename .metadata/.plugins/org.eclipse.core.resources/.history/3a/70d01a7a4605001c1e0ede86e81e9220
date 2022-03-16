@@ -1,0 +1,280 @@
+=====================SYMBOL TABLE DUMP=========================
+Type int: int, -1, -1 
+Type char: char, -1, -1 
+Con eol: char, 10, 0 
+Con null: Class [], 0, 0 
+Meth chr: char, 0, 1 
+   Var i: int, 0, 1 
+
+Meth ord: int, 0, 1 
+   Var ch: char, 0, 1 
+
+Meth len: int, 0, 1 
+   Var arr: Arr of notype, 0, 1 
+
+Prog test302: notype, 0, 1 
+   Con jedan: int, 1, 0 
+   Var i: int, 0, 0 
+   Var j: int, 1, 0 
+   Var ibool: , 2, 0 
+   Var niz: Arr of int, 3, 0 
+   Meth sum: int, 0, 2 
+      Var z: int, 0, 1 
+      Var d: int, 1, 1 
+
+   Meth inkrement: int, 0, 2 
+      Var a: int, 0, 1 
+      Var inc: int, 1, 1 
+      Var pom: int, 2, 1 
+
+   Meth verify: , 0, 0 
+
+   Meth main: notype, 0, 0 
+
+
+Type bool: , -1, -1 
+
+codeSize=428
+dataSize=4
+mainPC=72
+0: enter 2 2
+3: load_0
+4: load_1
+5: add
+6: exit
+7: return
+8: exit
+9: return
+10: enter 2 3
+13: load_1
+14: const_1
+15: jne 7 (=22)
+18: const_1
+19: jmp 4 (=23)
+22: const_0
+23: const_0
+24: jeq 8 (=32)
+27: const_1
+28: store_2
+29: jmp 19 (=48)
+32: load_1
+33: const_2
+34: jne 7 (=41)
+37: const_1
+38: jmp 4 (=42)
+41: const_0
+42: const_0
+43: jeq 5 (=48)
+46: load_0
+47: store_2
+48: load_0
+49: load_2
+50: call -50 (=0)
+53: exit
+54: return
+55: exit
+56: return
+57: enter 0 0
+60: const 118
+65: const_1
+66: bprint
+67: const_0
+68: exit
+69: return
+70: exit
+71: return
+72: enter 0 0
+75: const_1
+76: const_1
+77: jeq 7 (=84)
+80: const_1
+81: jmp 4 (=85)
+84: const_0
+85: const_0
+86: jeq 15 (=101)
+89: const 6
+94: const_m1
+95: mul
+96: const_5
+97: print
+98: jmp 6 (=104)
+101: const_0
+102: const_5
+103: print
+104: const_0
+105: putstatic 2
+108: const_0
+109: putstatic 0
+112: getstatic 0
+115: const_2
+116: jne 7 (=123)
+119: const_1
+120: jmp 4 (=124)
+123: const_0
+124: const_0
+125: jeq 7 (=132)
+128: const_1
+129: putstatic 2
+132: getstatic 0
+135: const_1
+136: add
+137: putstatic 0
+140: getstatic 0
+143: const_5
+144: jge 7 (=151)
+147: const_1
+148: jmp 4 (=152)
+151: const_0
+152: const_0
+153: jeq 6 (=159)
+156: jmp -44 (=112)
+159: getstatic 2
+162: const_0
+163: jeq 30 (=193)
+166: getstatic 0
+169: const_5
+170: jne 7 (=177)
+173: const_1
+174: jmp 4 (=178)
+177: const_0
+178: const_0
+179: jeq 9 (=188)
+182: const_1
+183: const_5
+184: print
+185: jmp 8 (=193)
+188: const_1
+189: const_m1
+190: mul
+191: const_5
+192: print
+193: const_3
+194: newarray 1
+196: putstatic 3
+199: getstatic 3
+202: const_0
+203: const_1
+204: astore
+205: getstatic 3
+208: const_1
+209: const_2
+210: astore
+211: getstatic 3
+214: const_2
+215: getstatic 3
+218: const_1
+219: aload
+220: getstatic 3
+223: const_0
+224: aload
+225: call -225 (=0)
+228: const_1
+229: add
+230: astore
+231: const 10
+236: const_1
+237: bprint
+238: const_0
+239: putstatic 0
+242: getstatic 0
+245: const_3
+246: jne 7 (=253)
+249: const_1
+250: jmp 4 (=254)
+253: const_0
+254: const_0
+255: jeq 14 (=269)
+258: getstatic 0
+261: const_1
+262: add
+263: putstatic 0
+266: jmp -24 (=242)
+269: getstatic 0
+272: const_4
+273: jne 7 (=280)
+276: const_1
+277: jmp 4 (=281)
+280: const_0
+281: const_0
+282: jeq 8 (=290)
+285: const_1
+286: const_1
+287: jeq 36 (=323)
+290: getstatic 0
+293: const_1
+294: call -284 (=10)
+297: putstatic 0
+300: getstatic 0
+303: const 10
+308: jge 7 (=315)
+311: const_1
+312: jmp 4 (=316)
+315: const_0
+316: const_0
+317: jeq 6 (=323)
+320: jmp -78 (=242)
+323: getstatic 0
+326: const_3
+327: jne 7 (=334)
+330: const_1
+331: jmp 4 (=335)
+334: const_0
+335: const_0
+336: jeq 14 (=350)
+339: call -282 (=57)
+342: const_0
+343: jeq 7 (=350)
+346: const_1
+347: jmp 4 (=351)
+350: const_0
+351: const_0
+352: jeq 11 (=363)
+355: const_4
+356: const_m1
+357: mul
+358: const_5
+359: print
+360: jmp 6 (=366)
+363: const_4
+364: const_5
+365: print
+366: const 10
+371: const_1
+372: bprint
+373: getstatic 3
+376: const_0
+377: aload
+378: getstatic 3
+381: const_1
+382: aload
+383: call -383 (=0)
+386: getstatic 3
+389: const_2
+390: aload
+391: call -391 (=0)
+394: const_5
+395: print
+396: const 10
+401: const_1
+402: bprint
+403: getstatic 3
+406: const_2
+407: aload
+408: const_2
+409: call -399 (=10)
+412: const_5
+413: print
+414: const 10
+419: const_1
+420: bprint
+421: getstatic 0
+424: const_5
+425: print
+426: exit
+427: return
+    0    1
+    4
+    7
+    8
+    4
+Completion took 1 ms

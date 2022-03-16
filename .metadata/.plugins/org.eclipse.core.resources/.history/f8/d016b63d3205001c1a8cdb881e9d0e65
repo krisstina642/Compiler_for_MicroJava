@@ -1,0 +1,85 @@
+INFO  07:01:54,212 - Compiling source file: C:\Users\Kristina\Desktop\prof\MJCompiler\test\program.mj
+INFO  07:01:54,243 - #2 program
+INFO  07:01:54,243 - #43 test301
+INFO  07:01:54,243 - #26 const
+INFO  07:01:54,243 - #43 int
+INFO  07:01:54,243 - #43 nula
+INFO  07:01:54,243 - #8 =
+INFO  07:01:54,243 - #42 0
+INFO  07:01:54,243 - #5 ;
+INFO  07:01:54,243 - #26 const
+INFO  07:01:54,243 - #43 int
+INFO  07:01:54,243 - #43 jedan
+INFO  07:01:54,243 - #8 =
+INFO  07:01:54,243 - #42 1
+INFO  07:01:54,243 - #5 ;
+INFO  07:01:54,243 - #26 const
+INFO  07:01:54,243 - #43 int
+INFO  07:01:54,243 - #43 pet
+INFO  07:01:54,243 - #8 =
+INFO  07:01:54,243 - #42 5
+INFO  07:01:54,243 - #5 ;
+INFO  07:01:54,243 - #43 int
+INFO  07:01:54,243 - #43 niz
+INFO  07:01:54,243 - #27 [
+INFO  07:01:54,243 - #25 ]
+INFO  07:01:54,243 - #5 ;
+INFO  07:01:54,243 - #43 char
+INFO  07:01:54,259 - #43 nizch
+INFO  07:01:54,259 - #27 [
+INFO  07:01:54,259 - #25 ]
+INFO  07:01:54,259 - #5 ;
+INFO  07:01:54,259 - #3 {
+INFO  07:01:54,259 - #13 void
+INFO  07:01:54,259 - #43 main
+INFO  07:01:54,259 - #6 (
+INFO  07:01:54,259 - #7 )
+INFO  07:01:54,259 - #43 int
+INFO  07:01:54,259 - #43 bodovi
+INFO  07:01:54,259 - #5 ;
+INFO  07:01:54,259 - #3 {
+INFO  07:01:54,259 - #43 bodovi
+INFO  07:01:54,259 - #8 =
+INFO  07:01:54,259 - #42 0
+INFO  07:01:54,259 - #5 ;
+INFO  07:01:54,259 - #43 bodovi
+INFO  07:01:54,259 - #33 ++
+INFO  07:01:54,259 - #5 ;
+INFO  07:01:54,259 - #43 bodovi
+INFO  07:01:54,259 - #8 =
+INFO  07:01:54,259 - #43 bodovi
+INFO  07:01:54,259 - #10 +
+INFO  07:01:54,259 - #43 jedan
+INFO  07:01:54,259 - #5 ;
+INFO  07:01:54,259 - #43 bodovi
+INFO  07:01:54,259 - #8 =
+INFO  07:01:54,259 - #43 bodovi
+INFO  07:01:54,259 - #29 *
+INFO  07:01:54,259 - #43 pet
+INFO  07:01:54,259 - #5 ;
+INFO  07:01:54,259 - #43 bodovi
+INFO  07:01:54,259 - #14 --
+INFO  07:01:54,259 - #5 ;
+INFO  07:01:54,259 - #12 print
+INFO  07:01:54,259 - #6 (
+INFO  07:01:54,259 - #43 bodovi
+INFO  07:01:54,259 - #7 )
+INFO  07:01:54,259 - #5 ;
+INFO  07:01:54,259 - #4 }
+INFO  07:01:54,259 - #4 }
+INFO  07:01:54,259 - ===================================
+INFO  07:01:54,259 - Pretraga na 16(bodovi), nadjeno Var bodovi: int, 0, 1 
+INFO  07:01:54,270 - Pretraga na 17(bodovi), nadjeno Var bodovi: int, 0, 1 
+INFO  07:01:54,270 - Pretraga na 18(bodovi), nadjeno Var bodovi: int, 0, 1 
+INFO  07:01:54,270 - Pretraga na 18(bodovi), nadjeno Var bodovi: int, 0, 1 
+INFO  07:01:54,270 - Pretraga na 18(jedan), nadjeno Con jedan: int, 1, 0 
+INFO  07:01:54,270 - Pretraga na 19(bodovi), nadjeno Var bodovi: int, 0, 1 
+INFO  07:01:54,270 - Pretraga na 19(bodovi), nadjeno Var bodovi: int, 0, 1 
+INFO  07:01:54,270 - Pretraga na 19(pet), nadjeno Con pet: int, 5, 0 
+INFO  07:01:54,270 - Pretraga na 20(bodovi), nadjeno Var bodovi: int, 0, 1 
+INFO  07:01:54,270 - Pretraga na 21(bodovi), nadjeno Var bodovi: int, 0, 1 
+INFO  07:01:54,270 -  Print count calls = 0
+INFO  07:01:54,270 -  Deklarisanih promenljivih ima = 3
+INFO  07:01:54,270 - ===================================
+INFO  07:01:54,270 - ===================================
+INFO  07:01:54,270 - Parsiranje uspesno zavrseno!

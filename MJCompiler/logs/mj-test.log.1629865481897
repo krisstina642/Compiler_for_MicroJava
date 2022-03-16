@@ -1,0 +1,299 @@
+INFO  06:24:21,297 - Compiling source file: C:\Users\Kristina\Desktop\prof\MJCompiler\test\test1.mj
+INFO  06:24:21,330 - #2 program
+INFO  06:24:21,330 - #43 test301
+INFO  06:24:21,330 - #26 const
+INFO  06:24:21,331 - #43 int
+INFO  06:24:21,331 - #43 nula
+INFO  06:24:21,331 - #8 =
+INFO  06:24:21,331 - #42 0
+INFO  06:24:21,331 - #5 ;
+INFO  06:24:21,331 - #26 const
+INFO  06:24:21,332 - #43 int
+INFO  06:24:21,332 - #43 jedan
+INFO  06:24:21,332 - #8 =
+INFO  06:24:21,332 - #42 1
+INFO  06:24:21,332 - #5 ;
+INFO  06:24:21,332 - #26 const
+INFO  06:24:21,332 - #43 int
+INFO  06:24:21,332 - #43 pet
+INFO  06:24:21,332 - #8 =
+INFO  06:24:21,332 - #42 5
+INFO  06:24:21,332 - #5 ;
+INFO  06:24:21,332 - #43 int
+INFO  06:24:21,332 - #43 niz
+INFO  06:24:21,333 - #27 [
+INFO  06:24:21,333 - #25 ]
+INFO  06:24:21,333 - #5 ;
+INFO  06:24:21,333 - #43 char
+INFO  06:24:21,334 - #43 nizch
+INFO  06:24:21,334 - #27 [
+INFO  06:24:21,334 - #25 ]
+INFO  06:24:21,334 - #5 ;
+INFO  06:24:21,334 - #3 {
+INFO  06:24:21,334 - #13 void
+INFO  06:24:21,334 - #43 main
+INFO  06:24:21,334 - #6 (
+INFO  06:24:21,334 - #7 )
+INFO  06:24:21,334 - #43 int
+INFO  06:24:21,334 - #43 bodovi
+INFO  06:24:21,334 - #5 ;
+INFO  06:24:21,335 - #3 {
+INFO  06:24:21,335 - #43 bodovi
+INFO  06:24:21,335 - #8 =
+INFO  06:24:21,336 - #42 0
+INFO  06:24:21,336 - #5 ;
+INFO  06:24:21,337 - #43 bodovi
+INFO  06:24:21,337 - #33 ++
+INFO  06:24:21,337 - #5 ;
+INFO  06:24:21,337 - #43 bodovi
+INFO  06:24:21,337 - #8 =
+INFO  06:24:21,337 - #43 bodovi
+INFO  06:24:21,337 - #10 +
+INFO  06:24:21,337 - #43 jedan
+INFO  06:24:21,338 - #5 ;
+INFO  06:24:21,338 - #43 bodovi
+INFO  06:24:21,338 - #8 =
+INFO  06:24:21,338 - #43 bodovi
+INFO  06:24:21,338 - #29 *
+INFO  06:24:21,338 - #43 pet
+INFO  06:24:21,339 - #5 ;
+INFO  06:24:21,339 - #43 bodovi
+INFO  06:24:21,339 - #14 --
+INFO  06:24:21,339 - #5 ;
+INFO  06:24:21,339 - #12 print
+INFO  06:24:21,339 - #6 (
+INFO  06:24:21,339 - #43 bodovi
+INFO  06:24:21,339 - #7 )
+INFO  06:24:21,339 - #5 ;
+INFO  06:24:21,339 - #43 niz
+INFO  06:24:21,339 - #8 =
+INFO  06:24:21,339 - #18 new
+INFO  06:24:21,339 - #43 int
+INFO  06:24:21,339 - #27 [
+INFO  06:24:21,339 - #42 3
+INFO  06:24:21,339 - #25 ]
+INFO  06:24:21,339 - #5 ;
+INFO  06:24:21,339 - #43 niz
+INFO  06:24:21,339 - #27 [
+INFO  06:24:21,339 - #43 nula
+INFO  06:24:21,340 - #25 ]
+INFO  06:24:21,340 - #8 =
+INFO  06:24:21,340 - #43 jedan
+INFO  06:24:21,340 - #5 ;
+INFO  06:24:21,340 - #43 niz
+INFO  06:24:21,340 - #27 [
+INFO  06:24:21,340 - #42 1
+INFO  06:24:21,340 - #25 ]
+INFO  06:24:21,340 - #8 =
+INFO  06:24:21,340 - #42 2
+INFO  06:24:21,340 - #5 ;
+INFO  06:24:21,341 - #43 niz
+INFO  06:24:21,341 - #27 [
+INFO  06:24:21,341 - #43 niz
+INFO  06:24:21,341 - #27 [
+INFO  06:24:21,341 - #43 jedan
+INFO  06:24:21,341 - #25 ]
+INFO  06:24:21,341 - #25 ]
+INFO  06:24:21,341 - #8 =
+INFO  06:24:21,341 - #43 niz
+INFO  06:24:21,341 - #27 [
+INFO  06:24:21,341 - #43 niz
+INFO  06:24:21,341 - #27 [
+INFO  06:24:21,341 - #42 0
+INFO  06:24:21,341 - #25 ]
+INFO  06:24:21,341 - #25 ]
+INFO  06:24:21,341 - #29 *
+INFO  06:24:21,341 - #42 3
+INFO  06:24:21,341 - #5 ;
+INFO  06:24:21,341 - #43 bodovi
+INFO  06:24:21,341 - #8 =
+INFO  06:24:21,341 - #43 niz
+INFO  06:24:21,341 - #27 [
+INFO  06:24:21,341 - #42 2
+INFO  06:24:21,341 - #25 ]
+INFO  06:24:21,341 - #21 /
+INFO  06:24:21,341 - #43 niz
+INFO  06:24:21,342 - #27 [
+INFO  06:24:21,342 - #42 0
+INFO  06:24:21,342 - #25 ]
+INFO  06:24:21,342 - #5 ;
+INFO  06:24:21,342 - #12 print
+INFO  06:24:21,342 - #6 (
+INFO  06:24:21,342 - #43 bodovi
+INFO  06:24:21,342 - #7 )
+INFO  06:24:21,342 - #5 ;
+INFO  06:24:21,342 - #12 print
+INFO  06:24:21,342 - #6 (
+INFO  06:24:21,342 - #43 niz
+INFO  06:24:21,342 - #27 [
+INFO  06:24:21,342 - #42 2
+INFO  06:24:21,342 - #25 ]
+INFO  06:24:21,342 - #33 ++
+ERROR 06:24:21,342 - Sintaksna greska na liniji: 30 poziciji: 14
+INFO  06:24:21,343 - #7 )
+INFO  06:24:21,343 - #5 ;
+INFO  06:24:21,343 - #43 nizch
+INFO  06:24:21,344 - #8 =
+INFO  06:24:21,344 - #18 new
+ERROR 06:24:21,344 - Neispravna dodela: Izvrsen oporavak do ; u liniji 30
+INFO  06:24:21,344 - #43 char
+INFO  06:24:21,344 - #27 [
+INFO  06:24:21,344 - #42 3
+INFO  06:24:21,344 - #25 ]
+INFO  06:24:21,344 - #5 ;
+INFO  06:24:21,344 - #43 nizch
+INFO  06:24:21,344 - #27 [
+INFO  06:24:21,344 - #42 0
+INFO  06:24:21,344 - #25 ]
+INFO  06:24:21,344 - #8 =
+INFO  06:24:21,344 - #50 a
+INFO  06:24:21,344 - #5 ;
+INFO  06:24:21,344 - #43 nizch
+INFO  06:24:21,345 - #27 [
+INFO  06:24:21,345 - #43 jedan
+INFO  06:24:21,345 - #25 ]
+INFO  06:24:21,345 - #8 =
+INFO  06:24:21,345 - #50 b
+INFO  06:24:21,345 - #5 ;
+INFO  06:24:21,345 - #43 nizch
+INFO  06:24:21,345 - #27 [
+INFO  06:24:21,345 - #43 pet
+INFO  06:24:21,345 - #24 -
+INFO  06:24:21,345 - #42 3
+INFO  06:24:21,345 - #25 ]
+INFO  06:24:21,345 - #8 =
+INFO  06:24:21,346 - #50 c
+INFO  06:24:21,346 - #5 ;
+INFO  06:24:21,346 - #12 print
+INFO  06:24:21,346 - #6 (
+INFO  06:24:21,346 - #43 nizch
+INFO  06:24:21,346 - #27 [
+INFO  06:24:21,346 - #42 1
+INFO  06:24:21,346 - #25 ]
+INFO  06:24:21,346 - #7 )
+INFO  06:24:21,346 - #5 ;
+INFO  06:24:21,346 - #12 print
+INFO  06:24:21,346 - #6 (
+INFO  06:24:21,346 - #43 nizch
+INFO  06:24:21,346 - #27 [
+INFO  06:24:21,346 - #43 jedan
+INFO  06:24:21,346 - #29 *
+INFO  06:24:21,346 - #42 2
+INFO  06:24:21,346 - #25 ]
+INFO  06:24:21,346 - #7 )
+INFO  06:24:21,346 - #5 ;
+INFO  06:24:21,346 - #43 bodovi
+INFO  06:24:21,346 - #8 =
+INFO  06:24:21,346 - #43 bodovi
+INFO  06:24:21,346 - #10 +
+INFO  06:24:21,346 - #6 (
+INFO  06:24:21,346 - #43 pet
+INFO  06:24:21,346 - #29 *
+INFO  06:24:21,346 - #43 jedan
+INFO  06:24:21,346 - #24 -
+INFO  06:24:21,346 - #42 1
+INFO  06:24:21,346 - #7 )
+INFO  06:24:21,346 - #29 *
+INFO  06:24:21,346 - #43 bodovi
+INFO  06:24:21,346 - #24 -
+INFO  06:24:21,346 - #6 (
+INFO  06:24:21,347 - #42 3
+INFO  06:24:21,347 - #22 %
+INFO  06:24:21,347 - #42 2
+INFO  06:24:21,347 - #10 +
+INFO  06:24:21,347 - #42 3
+INFO  06:24:21,347 - #29 *
+INFO  06:24:21,347 - #42 2
+INFO  06:24:21,347 - #24 -
+INFO  06:24:21,347 - #42 3
+INFO  06:24:21,347 - #7 )
+INFO  06:24:21,347 - #5 ;
+INFO  06:24:21,347 - #12 print
+INFO  06:24:21,347 - #6 (
+INFO  06:24:21,347 - #43 bodovi
+INFO  06:24:21,347 - #7 )
+INFO  06:24:21,347 - #5 ;
+INFO  06:24:21,347 - #51 if
+INFO  06:24:21,347 - #6 (
+INFO  06:24:21,347 - #43 bodovi
+INFO  06:24:21,347 - #22 %
+INFO  06:24:21,347 - #42 2
+INFO  06:24:21,347 - #44 ==
+INFO  06:24:21,347 - #42 0
+INFO  06:24:21,348 - #7 )
+INFO  06:24:21,348 - #43 bodovi
+INFO  06:24:21,348 - #8 =
+INFO  06:24:21,348 - #43 bodovi
+INFO  06:24:21,348 - #10 +
+INFO  06:24:21,348 - #42 10
+INFO  06:24:21,348 - #5 ;
+INFO  06:24:21,348 - #51 if
+INFO  06:24:21,348 - #6 (
+INFO  06:24:21,348 - #41 false
+INFO  06:24:21,348 - #7 )
+INFO  06:24:21,349 - #12 print
+INFO  06:24:21,349 - #6 (
+INFO  06:24:21,349 - #43 bodovi
+INFO  06:24:21,349 - #10 +
+INFO  06:24:21,349 - #42 20
+INFO  06:24:21,349 - #7 )
+INFO  06:24:21,349 - #5 ;
+INFO  06:24:21,349 - #52 else
+INFO  06:24:21,349 - #12 print
+INFO  06:24:21,349 - #6 (
+INFO  06:24:21,349 - #43 bodovi
+INFO  06:24:21,350 - #7 )
+INFO  06:24:21,350 - #5 ;
+INFO  06:24:21,350 - #4 }
+INFO  06:24:21,350 - #4 }
+INFO  06:24:21,350 - ===================================
+INFO  06:24:21,356 - Pretraga na 16(bodovi), nadjena upotreba lokalne promenljive Var bodovi: int, 0, 1 
+INFO  06:24:21,356 - Pretraga na 17(bodovi), nadjena upotreba lokalne promenljive Var bodovi: int, 0, 1 
+INFO  06:24:21,356 - Pretraga na 18(bodovi), nadjena upotreba lokalne promenljive Var bodovi: int, 0, 1 
+INFO  06:24:21,356 - Pretraga na 18(bodovi), nadjena upotreba lokalne promenljive Var bodovi: int, 0, 1 
+INFO  06:24:21,356 - Pretraga na 18(jedan), nadjena upotreba globalne promenljive Con jedan: int, 1, 0 
+INFO  06:24:21,356 - Pretraga na 19(bodovi), nadjena upotreba lokalne promenljive Var bodovi: int, 0, 1 
+INFO  06:24:21,356 - Pretraga na 19(bodovi), nadjena upotreba lokalne promenljive Var bodovi: int, 0, 1 
+INFO  06:24:21,357 - Pretraga na 19(pet), nadjena upotreba globalne promenljive Con pet: int, 5, 0 
+INFO  06:24:21,357 - Pretraga na 20(bodovi), nadjena upotreba lokalne promenljive Var bodovi: int, 0, 1 
+INFO  06:24:21,357 - Pretraga na 21(bodovi), nadjena upotreba lokalne promenljive Var bodovi: int, 0, 1 
+INFO  06:24:21,357 - Pretraga na 24(niz), nadjeno Var niz: Arr of int, 0, 0 
+INFO  06:24:21,357 - Pretraga na 25(nula), nadjena upotreba globalne promenljive Con nula: int, 0, 0 
+INFO  06:24:21,357 - Pretraga na 25(niz), nadjen pristup elementu niza Var niz: Arr of int, 0, 0 
+INFO  06:24:21,357 - Pretraga na 25(jedan), nadjena upotreba globalne promenljive Con jedan: int, 1, 0 
+INFO  06:24:21,357 - Pretraga na 26(niz), nadjen pristup elementu niza Var niz: Arr of int, 0, 0 
+INFO  06:24:21,357 - Pretraga na 27(jedan), nadjena upotreba globalne promenljive Con jedan: int, 1, 0 
+INFO  06:24:21,357 - Pretraga na 27(niz), nadjen pristup elementu niza Var niz: Arr of int, 0, 0 
+INFO  06:24:21,357 - Pretraga na 27(niz), nadjen pristup elementu niza Var niz: Arr of int, 0, 0 
+INFO  06:24:21,357 - Pretraga na 27(niz), nadjen pristup elementu niza Var niz: Arr of int, 0, 0 
+INFO  06:24:21,357 - Pretraga na 27(niz), nadjen pristup elementu niza Var niz: Arr of int, 0, 0 
+INFO  06:24:21,357 - Pretraga na 28(bodovi), nadjena upotreba lokalne promenljive Var bodovi: int, 0, 1 
+INFO  06:24:21,357 - Pretraga na 28(niz), nadjen pristup elementu niza Var niz: Arr of int, 0, 0 
+INFO  06:24:21,357 - Pretraga na 28(niz), nadjen pristup elementu niza Var niz: Arr of int, 0, 0 
+INFO  06:24:21,357 - Pretraga na 29(bodovi), nadjena upotreba lokalne promenljive Var bodovi: int, 0, 1 
+INFO  06:24:21,357 - Pretraga na 33(nizch), nadjeno Var nizch: Arr of char, 1, 0 
+INFO  06:24:21,357 - Pretraga na 34(nizch), nadjen pristup elementu niza Var nizch: Arr of char, 1, 0 
+INFO  06:24:21,357 - Pretraga na 35(jedan), nadjena upotreba globalne promenljive Con jedan: int, 1, 0 
+INFO  06:24:21,357 - Pretraga na 35(nizch), nadjen pristup elementu niza Var nizch: Arr of char, 1, 0 
+INFO  06:24:21,357 - Pretraga na 36(pet), nadjena upotreba globalne promenljive Con pet: int, 5, 0 
+INFO  06:24:21,357 - Pretraga na 36(nizch), nadjen pristup elementu niza Var nizch: Arr of char, 1, 0 
+INFO  06:24:21,358 - Pretraga na 37(nizch), nadjen pristup elementu niza Var nizch: Arr of char, 1, 0 
+INFO  06:24:21,358 - Pretraga na 38(jedan), nadjena upotreba globalne promenljive Con jedan: int, 1, 0 
+INFO  06:24:21,358 - Pretraga na 38(nizch), nadjen pristup elementu niza Var nizch: Arr of char, 1, 0 
+INFO  06:24:21,358 - Pretraga na 41(bodovi), nadjena upotreba lokalne promenljive Var bodovi: int, 0, 1 
+INFO  06:24:21,358 - Pretraga na 41(bodovi), nadjena upotreba lokalne promenljive Var bodovi: int, 0, 1 
+INFO  06:24:21,358 - Pretraga na 41(pet), nadjena upotreba globalne promenljive Con pet: int, 5, 0 
+INFO  06:24:21,358 - Pretraga na 41(jedan), nadjena upotreba globalne promenljive Con jedan: int, 1, 0 
+INFO  06:24:21,358 - Pretraga na 41(bodovi), nadjena upotreba lokalne promenljive Var bodovi: int, 0, 1 
+INFO  06:24:21,358 - Pretraga na 42(bodovi), nadjena upotreba lokalne promenljive Var bodovi: int, 0, 1 
+INFO  06:24:21,358 - Pretraga na 44(bodovi), nadjena upotreba lokalne promenljive Var bodovi: int, 0, 1 
+INFO  06:24:21,358 - Pretraga na 44(bodovi), nadjena upotreba lokalne promenljive Var bodovi: int, 0, 1 
+INFO  06:24:21,358 - Pretraga na 44(bodovi), nadjena upotreba lokalne promenljive Var bodovi: int, 0, 1 
+INFO  06:24:21,358 - Pretraga na 45(bodovi), nadjena upotreba lokalne promenljive Var bodovi: int, 0, 1 
+INFO  06:24:21,358 - Pretraga na 46(bodovi), nadjena upotreba lokalne promenljive Var bodovi: int, 0, 1 
+INFO  06:24:21,358 - ===================================
+INFO  06:24:21,358 -  Print count calls = 7
+INFO  06:24:21,358 - ===================================
+INFO  06:24:21,358 - ===================================
+ERROR 06:24:21,359 - Parsiranje NIJE uspesno zavrseno!
+

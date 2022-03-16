@@ -1,0 +1,82 @@
+//Test 302
+
+program test302
+
+const int jedan = 1;
+
+int i, j;
+bool ibool;
+
+int niz1[];
+int niz2[];
+int niz3[];
+
+{
+ //0 - 1 + 2skalar*niz 3niz*niz
+ 
+ 
+ 	
+	int printArr(int dest[])	
+		int i;
+			{	
+			i=0;
+			do
+			{
+				print(dest[i]);
+				i++;
+			}
+			while( i < len(dest));		
+			print(eol);
+			return(3);
+		}
+		
+	void main()
+	
+	{			
+		niz1 = new int[7];
+		niz2 = new int[7];
+		
+		i=0;	
+		do
+		{
+			niz1[i]= 2*i-2;
+			i++;
+		}
+		while( i < len(niz1));
+		
+		i=0;
+		
+		do
+		{
+			niz2[i]=i*3;
+			i++;
+		}
+		while( i < len(niz2));
+		
+		print('n');print('i');print('z');print('1');
+		printArr(niz2);
+		print('n');print('i');print('z');print('2');
+		printArr(niz1);	
+		i=0;
+		
+		niz3 = 4 "*" niz2;
+		print('s');print('c');print('a');print(':');
+		printArr(niz3);
+	
+		niz3 = niz2 + niz1;
+		print('a');print('d');print('d');print(':');
+		printArr(niz3);
+		
+		niz3 = niz2 - niz1;
+		print('s');print('u');print('b');print(':');
+		printArr(niz3);
+		
+		print('s');print('c');print('2');print(':');
+		i = niz1 "*" niz2;
+		
+		
+		print(i);
+		
+	}
+}
+

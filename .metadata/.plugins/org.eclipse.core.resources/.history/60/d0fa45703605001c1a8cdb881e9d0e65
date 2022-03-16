@@ -1,0 +1,122 @@
+INFO  21:46:34,666 - Compiling source file: C:\Users\Kristina\Desktop\prof\MJCompiler\test\program.mj
+INFO  21:46:34,723 - #2 program
+INFO  21:46:34,723 - #43 test302
+INFO  21:46:34,723 - #26 const
+INFO  21:46:34,724 - #43 int
+INFO  21:46:34,724 - #43 jedan
+INFO  21:46:34,725 - #8 =
+INFO  21:46:34,725 - #42 1
+INFO  21:46:34,725 - #5 ;
+INFO  21:46:34,725 - #43 int
+INFO  21:46:34,726 - #43 i
+INFO  21:46:34,726 - #11 ,
+INFO  21:46:34,727 - #43 j
+INFO  21:46:34,727 - #5 ;
+INFO  21:46:34,727 - #43 bool
+INFO  21:46:34,727 - #43 ibool
+INFO  21:46:34,727 - #5 ;
+INFO  21:46:34,727 - #43 int
+INFO  21:46:34,728 - #43 niz
+INFO  21:46:34,728 - #27 [
+INFO  21:46:34,728 - #25 ]
+INFO  21:46:34,728 - #5 ;
+INFO  21:46:34,728 - #3 {
+INFO  21:46:34,729 - #43 int
+INFO  21:46:34,729 - #43 sum
+INFO  21:46:34,729 - #6 (
+INFO  21:46:34,729 - #43 int
+INFO  21:46:34,729 - #43 z
+INFO  21:46:34,729 - #11 ,
+INFO  21:46:34,729 - #43 int
+INFO  21:46:34,730 - #43 d
+INFO  21:46:34,730 - #7 )
+INFO  21:46:34,730 - #3 {
+INFO  21:46:34,731 - #9 return
+INFO  21:46:34,731 - #43 z
+INFO  21:46:34,731 - #10 +
+INFO  21:46:34,732 - #43 d
+INFO  21:46:34,733 - #5 ;
+INFO  21:46:34,734 - #4 }
+INFO  21:46:34,734 - #43 int
+INFO  21:46:34,734 - #43 fibonaci
+INFO  21:46:34,734 - #6 (
+INFO  21:46:34,734 - #43 int
+INFO  21:46:34,734 - #43 n
+INFO  21:46:34,734 - #7 )
+INFO  21:46:34,734 - #43 int
+INFO  21:46:34,734 - #43 pom
+INFO  21:46:34,734 - #5 ;
+INFO  21:46:34,735 - #3 {
+INFO  21:46:34,735 - #51 if
+INFO  21:46:34,735 - #6 (
+INFO  21:46:34,735 - #43 n
+INFO  21:46:34,735 - #44 ==
+INFO  21:46:34,735 - #42 1
+INFO  21:46:34,735 - #7 )
+INFO  21:46:34,736 - #9 return
+INFO  21:46:34,736 - #42 0
+INFO  21:46:34,736 - #5 ;
+INFO  21:46:34,736 - #51 if
+INFO  21:46:34,736 - #6 (
+INFO  21:46:34,736 - #43 n
+INFO  21:46:34,736 - #44 ==
+INFO  21:46:34,736 - #42 2
+INFO  21:46:34,736 - #7 )
+INFO  21:46:34,736 - #9 return
+INFO  21:46:34,736 - #42 1
+INFO  21:46:34,737 - #5 ;
+INFO  21:46:34,737 - #43 pom
+INFO  21:46:34,737 - #8 =
+INFO  21:46:34,737 - #43 sum
+INFO  21:46:34,738 - #6 (
+INFO  21:46:34,738 - #43 fibonaci
+INFO  21:46:34,738 - #6 (
+INFO  21:46:34,738 - #43 n
+INFO  21:46:34,738 - #24 -
+INFO  21:46:34,739 - #42 2
+INFO  21:46:34,740 - #7 )
+INFO  21:46:34,740 - #11 ,
+INFO  21:46:34,740 - #43 fibonaci
+INFO  21:46:34,740 - #6 (
+INFO  21:46:34,740 - #43 n
+INFO  21:46:34,740 - #24 -
+INFO  21:46:34,740 - #42 1
+INFO  21:46:34,740 - #7 )
+INFO  21:46:34,740 - #7 )
+INFO  21:46:34,740 - #5 ;
+INFO  21:46:34,741 - #9 return
+INFO  21:46:34,741 - #43 pom
+INFO  21:46:34,741 - #5 ;
+INFO  21:46:34,741 - #4 }
+INFO  21:46:34,741 - #13 void
+INFO  21:46:34,741 - #43 main
+INFO  21:46:34,741 - #6 (
+INFO  21:46:34,741 - #7 )
+INFO  21:46:34,741 - #3 {
+INFO  21:46:34,742 - #12 print
+INFO  21:46:34,742 - #6 (
+INFO  21:46:34,742 - #43 fibonaci
+INFO  21:46:34,742 - #6 (
+INFO  21:46:34,743 - #42 30
+INFO  21:46:34,743 - #7 )
+INFO  21:46:34,743 - #7 )
+INFO  21:46:34,743 - #5 ;
+INFO  21:46:34,743 - #4 }
+INFO  21:46:34,743 - #4 }
+INFO  21:46:34,745 - ===================================
+INFO  21:46:34,755 - Pretraga na 14(z), nadjeno Var z: int, 0, 1  na liniji 14
+INFO  21:46:34,755 - Pretraga na 14(d), nadjeno Var d: int, 1, 1  na liniji 14
+INFO  21:46:34,755 - Pretraga na 22(n), nadjeno Var n: int, 0, 1  na liniji 22
+INFO  21:46:34,755 - Pretraga na 23(n), nadjeno Var n: int, 0, 1  na liniji 23
+INFO  21:46:34,755 - Pretraga na 24(pom), nadjeno Var pom: int, 1, 1  na liniji 24
+INFO  21:46:34,755 - Pretraga na 24(n), nadjeno Var n: int, 0, 1  na liniji 24
+ERROR 21:46:34,757 - Greska na liniji 24 :  poziv funkcije nema odgovarajuci broj formalnih parametara 
+INFO  21:46:34,757 - Pretraga na 24(n), nadjeno Var n: int, 0, 1  na liniji 24
+ERROR 21:46:34,757 - Greska na liniji 24 :  poziv funkcije nema odgovarajuci broj formalnih parametara 
+INFO  21:46:34,757 - Pretraga na 25(pom), nadjeno Var pom: int, 1, 1  na liniji 25
+INFO  21:46:34,757 - ===================================
+INFO  21:46:34,757 -  Print count calls = 1
+INFO  21:46:34,757 - ===================================
+INFO  21:46:34,758 - ===================================
+ERROR 21:46:34,758 - Parsiranje NIJE uspesno zavrseno!
+

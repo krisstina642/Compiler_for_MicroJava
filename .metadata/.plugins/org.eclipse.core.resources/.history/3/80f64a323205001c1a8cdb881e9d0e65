@@ -1,0 +1,97 @@
+INFO  03:12:22,766 - Compiling source file: C:\Users\Kristina\Desktop\prof\MJCompiler\test\program.mj
+INFO  03:12:22,813 - #2 program
+INFO  03:12:22,813 - #43 p
+INFO  03:12:22,822 - #26 const
+INFO  03:12:22,822 - #43 int
+INFO  03:12:22,822 - #43 k
+INFO  03:12:22,822 - #8 =
+INFO  03:12:22,822 - #42 5
+INFO  03:12:22,822 - #11 ,
+INFO  03:12:22,822 - #43 l
+INFO  03:12:22,822 - #8 =
+INFO  03:12:22,822 - #43 p
+ERROR 03:12:22,822 - Sintaksna greska na liniji: 3 poziciji: 19
+INFO  03:12:22,822 - #5 ;
+INFO  03:12:22,822 - #26 const
+INFO  03:12:22,822 - #43 char
+INFO  03:12:22,822 - #43 a
+ERROR 03:12:22,822 - Greska prilikom definisanja konstante, Izvrsen oporavak do ; u liniji 3
+INFO  03:12:22,822 - #8 =
+INFO  03:12:22,822 - #50 a
+INFO  03:12:22,822 - #5 ;
+INFO  03:12:22,822 - #43 int
+INFO  03:12:22,822 - #43 pos
+INFO  03:12:22,822 - #11 ,
+INFO  03:12:22,822 - #42 6
+ERROR 03:12:22,822 - Sintaksna greska na liniji: 5 poziciji: 11
+INFO  03:12:22,822 - #11 ,
+INFO  03:12:22,822 - #43 neg
+INFO  03:12:22,822 - #27 [
+INFO  03:12:22,822 - #25 ]
+ERROR 03:12:22,822 - Greska prilikom definisanja promenljive mid, Izvrsen oporavak do , u liniji 5 
+INFO  03:12:22,822 - #5 ;
+INFO  03:12:22,822 - #43 p
+INFO  03:12:22,822 - #8 =
+ERROR 03:12:22,822 - Sintaksna greska na liniji: 6 poziciji: 3
+INFO  03:12:22,822 - #43 f
+INFO  03:12:22,822 - #5 ;
+INFO  03:12:22,822 - #3 {
+INFO  03:12:22,822 - #13 void
+INFO  03:12:22,822 - #43 f
+ERROR 03:12:22,822 - Greska prilikom definisanja, Izvrsen oporavak do ; u liniji 6 poziciji2
+INFO  03:12:22,822 - #6 (
+INFO  03:12:22,822 - #43 char
+INFO  03:12:22,822 - #43 ch
+INFO  03:12:22,822 - #11 ,
+INFO  03:12:22,822 - #43 int
+INFO  03:12:22,822 - #43 a
+INFO  03:12:22,822 - #11 ,
+INFO  03:12:22,822 - #43 int
+INFO  03:12:22,822 - #43 arg
+INFO  03:12:22,822 - #7 )
+INFO  03:12:22,822 - #43 int
+INFO  03:12:22,822 - #43 x
+INFO  03:12:22,822 - #5 ;
+INFO  03:12:22,822 - #3 {
+INFO  03:12:22,822 - #43 pos
+INFO  03:12:22,822 - #8 =
+INFO  03:12:22,822 - #42 111111
+INFO  03:12:22,822 - #5 ;
+INFO  03:12:22,822 - #4 }
+INFO  03:12:22,822 - #13 void
+INFO  03:12:22,822 - #43 cr
+INFO  03:12:22,822 - #6 (
+INFO  03:12:22,822 - #42 6
+ERROR 03:12:22,822 - Sintaksna greska na liniji: 16 poziciji: 13
+INFO  03:12:22,822 - #11 ,
+INFO  03:12:22,838 - #43 int
+INFO  03:12:22,838 - #43 a
+INFO  03:12:22,838 - #11 ,
+ERROR 03:12:22,838 - Greska prilikom deklaracija formalnog parametra funkcije, Izvrsen oporavak do , u liniji 16
+INFO  03:12:22,838 - #43 int
+INFO  03:12:22,838 - #42 4
+ERROR 03:12:22,838 - Sintaksna greska na liniji: 16 poziciji: 28
+INFO  03:12:22,838 - #5 ;
+INFO  03:12:22,838 - #7 )
+INFO  03:12:22,838 - #43 int
+INFO  03:12:22,838 - #43 x
+INFO  03:12:22,838 - #5 ;
+ERROR 03:12:22,838 - Greska prilikom deklaracija formalnog parametra funkcije, Izvrsen oporavak do ) u liniji 16
+INFO  03:12:22,838 - #3 {
+INFO  03:12:22,838 - #43 x
+INFO  03:12:22,838 - #8 =
+INFO  03:12:22,838 - #43 arg
+INFO  03:12:22,838 - #5 ;
+INFO  03:12:22,838 - #4 }
+INFO  03:12:22,838 - #4 }
+INFO  03:12:22,838 - ===================================
+INFO  03:12:22,838 - Pretraga na 14(pos), nadjeno Var pos: int, 0, 0 
+INFO  03:12:22,838 - Pretraga na 19(x), nadjeno Var x: int, 1, 1 
+ERROR 03:12:22,838 - Greska na 19(arg), nije nadjeno
+ERROR 03:12:22,838 - Greska na 19 : neispravan izraz! 
+INFO  03:12:22,838 -  Print count calls = 0
+ERROR 03:12:22,838 - Nije definisana main funkcija
+INFO  03:12:22,838 -  Deklarisanih promenljivih ima = 4
+INFO  03:12:22,838 - ===================================
+INFO  03:12:22,838 - ===================================
+ERROR 03:12:22,838 - Parsiranje NIJE uspesno zavrseno!

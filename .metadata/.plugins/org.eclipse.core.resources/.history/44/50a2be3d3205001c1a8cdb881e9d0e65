@@ -1,0 +1,124 @@
+INFO  06:22:29,073 - Compiling source file: C:\Users\Kristina\Desktop\prof\MJCompiler\test\program.mj
+INFO  06:22:29,107 - #2 program
+INFO  06:22:29,107 - #43 p
+INFO  06:22:29,107 - #26 const
+INFO  06:22:29,108 - #43 int
+INFO  06:22:29,108 - #43 k
+INFO  06:22:29,109 - #8 =
+INFO  06:22:29,109 - #42 5
+INFO  06:22:29,109 - #5 ;
+INFO  06:22:29,109 - #26 const
+INFO  06:22:29,109 - #43 char
+INFO  06:22:29,109 - #43 a
+INFO  06:22:29,109 - #8 =
+INFO  06:22:29,109 - #50 a
+INFO  06:22:29,109 - #5 ;
+INFO  06:22:29,110 - #43 int
+INFO  06:22:29,110 - #43 pos
+INFO  06:22:29,110 - #11 ,
+INFO  06:22:29,110 - #43 neg
+INFO  06:22:29,110 - #27 [
+INFO  06:22:29,110 - #25 ]
+INFO  06:22:29,110 - #5 ;
+INFO  06:22:29,111 - #3 {
+INFO  06:22:29,111 - #13 void
+INFO  06:22:29,111 - #43 f
+INFO  06:22:29,111 - #6 (
+INFO  06:22:29,112 - #43 char
+INFO  06:22:29,112 - #43 ch
+INFO  06:22:29,112 - #11 ,
+INFO  06:22:29,112 - #43 int
+INFO  06:22:29,112 - #43 a
+INFO  06:22:29,112 - #11 ,
+INFO  06:22:29,112 - #43 int
+INFO  06:22:29,112 - #43 arg
+INFO  06:22:29,112 - #7 )
+INFO  06:22:29,112 - #43 int
+INFO  06:22:29,112 - #43 x
+INFO  06:22:29,112 - #5 ;
+INFO  06:22:29,112 - #3 {
+INFO  06:22:29,113 - #43 pos
+INFO  06:22:29,113 - #8 =
+INFO  06:22:29,114 - #42 111111
+INFO  06:22:29,114 - #5 ;
+INFO  06:22:29,114 - #4 }
+INFO  06:22:29,115 - #13 void
+INFO  06:22:29,115 - #43 main
+INFO  06:22:29,115 - #6 (
+INFO  06:22:29,115 - #7 )
+INFO  06:22:29,115 - #3 {
+INFO  06:22:29,115 - #43 neg
+INFO  06:22:29,115 - #8 =
+INFO  06:22:29,115 - #18 new
+INFO  06:22:29,115 - #43 int
+INFO  06:22:29,115 - #27 [
+INFO  06:22:29,115 - #42 3
+INFO  06:22:29,115 - #25 ]
+INFO  06:22:29,115 - #5 ;
+INFO  06:22:29,116 - #43 neg
+INFO  06:22:29,116 - #27 [
+INFO  06:22:29,116 - #42 2
+INFO  06:22:29,116 - #25 ]
+INFO  06:22:29,116 - #8 =
+INFO  06:22:29,116 - #43 neg
+INFO  06:22:29,116 - #27 [
+INFO  06:22:29,116 - #42 0
+INFO  06:22:29,116 - #25 ]
+INFO  06:22:29,116 - #10 +
+INFO  06:22:29,116 - #43 neg
+INFO  06:22:29,117 - #27 [
+INFO  06:22:29,117 - #42 1
+INFO  06:22:29,117 - #25 ]
+INFO  06:22:29,117 - #5 ;
+INFO  06:22:29,117 - #43 neg
+INFO  06:22:29,117 - #27 [
+INFO  06:22:29,117 - #42 1
+INFO  06:22:29,117 - #25 ]
+INFO  06:22:29,117 - #8 =
+INFO  06:22:29,117 - #43 neg
+INFO  06:22:29,117 - #27 [
+INFO  06:22:29,117 - #42 0
+INFO  06:22:29,117 - #25 ]
+INFO  06:22:29,117 - #5 ;
+INFO  06:22:29,117 - #12 print
+INFO  06:22:29,118 - #6 (
+INFO  06:22:29,118 - #43 neg
+INFO  06:22:29,118 - #27 [
+INFO  06:22:29,118 - #42 2
+INFO  06:22:29,118 - #25 ]
+INFO  06:22:29,118 - #7 )
+INFO  06:22:29,118 - #5 ;
+INFO  06:22:29,118 - #12 print
+INFO  06:22:29,118 - #6 (
+INFO  06:22:29,118 - #43 neg
+INFO  06:22:29,118 - #27 [
+INFO  06:22:29,118 - #42 0
+INFO  06:22:29,118 - #25 ]
+INFO  06:22:29,118 - #7 )
+INFO  06:22:29,118 - #5 ;
+INFO  06:22:29,118 - #12 print
+INFO  06:22:29,118 - #6 (
+INFO  06:22:29,118 - #43 neg
+INFO  06:22:29,118 - #27 [
+INFO  06:22:29,119 - #42 1
+INFO  06:22:29,119 - #25 ]
+INFO  06:22:29,119 - #7 )
+INFO  06:22:29,119 - #5 ;
+INFO  06:22:29,119 - #4 }
+INFO  06:22:29,119 - #4 }
+INFO  06:22:29,120 - ===================================
+INFO  06:22:29,125 - Pretraga na 14(pos), nadjeno Var pos: int, 0, 0 
+INFO  06:22:29,125 - Pretraga na 21(neg), nadjeno Var neg: Arr of int, 1, 0 
+INFO  06:22:29,125 - Pretraga na 22(neg), nadjeno Var neg: Arr of int, 1, 0 
+INFO  06:22:29,125 - Pretraga na 22(neg), nadjeno Var neg: Arr of int, 1, 0 
+INFO  06:22:29,125 - Pretraga na 22(neg), nadjeno Var neg: Arr of int, 1, 0 
+INFO  06:22:29,125 - Pretraga na 23(neg), nadjeno Var neg: Arr of int, 1, 0 
+INFO  06:22:29,125 - Pretraga na 23(neg), nadjeno Var neg: Arr of int, 1, 0 
+INFO  06:22:29,125 - Pretraga na 25(neg), nadjeno Var neg: Arr of int, 1, 0 
+INFO  06:22:29,125 - Pretraga na 26(neg), nadjeno Var neg: Arr of int, 1, 0 
+INFO  06:22:29,125 - Pretraga na 27(neg), nadjeno Var neg: Arr of int, 1, 0 
+INFO  06:22:29,125 -  Print count calls = 0
+INFO  06:22:29,125 -  Deklarisanih promenljivih ima = 3
+INFO  06:22:29,125 - ===================================
+INFO  06:22:29,125 - ===================================
+INFO  06:22:29,130 - Parsiranje uspesno zavrseno!

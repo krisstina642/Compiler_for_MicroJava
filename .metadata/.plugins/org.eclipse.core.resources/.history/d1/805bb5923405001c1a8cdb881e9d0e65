@@ -1,0 +1,20 @@
+INFO  07:01:14,948 - Compiling source file: C:\Users\Kristina\Desktop\prof\MJCompiler\test\program.mj
+INFO  07:01:14,979 - #2 program
+INFO  07:01:14,979 - #43 test304
+INFO  07:01:14,979 - #26 const
+INFO  07:01:14,980 - #43 int
+INFO  07:01:14,980 - #43 jedan
+INFO  07:01:14,980 - #8 =
+INFO  07:01:14,980 - #42 1
+INFO  07:01:14,980 - #5 ;
+INFO  07:01:14,980 - #43 int
+INFO  07:01:14,981 - #43 i
+INFO  07:01:14,981 - #11 ,
+INFO  07:01:14,981 - #43 j
+INFO  07:01:14,982 - #11 ,
+INFO  07:01:14,982 - #42 5
+ERROR 07:01:14,982 - Syntax error na liniji: 4 poziciji: 10
+INFO  07:01:14,982 - #5 ;
+INFO  07:01:14,982 - #43 bool
+INFO  07:01:14,982 - #43 ibool
+INFO  07:01:14,983 - #5 ;

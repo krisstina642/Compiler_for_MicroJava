@@ -1,0 +1,269 @@
+INFO  23:42:10,823 - Compiling source file: C:\Users\Kristina\Desktop\prof\MJCompiler\test\program.mj
+INFO  23:42:10,902 - #2 program
+INFO  23:42:10,902 - #43 Program
+INFO  23:42:10,902 - #37 class
+INFO  23:42:10,902 - #43 A
+INFO  23:42:10,902 - #3 {
+INFO  23:42:10,902 - #43 int
+INFO  23:42:10,902 - #43 x
+INFO  23:42:10,902 - #27 [
+INFO  23:42:10,902 - #25 ]
+INFO  23:42:10,902 - #11 ,
+INFO  23:42:10,902 - #43 y
+INFO  23:42:10,902 - #27 [
+INFO  23:42:10,902 - #25 ]
+INFO  23:42:10,902 - #5 ;
+INFO  23:42:10,902 - #4 }
+INFO  23:42:10,902 - #26 const
+INFO  23:42:10,902 - #43 int
+INFO  23:42:10,902 - #43 pi
+INFO  23:42:10,902 - #8 =
+INFO  23:42:10,902 - #42 3
+INFO  23:42:10,902 - #11 ,
+INFO  23:42:10,902 - #43 e
+INFO  23:42:10,902 - #8 =
+INFO  23:42:10,902 - #42 2
+INFO  23:42:10,902 - #5 ;
+INFO  23:42:10,902 - #37 class
+INFO  23:42:10,902 - #43 B
+INFO  23:42:10,902 - #17 extends
+INFO  23:42:10,902 - #43 A
+INFO  23:42:10,902 - #3 {
+INFO  23:42:10,902 - #43 int
+INFO  23:42:10,902 - #43 i
+INFO  23:42:10,902 - #5 ;
+INFO  23:42:10,902 - #3 {
+INFO  23:42:10,902 - #43 int
+INFO  23:42:10,902 - #43 getValue
+INFO  23:42:10,902 - #6 (
+INFO  23:42:10,902 - #43 int
+INFO  23:42:10,902 - #43 a
+INFO  23:42:10,902 - #7 )
+INFO  23:42:10,917 - #43 int
+INFO  23:42:10,917 - #43 b
+INFO  23:42:10,917 - #5 ;
+INFO  23:42:10,917 - #43 bool
+INFO  23:42:10,917 - #43 c
+INFO  23:42:10,917 - #5 ;
+INFO  23:42:10,917 - #3 {
+INFO  23:42:10,917 - #9 return
+INFO  23:42:10,917 - #43 this
+INFO  23:42:10,917 - #20 .
+INFO  23:42:10,917 - #43 i
+INFO  23:42:10,917 - #10 +
+INFO  23:42:10,917 - #43 this
+INFO  23:42:10,917 - #20 .
+INFO  23:42:10,917 - #43 x
+INFO  23:42:10,917 - #27 [
+ERROR 23:42:10,917 - Sintaksna greska na liniji: 7 poziciji: 58
+INFO  23:42:10,917 - #42 0
+INFO  23:42:10,917 - #25 ]
+INFO  23:42:10,917 - #10 +
+INFO  23:42:10,917 - #43 a
+INFO  23:42:10,917 - #5 ;
+INFO  23:42:10,917 - #4 }
+INFO  23:42:10,917 - #13 void
+INFO  23:42:10,917 - #43 m
+ERROR 23:42:10,917 - Neispravna dodela: Izvrsen oporavak do ; u liniji 7
+INFO  23:42:10,917 - #6 (
+INFO  23:42:10,917 - #7 )
+INFO  23:42:10,917 - #3 {
+INFO  23:42:10,917 - #4 }
+INFO  23:42:10,917 - #4 }
+INFO  23:42:10,917 - #4 }
+INFO  23:42:10,917 - #37 class
+INFO  23:42:10,917 - #43 C
+INFO  23:42:10,917 - #17 extends
+INFO  23:42:10,917 - #43 B
+INFO  23:42:10,917 - #3 {
+INFO  23:42:10,917 - #43 A
+INFO  23:42:10,917 - #43 theA
+INFO  23:42:10,917 - #5 ;
+INFO  23:42:10,917 - #43 int
+INFO  23:42:10,917 - #43 a
+INFO  23:42:10,917 - #5 ;
+INFO  23:42:10,917 - #4 }
+INFO  23:42:10,917 - #3 {
+INFO  23:42:10,917 - #13 void
+INFO  23:42:10,917 - #43 main
+INFO  23:42:10,917 - #6 (
+INFO  23:42:10,917 - #7 )
+INFO  23:42:10,917 - #43 A
+INFO  23:42:10,917 - #43 a
+INFO  23:42:10,917 - #5 ;
+INFO  23:42:10,917 - #43 C
+INFO  23:42:10,933 - #43 c
+INFO  23:42:10,933 - #5 ;
+INFO  23:42:10,933 - #43 int
+INFO  23:42:10,933 - #43 i
+INFO  23:42:10,933 - #5 ;
+INFO  23:42:10,933 - #43 int
+INFO  23:42:10,933 - #43 x
+INFO  23:42:10,933 - #27 [
+INFO  23:42:10,933 - #25 ]
+INFO  23:42:10,933 - #5 ;
+INFO  23:42:10,933 - #43 char
+INFO  23:42:10,933 - #43 ch
+INFO  23:42:10,933 - #5 ;
+INFO  23:42:10,933 - #3 {
+INFO  23:42:10,933 - #43 a
+INFO  23:42:10,933 - #8 =
+INFO  23:42:10,933 - #18 new
+INFO  23:42:10,933 - #43 A
+INFO  23:42:10,933 - #5 ;
+INFO  23:42:10,933 - #43 a
+INFO  23:42:10,933 - #20 .
+INFO  23:42:10,933 - #43 x
+INFO  23:42:10,933 - #8 =
+INFO  23:42:10,933 - #18 new
+INFO  23:42:10,933 - #43 int
+INFO  23:42:10,933 - #27 [
+INFO  23:42:10,933 - #42 5
+INFO  23:42:10,933 - #25 ]
+INFO  23:42:10,933 - #5 ;
+INFO  23:42:10,933 - #43 a
+INFO  23:42:10,933 - #20 .
+INFO  23:42:10,933 - #43 y
+INFO  23:42:10,933 - #8 =
+INFO  23:42:10,933 - #18 new
+INFO  23:42:10,933 - #43 int
+INFO  23:42:10,933 - #27 [
+INFO  23:42:10,933 - #42 5
+INFO  23:42:10,933 - #25 ]
+INFO  23:42:10,933 - #5 ;
+INFO  23:42:10,933 - #43 c
+INFO  23:42:10,933 - #8 =
+INFO  23:42:10,933 - #18 new
+INFO  23:42:10,933 - #43 C
+INFO  23:42:10,933 - #5 ;
+INFO  23:42:10,933 - #43 c
+INFO  23:42:10,933 - #20 .
+INFO  23:42:10,933 - #43 theA
+INFO  23:42:10,933 - #8 =
+INFO  23:42:10,933 - #43 a
+INFO  23:42:10,933 - #5 ;
+INFO  23:42:10,933 - #43 c
+INFO  23:42:10,933 - #20 .
+INFO  23:42:10,933 - #43 x
+INFO  23:42:10,933 - #8 =
+INFO  23:42:10,933 - #18 new
+INFO  23:42:10,933 - #43 int
+INFO  23:42:10,933 - #27 [
+INFO  23:42:10,933 - #42 5
+INFO  23:42:10,933 - #25 ]
+INFO  23:42:10,933 - #5 ;
+INFO  23:42:10,933 - #43 x
+INFO  23:42:10,933 - #8 =
+INFO  23:42:10,933 - #18 new
+INFO  23:42:10,933 - #43 int
+INFO  23:42:10,933 - #27 [
+INFO  23:42:10,933 - #42 3
+INFO  23:42:10,933 - #25 ]
+INFO  23:42:10,933 - #5 ;
+INFO  23:42:10,933 - #32 read
+INFO  23:42:10,933 - #6 (
+INFO  23:42:10,933 - #43 c
+INFO  23:42:10,933 - #20 .
+INFO  23:42:10,933 - #43 i
+INFO  23:42:10,933 - #7 )
+INFO  23:42:10,933 - #5 ;
+INFO  23:42:10,933 - #43 i
+INFO  23:42:10,933 - #8 =
+INFO  23:42:10,933 - #42 0
+INFO  23:42:10,933 - #5 ;
+INFO  23:42:10,933 - #36 do
+INFO  23:42:10,933 - #3 {
+INFO  23:42:10,933 - #32 read
+INFO  23:42:10,933 - #6 (
+INFO  23:42:10,933 - #43 c
+INFO  23:42:10,933 - #20 .
+INFO  23:42:10,933 - #43 x
+INFO  23:42:10,933 - #27 [
+ERROR 23:42:10,933 - Sintaksna greska na liniji: 22 poziciji: 8
+INFO  23:42:10,933 - #43 i
+INFO  23:42:10,933 - #25 ]
+INFO  23:42:10,933 - #7 )
+INFO  23:42:10,933 - #5 ;
+INFO  23:42:10,933 - #32 read
+INFO  23:42:10,933 - #6 (
+INFO  23:42:10,933 - #43 c
+ERROR 23:42:10,933 - Neispravna dodela: Izvrsen oporavak do ; u liniji 22
+INFO  23:42:10,933 - #20 .
+INFO  23:42:10,933 - #43 theA
+INFO  23:42:10,933 - #20 .
+ERROR 23:42:10,933 - Sintaksna greska na liniji: 22 poziciji: 25
+INFO  23:42:10,933 - #43 x
+INFO  23:42:10,933 - #27 [
+INFO  23:42:10,933 - #43 i
+INFO  23:42:10,933 - #25 ]
+INFO  23:42:10,933 - #7 )
+INFO  23:42:10,933 - #5 ;
+INFO  23:42:10,933 - #43 i
+INFO  23:42:10,933 - #33 ++
+INFO  23:42:10,933 - #5 ;
+ERROR 23:42:10,933 - Neispravna dodela: Izvrsen oporavak do ; u liniji 22
+INFO  23:42:10,933 - #4 }
+INFO  23:42:10,933 - #34 while
+INFO  23:42:10,933 - #6 (
+INFO  23:42:10,933 - #43 i
+INFO  23:42:10,933 - #48 <
+INFO  23:42:10,933 - #42 5
+INFO  23:42:10,933 - #7 )
+INFO  23:42:10,933 - #5 ;
+INFO  23:42:10,933 - #12 print
+INFO  23:42:10,933 - #6 (
+INFO  23:42:10,933 - #43 c
+INFO  23:42:10,933 - #20 .
+INFO  23:42:10,933 - #43 getValue
+INFO  23:42:10,933 - #6 (
+INFO  23:42:10,933 - #43 c
+INFO  23:42:10,933 - #20 .
+INFO  23:42:10,933 - #43 theA
+INFO  23:42:10,933 - #20 .
+ERROR 23:42:10,933 - Sintaksna greska na liniji: 25 poziciji: 23
+INFO  23:42:10,933 - #43 x
+INFO  23:42:10,933 - #27 [
+INFO  23:42:10,933 - #42 0
+INFO  23:42:10,933 - #25 ]
+INFO  23:42:10,933 - #7 )
+INFO  23:42:10,933 - #7 )
+INFO  23:42:10,933 - #5 ;
+INFO  23:42:10,933 - #43 c
+INFO  23:42:10,933 - #20 .
+INFO  23:42:10,933 - #43 m
+ERROR 23:42:10,933 - Neispravna dodela: Izvrsen oporavak do ; u liniji 25
+INFO  23:42:10,933 - #6 (
+INFO  23:42:10,933 - #7 )
+INFO  23:42:10,933 - #5 ;
+INFO  23:42:10,933 - #4 }
+INFO  23:42:10,933 - #4 }
+INFO  23:42:10,933 - ===================================
+INFO  23:42:10,948 - OTVORI KLASU
+INFO  23:42:10,948 - ZATVORI KLASU BEZ METODA
+INFO  23:42:10,948 - OTVORI KLASU
+ERROR 23:42:10,948 - Greska na 7(getValue) funkcija nema return iskaz!
+INFO  23:42:10,948 - ZATVORI KLASU
+INFO  23:42:10,948 - OTVORI KLASU
+INFO  23:42:10,948 - ZATVORI KLASU BEZ METODA
+INFO  23:42:10,948 - Pretraga na 14(a), nadjeno Var a: Class [], 0, 1  na liniji 14
+INFO  23:42:10,948 - Pretraga na 15(a), nadjeno Var a: Class [], 0, 1  na liniji 15
+ERROR 23:42:10,948 - Greska na 15 : nekompatibilni tipovi u dodeli vrednosti! 
+INFO  23:42:10,948 - Pretraga na 15(a), nadjeno Var a: Class [], 0, 1  na liniji 15
+ERROR 23:42:10,948 - Greska na 15 : nekompatibilni tipovi u dodeli vrednosti! 
+INFO  23:42:10,948 - Pretraga na 16(c), nadjeno Var c: Class [], 1, 1  na liniji 16
+INFO  23:42:10,948 - Pretraga na 17(c), nadjeno Var c: Class [], 1, 1  na liniji 17
+INFO  23:42:10,948 - Pretraga na 17(a), nadjeno Var a: Class [], 0, 1  na liniji 17
+INFO  23:42:10,948 - Pretraga na 17(c), nadjeno Var c: Class [], 1, 1  na liniji 17
+ERROR 23:42:10,948 - Greska na 17 : nekompatibilni tipovi u dodeli vrednosti! 
+INFO  23:42:10,948 - Pretraga na 18(x), nadjeno Var x: Arr of int, 3, 1  na liniji 18
+INFO  23:42:10,948 - Pretraga na 19(c), nadjeno Var c: Class [], 1, 1  na liniji 19
+INFO  23:42:10,948 - Pretraga na 20(i), nadjeno Var i: int, 2, 1  na liniji 20
+INFO  23:42:10,948 - Pretraga na 23(i), nadjeno Var i: int, 2, 1  na liniji 23
+INFO  23:42:10,948 - Pretraga na 24(i), nadjeno Var i: int, 2, 1  na liniji 24
+INFO  23:42:10,948 - Pretraga na 26(c), nadjeno Var c: Class [], 1, 1  na liniji 26
+INFO  23:42:10,948 - ===================================
+INFO  23:42:10,948 -  Print count calls = 0
+INFO  23:42:10,948 - ===================================
+INFO  23:42:10,948 - ===================================
+ERROR 23:42:10,948 - Parsiranje NIJE uspesno zavrseno!
+

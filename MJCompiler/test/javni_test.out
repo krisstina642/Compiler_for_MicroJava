@@ -1,0 +1,151 @@
+codeSize=222
+dataSize=2
+mainPC=0
+0: enter 0 2
+3: const_0
+4: store_0
+5: load_0
+6: const_1
+7: add
+8: store_0
+9: load_0
+10: const_1
+11: add
+12: store_0
+13: load_0
+14: const_5
+15: mul
+16: store_0
+17: load_0
+18: const_1
+19: sub
+20: store_0
+21: load_0
+22: const_5
+23: print
+24: const_3
+25: newarray 1
+27: putstatic 0
+30: getstatic 0
+33: const_0
+34: const_1
+35: astore
+36: getstatic 0
+39: const_1
+40: const_2
+41: astore
+42: getstatic 0
+45: getstatic 0
+48: const_1
+49: aload
+50: getstatic 0
+53: getstatic 0
+56: const_0
+57: aload
+58: aload
+59: const_3
+60: mul
+61: astore
+62: getstatic 0
+65: const_2
+66: aload
+67: getstatic 0
+70: const_0
+71: aload
+72: div
+73: store_0
+74: load_0
+75: const_5
+76: print
+77: getstatic 0
+80: const_2
+81: aload
+82: const_5
+83: print
+84: const_3
+85: newarray 0
+87: putstatic 1
+90: getstatic 1
+93: const_0
+94: const 97
+99: bastore
+100: getstatic 1
+103: const_1
+104: const 98
+109: bastore
+110: getstatic 1
+113: const_5
+114: const_3
+115: sub
+116: const 99
+121: bastore
+122: getstatic 1
+125: const_1
+126: baload
+127: const_1
+128: bprint
+129: getstatic 1
+132: const_1
+133: const_2
+134: mul
+135: baload
+136: const_1
+137: bprint
+138: load_0
+139: const_5
+140: const_1
+141: mul
+142: const_1
+143: sub
+144: load_0
+145: mul
+146: add
+147: const_3
+148: const_2
+149: rem
+150: const_3
+151: const_2
+152: mul
+153: add
+154: const_3
+155: sub
+156: sub
+157: store_0
+158: load_0
+159: const_5
+160: print
+161: read
+162: store_0
+163: const_0
+164: store_1
+165: load_1
+166: const_0
+167: jeq 9 (=176)
+170: load_0
+171: const_5
+172: print
+173: jmp 12 (=185)
+176: load_0
+177: const 10
+182: add
+183: const_5
+184: print
+185: load_0
+186: const 10
+191: jle 7 (=198)
+194: const_1
+195: jmp 4 (=199)
+198: const_0
+199: const_0
+200: jeq 13 (=213)
+203: const 43
+208: const_1
+209: bprint
+210: jmp 10 (=220)
+213: const 45
+218: const_1
+219: bprint
+220: exit
+221: return
+    9    6    6bc   26   11-
+Completion took 27803 ms

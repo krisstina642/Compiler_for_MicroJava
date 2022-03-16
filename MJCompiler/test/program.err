@@ -1,0 +1,4 @@
+[Line #2 ]  SEMANTIC_ERROR: Nije pronadjen tip float u tabeli simbola! 
+[Line #8 ]  SEMANTIC_ERROR: Greska u metodi saberi : return naredba treba da ima povratnu vrednost 
+[Line #11]  SEMANTIC_ERROR: Greska na 11(oduzmi) funkcija nema return iskaz!
+[Line #13]  SEMANTIC_ERROR: Greska na liniji 13 :  funkcija nema povratnu vrednost 

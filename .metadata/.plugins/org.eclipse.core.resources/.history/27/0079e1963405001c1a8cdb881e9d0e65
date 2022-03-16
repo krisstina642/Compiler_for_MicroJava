@@ -1,0 +1,116 @@
+INFO  09:57:56,464 - Compiling source file: C:\Users\Kristina\Desktop\prof\MJCompiler\test\program.mj
+INFO  09:57:56,497 - #2 program
+INFO  09:57:56,497 - #43 test301
+INFO  09:57:56,497 - #26 const
+INFO  09:57:56,498 - #43 int
+INFO  09:57:56,498 - #43 nula
+INFO  09:57:56,498 - #8 =
+INFO  09:57:56,498 - #42 0
+INFO  09:57:56,498 - #5 ;
+INFO  09:57:56,498 - #26 const
+INFO  09:57:56,499 - #43 int
+INFO  09:57:56,499 - #43 jedan
+INFO  09:57:56,499 - #8 =
+INFO  09:57:56,499 - #42 1
+INFO  09:57:56,499 - #5 ;
+INFO  09:57:56,499 - #26 const
+INFO  09:57:56,499 - #43 int
+INFO  09:57:56,499 - #43 pet
+INFO  09:57:56,499 - #8 =
+INFO  09:57:56,499 - #42 5
+INFO  09:57:56,499 - #5 ;
+INFO  09:57:56,499 - #43 int
+INFO  09:57:56,499 - #43 niz
+INFO  09:57:56,500 - #27 [
+INFO  09:57:56,500 - #25 ]
+INFO  09:57:56,500 - #5 ;
+INFO  09:57:56,500 - #43 char
+INFO  09:57:56,501 - #43 nizch
+INFO  09:57:56,501 - #27 [
+INFO  09:57:56,501 - #25 ]
+INFO  09:57:56,501 - #5 ;
+INFO  09:57:56,501 - #3 {
+INFO  09:57:56,501 - #13 void
+INFO  09:57:56,501 - #43 main
+INFO  09:57:56,501 - #6 (
+INFO  09:57:56,501 - #7 )
+INFO  09:57:56,501 - #43 int
+INFO  09:57:56,501 - #43 bodovi
+INFO  09:57:56,501 - #5 ;
+INFO  09:57:56,502 - #3 {
+INFO  09:57:56,502 - #43 bodovi
+INFO  09:57:56,502 - #8 =
+INFO  09:57:56,503 - #42 8
+INFO  09:57:56,503 - #5 ;
+INFO  09:57:56,504 - #51 if
+INFO  09:57:56,504 - #6 (
+INFO  09:57:56,504 - #43 bodovi
+INFO  09:57:56,504 - #46 >
+INFO  09:57:56,504 - #42 6
+INFO  09:57:56,504 - #7 )
+INFO  09:57:56,504 - #51 if
+INFO  09:57:56,504 - #6 (
+INFO  09:57:56,504 - #42 7
+INFO  09:57:56,504 - #46 >
+INFO  09:57:56,504 - #42 8
+INFO  09:57:56,504 - #7 )
+INFO  09:57:56,504 - #12 print
+INFO  09:57:56,504 - #6 (
+INFO  09:57:56,505 - #50 a
+INFO  09:57:56,505 - #7 )
+INFO  09:57:56,505 - #5 ;
+INFO  09:57:56,505 - #52 else
+INFO  09:57:56,505 - #51 if
+INFO  09:57:56,505 - #6 (
+INFO  09:57:56,505 - #42 9
+INFO  09:57:56,505 - #46 >
+INFO  09:57:56,505 - #42 8
+INFO  09:57:56,505 - #7 )
+INFO  09:57:56,505 - #12 print
+INFO  09:57:56,505 - #6 (
+INFO  09:57:56,506 - #50 e
+INFO  09:57:56,506 - #7 )
+INFO  09:57:56,506 - #5 ;
+INFO  09:57:56,506 - #52 else
+INFO  09:57:56,506 - #12 print
+INFO  09:57:56,506 - #6 (
+INFO  09:57:56,506 - #50 4
+INFO  09:57:56,506 - #7 )
+INFO  09:57:56,506 - #5 ;
+INFO  09:57:56,506 - #52 else
+ERROR 09:57:56,506 - Sintaksna greska na liniji: 23 poziciji: 2
+INFO  09:57:56,506 - #51 if
+INFO  09:57:56,507 - #6 (
+INFO  09:57:56,507 - #42 1
+INFO  09:57:56,507 - #48 <
+INFO  09:57:56,507 - #42 3
+INFO  09:57:56,507 - #7 )
+INFO  09:57:56,507 - #12 print
+INFO  09:57:56,507 - #6 (
+INFO  09:57:56,507 - #50 b
+INFO  09:57:56,507 - #7 )
+INFO  09:57:56,507 - #5 ;
+INFO  09:57:56,507 - #52 else
+INFO  09:57:56,507 - #12 print
+INFO  09:57:56,507 - #6 (
+INFO  09:57:56,507 - #50 c
+INFO  09:57:56,507 - #7 )
+INFO  09:57:56,507 - #5 ;
+INFO  09:57:56,507 - #12 print
+INFO  09:57:56,507 - #6 (
+INFO  09:57:56,507 - #43 bodovi
+ERROR 09:57:56,508 - Neispravna dodela: Izvrsen oporavak do ; u liniji 21
+INFO  09:57:56,508 - #7 )
+INFO  09:57:56,508 - #5 ;
+INFO  09:57:56,508 - #4 }
+INFO  09:57:56,508 - #4 }
+INFO  09:57:56,509 - ===================================
+INFO  09:57:56,514 - Pretraga na 16(bodovi), nadjeno Var bodovi: int, 0, 1  na liniji 16
+INFO  09:57:56,514 - Pretraga na 17(bodovi), nadjeno Var bodovi: int, 0, 1  na liniji 17
+INFO  09:57:56,514 - Pretraga na 26(bodovi), nadjeno Var bodovi: int, 0, 1  na liniji 26
+INFO  09:57:56,514 - ===================================
+INFO  09:57:56,514 -  Print count calls = 3
+INFO  09:57:56,514 - ===================================
+INFO  09:57:56,514 - ===================================
+ERROR 09:57:56,514 - Parsiranje NIJE uspesno zavrseno!
+

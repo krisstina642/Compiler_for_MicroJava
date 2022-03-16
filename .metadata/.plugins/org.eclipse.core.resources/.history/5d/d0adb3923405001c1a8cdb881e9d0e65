@@ -1,0 +1,20 @@
+INFO  06:51:32,986 - Compiling source file: C:\Users\Kristina\Desktop\prof\MJCompiler\test\program.mj
+INFO  06:51:33,020 - #2 program
+INFO  06:51:33,020 - #43 test304
+INFO  06:51:33,020 - #26 const
+INFO  06:51:33,020 - #43 int
+INFO  06:51:33,021 - #43 jedan
+INFO  06:51:33,021 - #8 =
+INFO  06:51:33,021 - #42 1
+INFO  06:51:33,021 - #5 ;
+INFO  06:51:33,021 - #43 int
+INFO  06:51:33,021 - #43 i
+INFO  06:51:33,022 - #11 ,
+INFO  06:51:33,022 - #43 j
+INFO  06:51:33,022 - #11 ,
+INFO  06:51:33,022 - #42 5
+ERROR 06:51:33,023 - Sintaksna greska na liniji: 4 poziciji: 10
+INFO  06:51:33,023 - #5 ;
+INFO  06:51:33,023 - #43 bool
+INFO  06:51:33,023 - #43 ibool
+INFO  06:51:33,023 - #5 ;

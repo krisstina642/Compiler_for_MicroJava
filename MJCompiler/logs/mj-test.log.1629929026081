@@ -1,0 +1,89 @@
+INFO  06:30:03,510 - Compiling source file: C:\Users\Kristina\Desktop\prof\MJCompiler\test\program.mj
+INFO  06:30:03,544 - #2 program
+INFO  06:30:03,545 - #43 Glavni
+INFO  06:30:03,545 - #43 float
+INFO  06:30:03,546 - #43 prom
+INFO  06:30:03,546 - #5 ;
+INFO  06:30:03,547 - #43 char
+INFO  06:30:03,547 - #43 niz
+INFO  06:30:03,547 - #27 [
+INFO  06:30:03,547 - #25 ]
+INFO  06:30:03,547 - #5 ;
+INFO  06:30:03,548 - #3 {
+INFO  06:30:03,548 - #43 int
+INFO  06:30:03,548 - #43 saberi
+INFO  06:30:03,548 - #6 (
+INFO  06:30:03,548 - #43 char
+INFO  06:30:03,548 - #43 a
+INFO  06:30:03,548 - #11 ,
+INFO  06:30:03,548 - #43 char
+INFO  06:30:03,548 - #43 b
+INFO  06:30:03,549 - #7 )
+INFO  06:30:03,549 - #3 {
+INFO  06:30:03,549 - #9 return
+INFO  06:30:03,550 - #5 ;
+INFO  06:30:03,550 - #4 }
+INFO  06:30:03,550 - #43 int
+INFO  06:30:03,551 - #43 oduzmi
+INFO  06:30:03,551 - #6 (
+INFO  06:30:03,551 - #7 )
+INFO  06:30:03,551 - #3 {
+INFO  06:30:03,551 - #4 }
+INFO  06:30:03,551 - #13 void
+INFO  06:30:03,551 - #43 nista
+INFO  06:30:03,551 - #6 (
+INFO  06:30:03,551 - #7 )
+INFO  06:30:03,551 - #3 {
+INFO  06:30:03,551 - #9 return
+INFO  06:30:03,552 - #42 5
+INFO  06:30:03,552 - #5 ;
+INFO  06:30:03,552 - #4 }
+INFO  06:30:03,552 - #13 void
+INFO  06:30:03,552 - #43 main
+INFO  06:30:03,552 - #6 (
+INFO  06:30:03,552 - #7 )
+INFO  06:30:03,552 - #43 int
+INFO  06:30:03,552 - #43 r
+INFO  06:30:03,552 - #5 ;
+INFO  06:30:03,552 - #3 {
+INFO  06:30:03,552 - #43 r
+INFO  06:30:03,552 - #8 =
+INFO  06:30:03,553 - #43 saberi
+INFO  06:30:03,554 - #6 (
+INFO  06:30:03,554 - #43 niz
+INFO  06:30:03,554 - #27 [
+INFO  06:30:03,554 - #42 0
+INFO  06:30:03,554 - #25 ]
+INFO  06:30:03,554 - #11 ,
+INFO  06:30:03,555 - #43 niz
+INFO  06:30:03,555 - #27 [
+INFO  06:30:03,555 - #42 1
+INFO  06:30:03,555 - #25 ]
+INFO  06:30:03,555 - #7 )
+INFO  06:30:03,555 - #5 ;
+INFO  06:30:03,555 - #12 print
+INFO  06:30:03,555 - #6 (
+INFO  06:30:03,555 - #43 prom
+INFO  06:30:03,555 - #7 )
+INFO  06:30:03,555 - #5 ;
+INFO  06:30:03,555 - #4 }
+INFO  06:30:03,555 - #4 }
+INFO  06:30:03,556 - ===================================
+ERROR 06:30:03,563 - Nije pronadjen tip float u tabeli simbola! 
+ERROR 06:30:03,563 - Greska u metodi saberi : return naredba treba da ima povratnu vrednost 
+ERROR 06:30:03,563 - Greska na 11(oduzmi) funkcija nema return iskaz!
+ERROR 06:30:03,563 - Greska na liniji 13 :  funkcija nema povratnu vrednost 
+INFO  06:30:03,563 - Pretraga na 18(r), nadjena upotreba lokalne promenljive Var r: int, 0, 1 
+INFO  06:30:03,563 - Pretraga na 18(niz), nadjen pristup elementu niza Var niz: Arr of char, 1, 0 
+INFO  06:30:03,563 - Pretraga na 18(niz), nadjen pristup elementu niza Var niz: Arr of char, 1, 0 
+INFO  06:30:03,563 - Pretraga na 18(saberi), nadjen poziv funkcije Meth saberi: int, 0, 2 
+   Var a: char, 0, 1 
+   Var b: char, 1, 1 
+
+INFO  06:30:03,563 - Pretraga na 19(prom), nadjena upotreba globalne promenljive Var prom: notype, 0, 0 
+INFO  06:30:03,563 - ===================================
+INFO  06:30:03,563 -  Print count calls = 1
+INFO  06:30:03,563 - ===================================
+INFO  06:30:03,564 - ===================================
+ERROR 06:30:03,564 - Parsiranje NIJE uspesno zavrseno!
+

@@ -1,0 +1,58 @@
+codeSize=83
+dataSize=4
+mainPC=68
+0: enter 2 2
+3: load_0
+4: load_1
+5: add
+6: exit
+7: return
+8: exit
+9: return
+10: enter 1 2
+13: load_0
+14: const_1
+15: jne 7 (=22)
+18: const_1
+19: jmp 4 (=23)
+22: const_0
+23: const_0
+24: jeq 6 (=30)
+27: const_0
+28: exit
+29: return
+30: load_0
+31: const_2
+32: jne 7 (=39)
+35: const_1
+36: jmp 4 (=40)
+39: const_0
+40: const_0
+41: jeq 6 (=47)
+44: const_1
+45: exit
+46: return
+47: load_0
+48: const_2
+49: sub
+50: call -40 (=10)
+53: load_0
+54: const_1
+55: sub
+56: call -46 (=10)
+59: call -59 (=0)
+62: store_1
+63: load_1
+64: exit
+65: return
+66: exit
+67: return
+68: enter 0 0
+71: const 30
+76: call -66 (=10)
+79: const_5
+80: print
+81: exit
+82: return
+514229
+Completion took 186 ms

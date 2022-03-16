@@ -1,0 +1,39 @@
+INFO  00:01:54,943 - Compiling source file: C:\Users\Kristina\Desktop\prof\MJCompiler\test\program.mj
+INFO  00:01:55,013 - #2 program
+INFO  00:01:55,014 - #43 Program
+INFO  00:01:55,014 - #43 int
+INFO  00:01:55,016 - #43 i
+INFO  00:01:55,017 - #5 ;
+INFO  00:01:55,018 - #3 {
+INFO  00:01:55,018 - #13 void
+INFO  00:01:55,018 - #43 main
+INFO  00:01:55,018 - #6 (
+INFO  00:01:55,018 - #7 )
+INFO  00:01:55,018 - #3 {
+INFO  00:01:55,020 - #43 int
+INFO  00:01:55,021 - #43 j
+ERROR 00:01:55,021 - Sintaksna greska na liniji: 9 poziciji: 6
+INFO  00:01:55,023 - #5 ;
+INFO  00:01:55,023 - #32 read
+INFO  00:01:55,024 - #6 (
+INFO  00:01:55,025 - #43 j
+ERROR 00:01:55,025 - Neispravna dodela: Izvrsen oporavak do ; u liniji 9
+INFO  00:01:55,026 - #7 )
+INFO  00:01:55,028 - #5 ;
+INFO  00:01:55,028 - #12 print
+INFO  00:01:55,028 - #6 (
+INFO  00:01:55,029 - #43 j
+INFO  00:01:55,029 - #7 )
+INFO  00:01:55,029 - #5 ;
+INFO  00:01:55,029 - #4 }
+INFO  00:01:55,029 - #4 }
+INFO  00:01:55,032 - ===================================
+ERROR 00:01:55,042 - Greska na 11(j), nije nadjeno
+ERROR 00:01:55,042 - Greska na 12(j), nije nadjeno
+ERROR 00:01:55,042 - Semanticka greska na liniji 12: Operand instrukcije PRINT mora biti char ili int tipa
+INFO  00:01:55,042 - ===================================
+INFO  00:01:55,042 -  Print count calls = 1
+INFO  00:01:55,042 - ===================================
+INFO  00:01:55,043 - ===================================
+ERROR 00:01:55,043 - Parsiranje NIJE uspesno zavrseno!
+

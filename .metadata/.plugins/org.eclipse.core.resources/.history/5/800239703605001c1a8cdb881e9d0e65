@@ -1,0 +1,229 @@
+INFO  22:10:37,948 - Compiling source file: C:\Users\Kristina\Desktop\prof\MJCompiler\test\program.mj
+INFO  22:10:38,018 - #2 program
+INFO  22:10:38,018 - #43 test302
+INFO  22:10:38,018 - #26 const
+INFO  22:10:38,019 - #43 int
+INFO  22:10:38,019 - #43 jedan
+INFO  22:10:38,020 - #8 =
+INFO  22:10:38,020 - #42 1
+INFO  22:10:38,020 - #5 ;
+INFO  22:10:38,020 - #43 int
+INFO  22:10:38,021 - #43 i
+INFO  22:10:38,021 - #11 ,
+INFO  22:10:38,022 - #43 j
+INFO  22:10:38,022 - #5 ;
+INFO  22:10:38,022 - #43 bool
+INFO  22:10:38,022 - #43 ibool
+INFO  22:10:38,023 - #5 ;
+INFO  22:10:38,023 - #43 int
+INFO  22:10:38,023 - #43 niz
+INFO  22:10:38,023 - #27 [
+INFO  22:10:38,023 - #25 ]
+INFO  22:10:38,023 - #5 ;
+INFO  22:10:38,024 - #3 {
+INFO  22:10:38,035 - #43 int
+INFO  22:10:38,035 - #43 sum
+INFO  22:10:38,035 - #6 (
+INFO  22:10:38,036 - #43 int
+INFO  22:10:38,036 - #43 z
+INFO  22:10:38,036 - #11 ,
+INFO  22:10:38,036 - #43 int
+INFO  22:10:38,036 - #43 d
+INFO  22:10:38,037 - #7 )
+INFO  22:10:38,037 - #3 {
+INFO  22:10:38,038 - #9 return
+INFO  22:10:38,039 - #43 z
+INFO  22:10:38,039 - #10 +
+INFO  22:10:38,040 - #43 d
+INFO  22:10:38,041 - #5 ;
+INFO  22:10:38,041 - #4 }
+INFO  22:10:38,041 - #13 void
+INFO  22:10:38,041 - #43 fibonaci
+INFO  22:10:38,041 - #6 (
+INFO  22:10:38,041 - #7 )
+INFO  22:10:38,042 - #43 int
+INFO  22:10:38,042 - #43 pom
+INFO  22:10:38,042 - #11 ,
+INFO  22:10:38,042 - #43 l
+INFO  22:10:38,042 - #5 ;
+INFO  22:10:38,042 - #3 {
+INFO  22:10:38,043 - #43 pom
+INFO  22:10:38,043 - #8 =
+INFO  22:10:38,043 - #43 len
+INFO  22:10:38,044 - #6 (
+INFO  22:10:38,044 - #43 a
+INFO  22:10:38,044 - #7 )
+INFO  22:10:38,044 - #5 ;
+INFO  22:10:38,044 - #51 if
+INFO  22:10:38,044 - #6 (
+INFO  22:10:38,044 - #43 pom
+INFO  22:10:38,044 - #48 <
+INFO  22:10:38,045 - #42 1
+INFO  22:10:38,045 - #7 )
+INFO  22:10:38,045 - #9 return
+INFO  22:10:38,045 - #5 ;
+INFO  22:10:38,045 - #43 l
+INFO  22:10:38,046 - #8 =
+INFO  22:10:38,046 - #42 2
+INFO  22:10:38,046 - #5 ;
+INFO  22:10:38,046 - #43 a
+INFO  22:10:38,046 - #27 [
+INFO  22:10:38,046 - #42 0
+INFO  22:10:38,048 - #25 ]
+INFO  22:10:38,048 - #8 =
+INFO  22:10:38,048 - #42 0
+INFO  22:10:38,048 - #5 ;
+INFO  22:10:38,049 - #51 if
+INFO  22:10:38,049 - #6 (
+INFO  22:10:38,049 - #43 pom
+INFO  22:10:38,049 - #48 <
+INFO  22:10:38,049 - #42 2
+INFO  22:10:38,049 - #7 )
+INFO  22:10:38,049 - #9 return
+INFO  22:10:38,049 - #5 ;
+INFO  22:10:38,049 - #43 a
+INFO  22:10:38,049 - #27 [
+INFO  22:10:38,049 - #42 1
+INFO  22:10:38,049 - #25 ]
+INFO  22:10:38,049 - #8 =
+INFO  22:10:38,049 - #42 1
+INFO  22:10:38,049 - #5 ;
+INFO  22:10:38,050 - #51 if
+INFO  22:10:38,050 - #6 (
+INFO  22:10:38,050 - #43 pom
+INFO  22:10:38,050 - #48 <
+INFO  22:10:38,050 - #42 3
+INFO  22:10:38,050 - #7 )
+INFO  22:10:38,050 - #9 return
+INFO  22:10:38,050 - #5 ;
+INFO  22:10:38,050 - #36 do
+INFO  22:10:38,050 - #3 {
+INFO  22:10:38,051 - #43 a
+INFO  22:10:38,051 - #27 [
+INFO  22:10:38,051 - #43 l
+INFO  22:10:38,051 - #25 ]
+INFO  22:10:38,051 - #8 =
+INFO  22:10:38,052 - #43 sum
+INFO  22:10:38,052 - #6 (
+INFO  22:10:38,052 - #43 a
+INFO  22:10:38,052 - #27 [
+INFO  22:10:38,052 - #43 l
+INFO  22:10:38,052 - #24 -
+INFO  22:10:38,052 - #42 1
+INFO  22:10:38,052 - #25 ]
+INFO  22:10:38,053 - #11 ,
+INFO  22:10:38,053 - #43 a
+INFO  22:10:38,053 - #27 [
+INFO  22:10:38,053 - #43 l
+INFO  22:10:38,053 - #24 -
+INFO  22:10:38,053 - #42 2
+INFO  22:10:38,053 - #25 ]
+INFO  22:10:38,053 - #7 )
+INFO  22:10:38,053 - #5 ;
+INFO  22:10:38,053 - #43 l
+INFO  22:10:38,053 - #33 ++
+INFO  22:10:38,053 - #5 ;
+INFO  22:10:38,053 - #4 }
+INFO  22:10:38,054 - #34 while
+INFO  22:10:38,054 - #6 (
+INFO  22:10:38,054 - #43 l
+INFO  22:10:38,054 - #48 <
+INFO  22:10:38,054 - #43 pom
+INFO  22:10:38,054 - #7 )
+INFO  22:10:38,054 - #5 ;
+INFO  22:10:38,054 - #4 }
+INFO  22:10:38,054 - #13 void
+INFO  22:10:38,054 - #43 main
+INFO  22:10:38,054 - #6 (
+INFO  22:10:38,054 - #7 )
+INFO  22:10:38,054 - #3 {
+INFO  22:10:38,054 - #43 niz
+INFO  22:10:38,055 - #8 =
+INFO  22:10:38,055 - #18 new
+INFO  22:10:38,055 - #43 int
+INFO  22:10:38,055 - #27 [
+INFO  22:10:38,055 - #42 7
+INFO  22:10:38,055 - #25 ]
+INFO  22:10:38,055 - #5 ;
+INFO  22:10:38,055 - #43 fibonaci
+INFO  22:10:38,055 - #6 (
+INFO  22:10:38,055 - #7 )
+INFO  22:10:38,055 - #5 ;
+INFO  22:10:38,055 - #43 i
+INFO  22:10:38,055 - #8 =
+INFO  22:10:38,055 - #42 0
+INFO  22:10:38,055 - #5 ;
+INFO  22:10:38,056 - #36 do
+INFO  22:10:38,056 - #3 {
+INFO  22:10:38,056 - #12 print
+INFO  22:10:38,056 - #6 (
+INFO  22:10:38,056 - #43 niz
+INFO  22:10:38,056 - #27 [
+INFO  22:10:38,056 - #43 i
+INFO  22:10:38,056 - #25 ]
+INFO  22:10:38,056 - #7 )
+INFO  22:10:38,056 - #5 ;
+INFO  22:10:38,056 - #43 i
+INFO  22:10:38,056 - #33 ++
+INFO  22:10:38,056 - #5 ;
+INFO  22:10:38,056 - #4 }
+INFO  22:10:38,056 - #34 while
+INFO  22:10:38,056 - #6 (
+INFO  22:10:38,056 - #43 i
+INFO  22:10:38,056 - #48 <
+INFO  22:10:38,056 - #43 len
+INFO  22:10:38,057 - #6 (
+INFO  22:10:38,057 - #43 niz
+INFO  22:10:38,057 - #7 )
+INFO  22:10:38,057 - #7 )
+INFO  22:10:38,057 - #5 ;
+INFO  22:10:38,057 - #12 print
+INFO  22:10:38,057 - #6 (
+INFO  22:10:38,057 - #43 eol
+INFO  22:10:38,057 - #7 )
+INFO  22:10:38,057 - #5 ;
+INFO  22:10:38,057 - #12 print
+INFO  22:10:38,057 - #6 (
+INFO  22:10:38,057 - #43 i
+INFO  22:10:38,057 - #7 )
+INFO  22:10:38,057 - #5 ;
+INFO  22:10:38,057 - #4 }
+INFO  22:10:38,057 - #4 }
+INFO  22:10:38,059 - ===================================
+INFO  22:10:38,069 - Pretraga na 16(z), nadjeno Var z: int, 0, 1  na liniji 16
+INFO  22:10:38,069 - Pretraga na 16(d), nadjeno Var d: int, 1, 1  na liniji 16
+INFO  22:10:38,069 - Pretraga na 22(pom), nadjeno Var pom: int, 0, 1  na liniji 22
+ERROR 22:10:38,071 - Greska na 22(a), nije nadjeno
+INFO  22:10:38,071 - Pretraga na 24(pom), nadjeno Var pom: int, 0, 1  na liniji 24
+INFO  22:10:38,071 - Pretraga na 25(l), nadjeno Var l: int, 1, 1  na liniji 25
+ERROR 22:10:38,071 - Greska na 26(a), nije nadjeno
+ERROR 22:10:38,071 - Greska na 26 : neispravan izraz! 
+INFO  22:10:38,071 - Pretraga na 27(pom), nadjeno Var pom: int, 0, 1  na liniji 27
+ERROR 22:10:38,071 - Greska na 28(a), nije nadjeno
+ERROR 22:10:38,071 - Greska na 28 : neispravan izraz! 
+INFO  22:10:38,071 - Pretraga na 30(pom), nadjeno Var pom: int, 0, 1  na liniji 30
+INFO  22:10:38,071 - Pretraga na 34(l), nadjeno Var l: int, 1, 1  na liniji 34
+ERROR 22:10:38,071 - Greska na 34(a), nije nadjeno
+INFO  22:10:38,071 - Pretraga na 34(l), nadjeno Var l: int, 1, 1  na liniji 34
+ERROR 22:10:38,071 - Greska na 34(a), nije nadjeno
+INFO  22:10:38,072 - Pretraga na 34(l), nadjeno Var l: int, 1, 1  na liniji 34
+ERROR 22:10:38,072 - Greska na 34(a), nije nadjeno
+ERROR 22:10:38,072 - Greska na 34 : neispravan izraz! 
+INFO  22:10:38,072 - Pretraga na 35(l), nadjeno Var l: int, 1, 1  na liniji 35
+INFO  22:10:38,072 - Pretraga na 37(l), nadjeno Var l: int, 1, 1  na liniji 37
+INFO  22:10:38,072 - Pretraga na 37(pom), nadjeno Var pom: int, 0, 1  na liniji 37
+INFO  22:10:38,072 - Pretraga na 44(niz), nadjeno Var niz: Arr of int, 3, 0  na liniji 44
+INFO  22:10:38,072 - Pretraga na 46(i), nadjeno Var i: int, 0, 0  na liniji 46
+INFO  22:10:38,072 - Pretraga na 50(i), nadjeno Var i: int, 0, 0  na liniji 50
+INFO  22:10:38,072 - Pretraga na 50(niz), nadjeno Var niz: Arr of int, 3, 0  na liniji 50
+INFO  22:10:38,072 - Pretraga na 51(i), nadjeno Var i: int, 0, 0  na liniji 51
+INFO  22:10:38,072 - Pretraga na 53(i), nadjeno Var i: int, 0, 0  na liniji 53
+INFO  22:10:38,072 - Pretraga na 53(niz), nadjeno Var niz: Arr of int, 3, 0  na liniji 53
+INFO  22:10:38,072 - Pretraga na 55(eol), nadjeno Con eol: char, 10, 0  na liniji 55
+INFO  22:10:38,072 - Pretraga na 56(i), nadjeno Var i: int, 0, 0  na liniji 56
+INFO  22:10:38,072 - ===================================
+INFO  22:10:38,073 -  Print count calls = 3
+INFO  22:10:38,073 - ===================================
+INFO  22:10:38,073 - ===================================
+ERROR 22:10:38,073 - Parsiranje NIJE uspesno zavrseno!
+

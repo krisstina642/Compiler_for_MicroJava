@@ -1,0 +1,68 @@
+INFO  03:12:46,992 - Compiling source file: C:\Users\Kristina\Desktop\prof\MJCompiler\test\program.mj
+INFO  03:12:47,060 - #2 program
+INFO  03:12:47,060 - #43 p
+INFO  03:12:47,060 - #26 const
+INFO  03:12:47,060 - #43 int
+INFO  03:12:47,060 - #43 k
+INFO  03:12:47,060 - #8 =
+INFO  03:12:47,060 - #42 5
+INFO  03:12:47,060 - #11 ,
+INFO  03:12:47,060 - #43 l
+INFO  03:12:47,060 - #8 =
+INFO  03:12:47,060 - #43 p
+ERROR 03:12:47,060 - Sintaksna greska na liniji: 3 poziciji: 19
+INFO  03:12:47,060 - #5 ;
+INFO  03:12:47,060 - #26 const
+INFO  03:12:47,060 - #43 char
+INFO  03:12:47,060 - #43 a
+ERROR 03:12:47,060 - Greska prilikom definisanja konstante, Izvrsen oporavak do ; u liniji 3
+INFO  03:12:47,060 - #8 =
+INFO  03:12:47,060 - #50 a
+INFO  03:12:47,060 - #5 ;
+INFO  03:12:47,060 - #43 int
+INFO  03:12:47,060 - #43 pos
+INFO  03:12:47,060 - #11 ,
+INFO  03:12:47,060 - #42 6
+ERROR 03:12:47,060 - Sintaksna greska na liniji: 5 poziciji: 11
+INFO  03:12:47,060 - #11 ,
+INFO  03:12:47,060 - #43 neg
+INFO  03:12:47,060 - #27 [
+INFO  03:12:47,060 - #25 ]
+ERROR 03:12:47,060 - Greska prilikom definisanja promenljive mid, Izvrsen oporavak do , u liniji 5 
+INFO  03:12:47,076 - #5 ;
+INFO  03:12:47,076 - #43 p
+INFO  03:12:47,076 - #8 =
+ERROR 03:12:47,076 - Sintaksna greska na liniji: 6 poziciji: 3
+INFO  03:12:47,076 - #43 f
+INFO  03:12:47,076 - #5 ;
+INFO  03:12:47,076 - #3 {
+INFO  03:12:47,076 - #13 void
+INFO  03:12:47,076 - #43 f
+ERROR 03:12:47,076 - Greska prilikom definisanja, Izvrsen oporavak do ; u liniji 6 poziciji2
+INFO  03:12:47,076 - #6 (
+INFO  03:12:47,076 - #43 char
+INFO  03:12:47,076 - #43 ch
+INFO  03:12:47,076 - #11 ,
+INFO  03:12:47,076 - #43 int
+INFO  03:12:47,076 - #43 a
+INFO  03:12:47,076 - #11 ,
+INFO  03:12:47,076 - #43 int
+INFO  03:12:47,076 - #43 arg
+INFO  03:12:47,076 - #7 )
+INFO  03:12:47,076 - #43 int
+INFO  03:12:47,076 - #43 x
+INFO  03:12:47,076 - #5 ;
+INFO  03:12:47,076 - #3 {
+INFO  03:12:47,076 - #43 pos
+INFO  03:12:47,076 - #8 =
+INFO  03:12:47,076 - #42 111111
+INFO  03:12:47,076 - #5 ;
+INFO  03:12:47,076 - #4 }
+INFO  03:12:47,076 - #13 void
+INFO  03:12:47,076 - #43 main
+INFO  03:12:47,076 - #6 (
+INFO  03:12:47,076 - #7 )
+INFO  03:12:47,076 - #3 {
+INFO  03:12:47,076 - #4 }
+ERROR 03:12:47,076 - Sintaksna greska na liniji: 22 poziciji: 2
+ERROR 03:12:47,076 - Fatalna greska, parsiranje se ne moze nastaviti na liniji: 22 poziciji: 2

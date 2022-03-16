@@ -1,0 +1,87 @@
+INFO  03:55:19,913 - Compiling source file: C:\Users\Kristina\Desktop\prof\MJCompiler\test\program.mj
+INFO  03:55:19,966 - #2 program
+INFO  03:55:19,966 - #43 p
+INFO  03:55:19,966 - #26 const
+INFO  03:55:19,966 - #43 int
+INFO  03:55:19,966 - #43 k
+INFO  03:55:19,966 - #8 =
+INFO  03:55:19,966 - #42 5
+INFO  03:55:19,966 - #5 ;
+INFO  03:55:19,966 - #26 const
+INFO  03:55:19,966 - #43 char
+INFO  03:55:19,966 - #43 a
+INFO  03:55:19,966 - #8 =
+INFO  03:55:19,966 - #50 a
+INFO  03:55:19,966 - #5 ;
+INFO  03:55:19,966 - #43 int
+INFO  03:55:19,966 - #43 pos
+INFO  03:55:19,966 - #11 ,
+INFO  03:55:19,966 - #43 neg
+INFO  03:55:19,966 - #27 [
+INFO  03:55:19,966 - #25 ]
+INFO  03:55:19,966 - #5 ;
+INFO  03:55:19,966 - #3 {
+INFO  03:55:19,984 - #13 void
+INFO  03:55:19,984 - #43 f
+INFO  03:55:19,984 - #6 (
+INFO  03:55:19,984 - #43 char
+INFO  03:55:19,984 - #43 ch
+INFO  03:55:19,984 - #11 ,
+INFO  03:55:19,984 - #43 int
+INFO  03:55:19,984 - #43 a
+INFO  03:55:19,984 - #11 ,
+INFO  03:55:19,984 - #43 int
+INFO  03:55:19,984 - #43 arg
+INFO  03:55:19,984 - #7 )
+INFO  03:55:19,984 - #43 int
+INFO  03:55:19,984 - #43 x
+INFO  03:55:19,984 - #5 ;
+INFO  03:55:19,984 - #3 {
+INFO  03:55:19,984 - #43 pos
+INFO  03:55:19,984 - #8 =
+INFO  03:55:19,984 - #42 111111
+INFO  03:55:19,984 - #5 ;
+INFO  03:55:20,000 - #4 }
+INFO  03:55:20,000 - #13 void
+INFO  03:55:20,000 - #43 main
+INFO  03:55:20,000 - #6 (
+INFO  03:55:20,000 - #7 )
+INFO  03:55:20,000 - #3 {
+INFO  03:55:20,002 - #43 neg
+INFO  03:55:20,002 - #8 =
+INFO  03:55:20,002 - #18 new
+INFO  03:55:20,002 - #43 int
+INFO  03:55:20,002 - #27 [
+INFO  03:55:20,002 - #42 3
+INFO  03:55:20,002 - #25 ]
+INFO  03:55:20,002 - #5 ;
+INFO  03:55:20,002 - #43 neg
+INFO  03:55:20,002 - #27 [
+INFO  03:55:20,002 - #42 2
+INFO  03:55:20,002 - #25 ]
+INFO  03:55:20,002 - #8 =
+INFO  03:55:20,002 - #42 4
+INFO  03:55:20,002 - #5 ;
+INFO  03:55:20,002 - #43 neg
+INFO  03:55:20,002 - #27 [
+INFO  03:55:20,002 - #42 1
+INFO  03:55:20,002 - #25 ]
+INFO  03:55:20,002 - #8 =
+INFO  03:55:20,002 - #43 neg
+INFO  03:55:20,002 - #27 [
+INFO  03:55:20,002 - #42 0
+INFO  03:55:20,002 - #25 ]
+INFO  03:55:20,002 - #5 ;
+INFO  03:55:20,002 - #4 }
+INFO  03:55:20,002 - #4 }
+INFO  03:55:20,006 - ===================================
+INFO  03:55:20,014 - Pretraga na 14(pos), nadjeno Var pos: int, 0, 0 
+INFO  03:55:20,014 - Pretraga na 21(neg), nadjeno Var neg: Arr of int, 1, 0 
+INFO  03:55:20,014 - Pretraga na 22(neg), nadjeno Var neg: Arr of int, 1, 0 
+INFO  03:55:20,014 - Pretraga na 23(neg), nadjeno Var neg: Arr of int, 1, 0 
+INFO  03:55:20,014 - Pretraga na 23(neg), nadjeno Var neg: Arr of int, 1, 0 
+INFO  03:55:20,014 -  Print count calls = 0
+INFO  03:55:20,014 -  Deklarisanih promenljivih ima = 3
+INFO  03:55:20,014 - ===================================
+INFO  03:55:20,014 - ===================================
+INFO  03:55:20,018 - Parsiranje uspesno zavrseno!

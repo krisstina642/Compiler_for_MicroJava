@@ -1,0 +1,72 @@
+INFO  03:42:51,307 - Compiling source file: C:\Users\Kristina\Desktop\prof\MJCompiler\test\program.mj
+INFO  03:42:51,363 - #2 program
+INFO  03:42:51,363 - #43 p
+INFO  03:42:51,363 - #26 const
+INFO  03:42:51,363 - #43 int
+INFO  03:42:51,363 - #43 k
+INFO  03:42:51,363 - #8 =
+INFO  03:42:51,363 - #42 5
+INFO  03:42:51,363 - #5 ;
+INFO  03:42:51,363 - #26 const
+INFO  03:42:51,363 - #43 char
+INFO  03:42:51,363 - #43 a
+INFO  03:42:51,363 - #8 =
+INFO  03:42:51,363 - #50 a
+INFO  03:42:51,363 - #5 ;
+INFO  03:42:51,363 - #43 int
+INFO  03:42:51,363 - #43 pos
+INFO  03:42:51,363 - #11 ,
+INFO  03:42:51,371 - #43 neg
+INFO  03:42:51,371 - #27 [
+INFO  03:42:51,371 - #25 ]
+INFO  03:42:51,371 - #5 ;
+INFO  03:42:51,372 - #3 {
+INFO  03:42:51,382 - #13 void
+INFO  03:42:51,382 - #43 f
+INFO  03:42:51,382 - #6 (
+INFO  03:42:51,382 - #43 char
+INFO  03:42:51,382 - #43 ch
+INFO  03:42:51,382 - #11 ,
+INFO  03:42:51,382 - #43 int
+INFO  03:42:51,382 - #43 a
+INFO  03:42:51,382 - #11 ,
+INFO  03:42:51,382 - #43 int
+INFO  03:42:51,382 - #43 arg
+INFO  03:42:51,382 - #7 )
+INFO  03:42:51,382 - #43 int
+INFO  03:42:51,382 - #43 x
+INFO  03:42:51,382 - #5 ;
+INFO  03:42:51,382 - #3 {
+INFO  03:42:51,382 - #43 pos
+INFO  03:42:51,382 - #8 =
+INFO  03:42:51,382 - #42 111111
+INFO  03:42:51,382 - #5 ;
+INFO  03:42:51,382 - #4 }
+INFO  03:42:51,390 - #13 void
+INFO  03:42:51,390 - #43 main
+INFO  03:42:51,390 - #6 (
+INFO  03:42:51,390 - #7 )
+INFO  03:42:51,390 - #3 {
+INFO  03:42:51,390 - #43 pos
+INFO  03:42:51,390 - #8 =
+INFO  03:42:51,390 - #24 -
+INFO  03:42:51,390 - #42 3
+INFO  03:42:51,390 - #29 *
+INFO  03:42:51,390 - #42 2
+INFO  03:42:51,390 - #5 ;
+INFO  03:42:51,390 - #12 print
+INFO  03:42:51,390 - #6 (
+INFO  03:42:51,390 - #43 pos
+INFO  03:42:51,390 - #7 )
+INFO  03:42:51,390 - #5 ;
+INFO  03:42:51,390 - #4 }
+INFO  03:42:51,390 - #4 }
+INFO  03:42:51,390 - ===================================
+INFO  03:42:51,403 - Pretraga na 14(pos), nadjeno Var pos: int, 0, 0 
+INFO  03:42:51,403 - Pretraga na 21(pos), nadjeno Var pos: int, 0, 0 
+INFO  03:42:51,403 - Pretraga na 22(pos), nadjeno Var pos: int, 0, 0 
+INFO  03:42:51,403 -  Print count calls = 0
+INFO  03:42:51,403 -  Deklarisanih promenljivih ima = 3
+INFO  03:42:51,407 - ===================================
+INFO  03:42:51,407 - ===================================
+INFO  03:42:51,411 - Parsiranje uspesno zavrseno!

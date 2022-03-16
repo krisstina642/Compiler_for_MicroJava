@@ -1,0 +1,74 @@
+INFO  03:13:00,818 - Compiling source file: C:\Users\Kristina\Desktop\prof\MJCompiler\test\program.mj
+INFO  03:13:00,871 - #2 program
+INFO  03:13:00,871 - #43 p
+INFO  03:13:00,871 - #26 const
+INFO  03:13:00,886 - #43 int
+INFO  03:13:00,886 - #43 k
+INFO  03:13:00,886 - #8 =
+INFO  03:13:00,886 - #42 5
+INFO  03:13:00,886 - #11 ,
+INFO  03:13:00,886 - #43 l
+INFO  03:13:00,886 - #8 =
+INFO  03:13:00,886 - #43 p
+ERROR 03:13:00,886 - Sintaksna greska na liniji: 3 poziciji: 19
+INFO  03:13:00,886 - #5 ;
+INFO  03:13:00,886 - #26 const
+INFO  03:13:00,886 - #43 char
+INFO  03:13:00,886 - #43 a
+ERROR 03:13:00,886 - Greska prilikom definisanja konstante, Izvrsen oporavak do ; u liniji 3
+INFO  03:13:00,886 - #8 =
+INFO  03:13:00,886 - #50 a
+INFO  03:13:00,894 - #5 ;
+INFO  03:13:00,894 - #43 int
+INFO  03:13:00,894 - #43 pos
+INFO  03:13:00,894 - #11 ,
+INFO  03:13:00,894 - #42 6
+ERROR 03:13:00,894 - Sintaksna greska na liniji: 5 poziciji: 11
+INFO  03:13:00,894 - #11 ,
+INFO  03:13:00,894 - #43 neg
+INFO  03:13:00,894 - #27 [
+INFO  03:13:00,894 - #25 ]
+ERROR 03:13:00,894 - Greska prilikom definisanja promenljive mid, Izvrsen oporavak do , u liniji 5 
+INFO  03:13:00,894 - #5 ;
+INFO  03:13:00,894 - #43 p
+INFO  03:13:00,894 - #8 =
+ERROR 03:13:00,894 - Sintaksna greska na liniji: 6 poziciji: 3
+INFO  03:13:00,894 - #43 f
+INFO  03:13:00,894 - #5 ;
+INFO  03:13:00,894 - #3 {
+INFO  03:13:00,894 - #13 void
+INFO  03:13:00,894 - #43 f
+ERROR 03:13:00,894 - Greska prilikom definisanja, Izvrsen oporavak do ; u liniji 6 poziciji2
+INFO  03:13:00,894 - #6 (
+INFO  03:13:00,894 - #43 char
+INFO  03:13:00,894 - #43 ch
+INFO  03:13:00,894 - #11 ,
+INFO  03:13:00,894 - #43 int
+INFO  03:13:00,894 - #43 a
+INFO  03:13:00,894 - #11 ,
+INFO  03:13:00,894 - #43 int
+INFO  03:13:00,894 - #43 arg
+INFO  03:13:00,894 - #7 )
+INFO  03:13:00,894 - #43 int
+INFO  03:13:00,894 - #43 x
+INFO  03:13:00,894 - #5 ;
+INFO  03:13:00,894 - #3 {
+INFO  03:13:00,894 - #43 pos
+INFO  03:13:00,910 - #8 =
+INFO  03:13:00,910 - #42 111111
+INFO  03:13:00,910 - #5 ;
+INFO  03:13:00,910 - #4 }
+INFO  03:13:00,910 - #13 void
+INFO  03:13:00,910 - #43 main
+INFO  03:13:00,910 - #6 (
+INFO  03:13:00,910 - #7 )
+INFO  03:13:00,910 - #3 {
+INFO  03:13:00,910 - #4 }
+INFO  03:13:00,910 - #4 }
+INFO  03:13:00,910 - ===================================
+INFO  03:13:00,910 - Pretraga na 14(pos), nadjeno Var pos: int, 0, 0 
+INFO  03:13:00,926 -  Print count calls = 0
+INFO  03:13:00,926 -  Deklarisanih promenljivih ima = 3
+INFO  03:13:00,926 - ===================================
+INFO  03:13:00,926 - ===================================
+ERROR 03:13:00,926 - Parsiranje NIJE uspesno zavrseno!

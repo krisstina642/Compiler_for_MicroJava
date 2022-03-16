@@ -1,0 +1,132 @@
+INFO  06:56:50,013 - Compiling source file: C:\Users\Kristina\Desktop\prof\MJCompiler\test\program.mj
+INFO  06:56:50,044 - #2 program
+INFO  06:56:50,044 - #43 p
+INFO  06:56:50,044 - #26 const
+INFO  06:56:50,044 - #43 int
+INFO  06:56:50,044 - #43 k
+INFO  06:56:50,044 - #8 =
+INFO  06:56:50,044 - #42 5
+INFO  06:56:50,044 - #5 ;
+INFO  06:56:50,044 - #26 const
+INFO  06:56:50,044 - #43 char
+INFO  06:56:50,044 - #43 a
+INFO  06:56:50,044 - #8 =
+INFO  06:56:50,044 - #50 a
+INFO  06:56:50,044 - #5 ;
+INFO  06:56:50,044 - #43 int
+INFO  06:56:50,044 - #43 pos
+INFO  06:56:50,044 - #11 ,
+INFO  06:56:50,044 - #43 neg
+INFO  06:56:50,044 - #27 [
+INFO  06:56:50,044 - #25 ]
+INFO  06:56:50,044 - #5 ;
+INFO  06:56:50,044 - #3 {
+INFO  06:56:50,044 - #13 void
+INFO  06:56:50,044 - #43 f
+INFO  06:56:50,044 - #6 (
+INFO  06:56:50,044 - #43 char
+INFO  06:56:50,044 - #43 ch
+INFO  06:56:50,044 - #11 ,
+INFO  06:56:50,044 - #43 int
+INFO  06:56:50,044 - #43 a
+INFO  06:56:50,044 - #11 ,
+INFO  06:56:50,044 - #43 int
+INFO  06:56:50,044 - #43 arg
+INFO  06:56:50,044 - #7 )
+INFO  06:56:50,044 - #43 int
+INFO  06:56:50,044 - #43 x
+INFO  06:56:50,044 - #5 ;
+INFO  06:56:50,044 - #3 {
+INFO  06:56:50,044 - #43 pos
+INFO  06:56:50,044 - #8 =
+INFO  06:56:50,044 - #42 111111
+INFO  06:56:50,044 - #5 ;
+INFO  06:56:50,044 - #4 }
+INFO  06:56:50,044 - #13 void
+INFO  06:56:50,044 - #43 main
+INFO  06:56:50,044 - #6 (
+INFO  06:56:50,044 - #7 )
+INFO  06:56:50,044 - #3 {
+INFO  06:56:50,044 - #43 neg
+INFO  06:56:50,044 - #8 =
+INFO  06:56:50,044 - #18 new
+INFO  06:56:50,044 - #43 int
+INFO  06:56:50,044 - #27 [
+INFO  06:56:50,044 - #42 3
+INFO  06:56:50,044 - #25 ]
+INFO  06:56:50,044 - #5 ;
+INFO  06:56:50,044 - #43 neg
+INFO  06:56:50,044 - #27 [
+INFO  06:56:50,044 - #42 1
+INFO  06:56:50,044 - #25 ]
+INFO  06:56:50,044 - #8 =
+INFO  06:56:50,044 - #42 8
+INFO  06:56:50,044 - #5 ;
+INFO  06:56:50,044 - #43 neg
+INFO  06:56:50,044 - #27 [
+INFO  06:56:50,044 - #42 2
+INFO  06:56:50,044 - #25 ]
+INFO  06:56:50,044 - #8 =
+INFO  06:56:50,044 - #43 neg
+INFO  06:56:50,044 - #27 [
+INFO  06:56:50,044 - #42 0
+INFO  06:56:50,044 - #25 ]
+INFO  06:56:50,044 - #10 +
+INFO  06:56:50,044 - #43 neg
+INFO  06:56:50,044 - #27 [
+INFO  06:56:50,044 - #42 1
+INFO  06:56:50,044 - #25 ]
+INFO  06:56:50,044 - #5 ;
+INFO  06:56:50,044 - #43 neg
+INFO  06:56:50,044 - #27 [
+INFO  06:56:50,044 - #42 1
+INFO  06:56:50,044 - #25 ]
+INFO  06:56:50,044 - #8 =
+INFO  06:56:50,044 - #43 neg
+INFO  06:56:50,044 - #27 [
+INFO  06:56:50,044 - #42 0
+INFO  06:56:50,044 - #25 ]
+INFO  06:56:50,044 - #5 ;
+INFO  06:56:50,044 - #12 print
+INFO  06:56:50,044 - #6 (
+INFO  06:56:50,044 - #43 neg
+INFO  06:56:50,044 - #27 [
+INFO  06:56:50,044 - #42 2
+INFO  06:56:50,044 - #25 ]
+INFO  06:56:50,044 - #7 )
+INFO  06:56:50,044 - #5 ;
+INFO  06:56:50,044 - #12 print
+INFO  06:56:50,044 - #6 (
+INFO  06:56:50,044 - #43 neg
+INFO  06:56:50,044 - #27 [
+INFO  06:56:50,044 - #42 0
+INFO  06:56:50,044 - #25 ]
+INFO  06:56:50,044 - #7 )
+INFO  06:56:50,044 - #5 ;
+INFO  06:56:50,044 - #12 print
+INFO  06:56:50,044 - #6 (
+INFO  06:56:50,044 - #43 neg
+INFO  06:56:50,044 - #27 [
+INFO  06:56:50,044 - #42 1
+INFO  06:56:50,044 - #25 ]
+INFO  06:56:50,044 - #7 )
+INFO  06:56:50,044 - #5 ;
+INFO  06:56:50,044 - #4 }
+INFO  06:56:50,044 - #4 }
+INFO  06:56:50,044 - ===================================
+INFO  06:56:50,060 - Pretraga na 14(pos), nadjeno Var pos: int, 0, 0 
+INFO  06:56:50,060 - Pretraga na 21(neg), nadjeno Var neg: Arr of int, 1, 0 
+INFO  06:56:50,060 - Pretraga na 22(neg), nadjeno Var neg: Arr of int, 1, 0 
+INFO  06:56:50,060 - Pretraga na 23(neg), nadjeno Var neg: Arr of int, 1, 0 
+INFO  06:56:50,060 - Pretraga na 23(neg), nadjeno Var neg: Arr of int, 1, 0 
+INFO  06:56:50,060 - Pretraga na 23(neg), nadjeno Var neg: Arr of int, 1, 0 
+INFO  06:56:50,060 - Pretraga na 24(neg), nadjeno Var neg: Arr of int, 1, 0 
+INFO  06:56:50,060 - Pretraga na 24(neg), nadjeno Var neg: Arr of int, 1, 0 
+INFO  06:56:50,060 - Pretraga na 27(neg), nadjeno Var neg: Arr of int, 1, 0 
+INFO  06:56:50,060 - Pretraga na 28(neg), nadjeno Var neg: Arr of int, 1, 0 
+INFO  06:56:50,060 - Pretraga na 29(neg), nadjeno Var neg: Arr of int, 1, 0 
+INFO  06:56:50,060 -  Print count calls = 0
+INFO  06:56:50,060 -  Deklarisanih promenljivih ima = 3
+INFO  06:56:50,060 - ===================================
+INFO  06:56:50,060 - ===================================
+INFO  06:56:50,060 - Parsiranje uspesno zavrseno!

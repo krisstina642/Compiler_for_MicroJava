@@ -1,0 +1,26 @@
+INFO  00:01:39,712 - Compiling source file: C:\Users\Kristina\Desktop\prof\MJCompiler\test\program.mj
+INFO  00:01:39,775 - #2 program
+INFO  00:01:39,776 - #43 Program
+INFO  00:01:39,776 - #43 int
+INFO  00:01:39,777 - #43 i
+INFO  00:01:39,778 - #5 ;
+INFO  00:01:39,779 - #3 {
+INFO  00:01:39,779 - #13 void
+INFO  00:01:39,779 - #43 main
+INFO  00:01:39,779 - #6 (
+INFO  00:01:39,780 - #7 )
+INFO  00:01:39,780 - #43 int
+INFO  00:01:39,780 - #43 j
+INFO  00:01:39,781 - #5 ;
+INFO  00:01:39,781 - #32 read
+ERROR 00:01:39,781 - Sintaksna greska na liniji: 10 poziciji: 2
+INFO  00:01:39,782 - #6 (
+INFO  00:01:39,782 - #43 j
+INFO  00:01:39,782 - #7 )
+INFO  00:01:39,783 - #5 ;
+INFO  00:01:39,783 - #12 print
+INFO  00:01:39,783 - #6 (
+INFO  00:01:39,783 - #43 j
+INFO  00:01:39,783 - #7 )
+INFO  00:01:39,783 - #5 ;
+INFO  00:01:39,784 - #4 }

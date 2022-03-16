@@ -1,0 +1,36 @@
+program test302
+
+const int jedan = 1;
+
+int i, j;
+bool ibool;
+
+int niz[];
+
+{
+	
+	int sum(int z, int d)
+	{
+		return z + d;
+	}
+	
+	int fibonaci(int n) 
+		 int pom;
+	{
+		
+		
+		if (n==1) return 0;
+		if(n==2) return 1;
+		pom=sum(fibonaci(n-2),fibonaci(n-1));
+		return pom;
+		
+		
+	}
+	
+	void main()
+	{
+				
+		print(fibonaci(30));
+	}
+}
+

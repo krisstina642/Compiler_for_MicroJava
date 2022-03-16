@@ -1,0 +1,40 @@
+[Line #3 ]  SYNTAX_ERROR: Sintaksna greska
+[Line #3 ]  SYNTAX_ERROR: Greska prilikom definisanja konstante, Izvrsen oporavak do ; u liniji 3
+[Line #5 ]  SYNTAX_ERROR: Sintaksna greska
+[Line #5 ]  SYNTAX_ERROR: Greska prilikom definisanja promenljive, Izvrsen oporavak do , u liniji 5 
+[Line #6 ]  SYNTAX_ERROR: Sintaksna greska
+[Line #6 ]  SYNTAX_ERROR: Greska prilikom definisanja, Izvrsen oporavak do ; u liniji 6 poziciji2
+[Line #14]  SYNTAX_ERROR: Sintaksna greska
+[Line #14]  SYNTAX_ERROR: Neispravna dodela: Izvrsen oporavak do ; u liniji 14
+[Line #16]  SYNTAX_ERROR: Sintaksna greska
+[Line #16]  SYNTAX_ERROR: Greska prilikom deklaracija formalnog parametra funkcije, Izvrsen oporavak do , u liniji 16
+[Line #16]  SYNTAX_ERROR: Sintaksna greska
+[Line #16]  SYNTAX_ERROR: Greska prilikom deklaracija formalnog parametra funkcije, Izvrsen oporavak do ) u liniji 16
+[Line #23]  SYNTAX_ERROR: Sintaksna greska
+[Line #23]  SYNTAX_ERROR: Neispravna dodela: Izvrsen oporavak do ; u liniji 23
+[Line #33]  SYNTAX_ERROR: Sintaksna greska
+[Line #33]  SYNTAX_ERROR: Neispravan logicki izraz unutar if konstrukcije: Izvrsen oporavak do ) u liniji 33
+[Line #45]  SYNTAX_ERROR: Sintaksna greska
+[Line #45]  SYNTAX_ERROR: Neispravna dodela: Izvrsen oporavak do ; u liniji 45
+[Line #19]  SEMANTIC_ERROR: Greska na 19(arg), nije nadjeno
+[Line #19]  SEMANTIC_ERROR: Greska na 19 : neispravan izraz! 
+[Line #3 ]  SYNTAX_ERROR: Sintaksna greska
+[Line #3 ]  SYNTAX_ERROR: Greska prilikom definisanja konstante, Izvrsen oporavak do ; u liniji 3
+[Line #5 ]  SYNTAX_ERROR: Sintaksna greska
+[Line #5 ]  SYNTAX_ERROR: Greska prilikom definisanja promenljive, Izvrsen oporavak do , u liniji 5 
+[Line #6 ]  SYNTAX_ERROR: Sintaksna greska
+[Line #6 ]  SYNTAX_ERROR: Greska prilikom definisanja, Izvrsen oporavak do ; u liniji 6 poziciji2
+[Line #14]  SYNTAX_ERROR: Sintaksna greska
+[Line #14]  SYNTAX_ERROR: Neispravna dodela: Izvrsen oporavak do ; u liniji 14
+[Line #16]  SYNTAX_ERROR: Sintaksna greska
+[Line #16]  SYNTAX_ERROR: Greska prilikom deklaracija formalnog parametra funkcije, Izvrsen oporavak do , u liniji 16
+[Line #16]  SYNTAX_ERROR: Sintaksna greska
+[Line #16]  SYNTAX_ERROR: Greska prilikom deklaracija formalnog parametra funkcije, Izvrsen oporavak do ) u liniji 16
+[Line #23]  SYNTAX_ERROR: Sintaksna greska
+[Line #23]  SYNTAX_ERROR: Neispravna dodela: Izvrsen oporavak do ; u liniji 23
+[Line #33]  SYNTAX_ERROR: Sintaksna greska
+[Line #33]  SYNTAX_ERROR: Neispravan logicki izraz unutar if konstrukcije: Izvrsen oporavak do ) u liniji 33
+[Line #45]  SYNTAX_ERROR: Sintaksna greska
+[Line #45]  SYNTAX_ERROR: Neispravna dodela: Izvrsen oporavak do ; u liniji 45
+[Line #19]  SEMANTIC_ERROR: Greska na 19(arg), nije nadjeno
+[Line #19]  SEMANTIC_ERROR: Greska na 19 : neispravan izraz! 

@@ -1,0 +1,36 @@
+INFO  00:02:05,570 - Compiling source file: C:\Users\Kristina\Desktop\prof\MJCompiler\test\program.mj
+INFO  00:02:05,628 - #2 program
+INFO  00:02:05,628 - #43 Program
+INFO  00:02:05,628 - #43 int
+INFO  00:02:05,629 - #43 i
+INFO  00:02:05,629 - #5 ;
+INFO  00:02:05,630 - #3 {
+INFO  00:02:05,631 - #13 void
+INFO  00:02:05,631 - #43 main
+INFO  00:02:05,631 - #6 (
+INFO  00:02:05,631 - #7 )
+INFO  00:02:05,631 - #43 int
+INFO  00:02:05,632 - #43 j
+INFO  00:02:05,632 - #5 ;
+INFO  00:02:05,632 - #3 {
+INFO  00:02:05,633 - #32 read
+INFO  00:02:05,633 - #6 (
+INFO  00:02:05,633 - #43 j
+INFO  00:02:05,633 - #7 )
+INFO  00:02:05,634 - #5 ;
+INFO  00:02:05,634 - #12 print
+INFO  00:02:05,635 - #6 (
+INFO  00:02:05,635 - #43 j
+INFO  00:02:05,635 - #7 )
+INFO  00:02:05,635 - #5 ;
+INFO  00:02:05,635 - #4 }
+INFO  00:02:05,636 - #4 }
+INFO  00:02:05,637 - ===================================
+INFO  00:02:05,647 - Pretraga na 12(j), nadjeno Var j: int, 0, 1  na liniji 12
+INFO  00:02:05,647 - Pretraga na 13(j), nadjeno Var j: int, 0, 1  na liniji 13
+INFO  00:02:05,647 - ===================================
+INFO  00:02:05,647 -  Print count calls = 1
+INFO  00:02:05,647 - ===================================
+INFO  00:02:05,647 - ===================================
+INFO  00:02:05,655 - Parsiranje uspesno zavrseno!
+

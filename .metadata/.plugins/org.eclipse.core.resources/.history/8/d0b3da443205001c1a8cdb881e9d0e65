@@ -1,0 +1,119 @@
+INFO  17:49:51,604 - Compiling source file: C:\Users\Kristina\Desktop\prof\MJCompiler\test\program.mj
+INFO  17:49:51,635 - #2 program
+INFO  17:49:51,635 - #43 test302
+INFO  17:49:51,635 - #26 const
+INFO  17:49:51,635 - #43 int
+INFO  17:49:51,635 - #43 jedan
+INFO  17:49:51,635 - #8 =
+INFO  17:49:51,635 - #42 1
+INFO  17:49:51,635 - #5 ;
+INFO  17:49:51,635 - #43 int
+INFO  17:49:51,635 - #43 i
+INFO  17:49:51,635 - #11 ,
+INFO  17:49:51,635 - #43 j
+INFO  17:49:51,635 - #5 ;
+INFO  17:49:51,635 - #43 bool
+INFO  17:49:51,635 - #43 ibool
+INFO  17:49:51,635 - #5 ;
+INFO  17:49:51,635 - #43 int
+INFO  17:49:51,635 - #43 niz
+INFO  17:49:51,635 - #27 [
+INFO  17:49:51,635 - #25 ]
+INFO  17:49:51,635 - #5 ;
+INFO  17:49:51,635 - #3 {
+INFO  17:49:51,635 - #43 int
+INFO  17:49:51,635 - #43 sum
+INFO  17:49:51,635 - #6 (
+INFO  17:49:51,635 - #43 int
+INFO  17:49:51,635 - #43 z
+INFO  17:49:51,635 - #11 ,
+INFO  17:49:51,635 - #43 int
+INFO  17:49:51,635 - #43 d
+INFO  17:49:51,635 - #7 )
+INFO  17:49:51,635 - #3 {
+INFO  17:49:51,635 - #9 return
+INFO  17:49:51,635 - #43 z
+INFO  17:49:51,635 - #10 +
+INFO  17:49:51,635 - #43 d
+INFO  17:49:51,635 - #5 ;
+INFO  17:49:51,635 - #4 }
+INFO  17:49:51,635 - #43 int
+INFO  17:49:51,635 - #43 fibonaci
+INFO  17:49:51,635 - #6 (
+INFO  17:49:51,635 - #43 int
+INFO  17:49:51,635 - #43 n
+INFO  17:49:51,635 - #7 )
+INFO  17:49:51,635 - #43 int
+INFO  17:49:51,635 - #43 pom
+INFO  17:49:51,635 - #5 ;
+INFO  17:49:51,635 - #3 {
+INFO  17:49:51,635 - #51 if
+INFO  17:49:51,635 - #6 (
+INFO  17:49:51,635 - #43 n
+INFO  17:49:51,635 - #44 ==
+INFO  17:49:51,635 - #42 1
+INFO  17:49:51,635 - #7 )
+INFO  17:49:51,635 - #9 return
+INFO  17:49:51,635 - #42 0
+INFO  17:49:51,635 - #5 ;
+INFO  17:49:51,635 - #51 if
+INFO  17:49:51,635 - #6 (
+INFO  17:49:51,635 - #43 n
+INFO  17:49:51,635 - #44 ==
+INFO  17:49:51,635 - #42 2
+INFO  17:49:51,635 - #7 )
+INFO  17:49:51,635 - #9 return
+INFO  17:49:51,635 - #42 1
+INFO  17:49:51,635 - #5 ;
+INFO  17:49:51,635 - #43 pom
+INFO  17:49:51,635 - #8 =
+INFO  17:49:51,635 - #43 sum
+INFO  17:49:51,635 - #6 (
+INFO  17:49:51,635 - #43 fibonaci
+INFO  17:49:51,635 - #6 (
+INFO  17:49:51,635 - #43 n
+INFO  17:49:51,635 - #24 -
+INFO  17:49:51,635 - #42 2
+INFO  17:49:51,635 - #7 )
+INFO  17:49:51,635 - #11 ,
+INFO  17:49:51,635 - #43 fibonaci
+INFO  17:49:51,635 - #6 (
+INFO  17:49:51,635 - #43 n
+INFO  17:49:51,635 - #24 -
+INFO  17:49:51,635 - #42 1
+INFO  17:49:51,635 - #7 )
+INFO  17:49:51,635 - #7 )
+INFO  17:49:51,635 - #5 ;
+INFO  17:49:51,635 - #9 return
+INFO  17:49:51,635 - #43 pom
+INFO  17:49:51,635 - #5 ;
+INFO  17:49:51,635 - #4 }
+INFO  17:49:51,635 - #13 void
+INFO  17:49:51,635 - #43 main
+INFO  17:49:51,635 - #6 (
+INFO  17:49:51,635 - #7 )
+INFO  17:49:51,635 - #3 {
+INFO  17:49:51,651 - #12 print
+INFO  17:49:51,651 - #6 (
+INFO  17:49:51,651 - #43 fibonaci
+INFO  17:49:51,651 - #6 (
+INFO  17:49:51,651 - #42 7
+INFO  17:49:51,651 - #7 )
+INFO  17:49:51,651 - #7 )
+INFO  17:49:51,651 - #5 ;
+INFO  17:49:51,651 - #4 }
+INFO  17:49:51,651 - #4 }
+INFO  17:49:51,651 - ===================================
+INFO  17:49:51,651 - Pretraga na 14(z), nadjeno Var z: int, 0, 1 
+INFO  17:49:51,651 - Pretraga na 14(d), nadjeno Var d: int, 1, 1 
+INFO  17:49:51,651 - Pretraga na 22(n), nadjeno Var n: int, 0, 1 
+INFO  17:49:51,651 - Pretraga na 23(n), nadjeno Var n: int, 0, 1 
+INFO  17:49:51,651 - Pretraga na 24(pom), nadjeno Var pom: int, 1, 1 
+INFO  17:49:51,651 - Pretraga na 24(n), nadjeno Var n: int, 0, 1 
+INFO  17:49:51,651 - Pretraga na 24(n), nadjeno Var n: int, 0, 1 
+INFO  17:49:51,651 - Pretraga na 25(pom), nadjeno Var pom: int, 1, 1 
+INFO  17:49:51,651 -  Print count calls = 0
+INFO  17:49:51,651 -  Deklarisanih promenljivih ima = 5
+INFO  17:49:51,651 - ===================================
+INFO  17:49:51,651 - ===================================
+INFO  17:49:51,651 - Parsiranje uspesno zavrseno!

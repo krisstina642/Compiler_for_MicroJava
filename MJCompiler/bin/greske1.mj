@@ -1,0 +1,48 @@
+program p
+
+  const int k=5, l=p ;
+  const char a='a';
+  int pos, 6, neg[]; 
+  p=f;
+  
+
+		
+   {
+    void f(char ch, int a, int arg)
+    int x;
+   {
+     x = arg, ;  //
+    }
+     void cr(6 , int a, int 4;)
+    int x;
+   {
+     x = arg ;
+    }
+   void main() int x, i, size; char c;
+   {
+		i = 0 , k = 0;
+		do{
+ 			i++;
+ 			pos=neg[2]-1;
+ 			
+		}while(i<size);
+		f(c, x, i);
+		
+	read(x);
+	do{
+	 if(5, 8)
+	  break;
+ 	if (0 <= x && x < size)
+	{
+		x--;
+	}
+	else if (-size < x && x < 0)
+ 	{
+ 		x++;
+ 	}
+	read(x);
+		 }while(false);
+	print(x < 0 ? '-' : '+');
+	}
+
+	}

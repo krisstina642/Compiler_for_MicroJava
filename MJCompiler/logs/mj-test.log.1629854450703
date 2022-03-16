@@ -1,0 +1,253 @@
+INFO  03:20:15,950 - Compiling source file: C:\Users\Kristina\Desktop\prof\MJCompiler\test\program.mj
+INFO  03:20:15,984 - #2 program
+INFO  03:20:15,985 - #43 p
+INFO  03:20:15,985 - #26 const
+INFO  03:20:15,985 - #43 int
+INFO  03:20:15,985 - #43 k
+INFO  03:20:15,986 - #8 =
+INFO  03:20:15,986 - #42 5
+INFO  03:20:15,986 - #11 ,
+INFO  03:20:15,986 - #43 l
+INFO  03:20:15,986 - #8 =
+INFO  03:20:15,986 - #43 p
+ERROR 03:20:15,986 - Sintaksna greska na liniji: 3 poziciji: 19
+INFO  03:20:15,987 - #5 ;
+INFO  03:20:15,987 - #26 const
+INFO  03:20:15,987 - #43 char
+INFO  03:20:15,987 - #43 a
+ERROR 03:20:15,987 - Greska prilikom definisanja konstante, Izvrsen oporavak do ; u liniji 3
+INFO  03:20:15,988 - #8 =
+INFO  03:20:15,988 - #50 a
+INFO  03:20:15,988 - #5 ;
+INFO  03:20:15,988 - #43 int
+INFO  03:20:15,988 - #43 pos
+INFO  03:20:15,988 - #11 ,
+INFO  03:20:15,989 - #42 6
+ERROR 03:20:15,989 - Sintaksna greska na liniji: 5 poziciji: 11
+INFO  03:20:15,989 - #11 ,
+INFO  03:20:15,989 - #43 neg
+INFO  03:20:15,989 - #27 [
+INFO  03:20:15,989 - #25 ]
+ERROR 03:20:15,989 - Greska prilikom definisanja promenljive, Izvrsen oporavak do , u liniji 5 
+INFO  03:20:15,990 - #5 ;
+INFO  03:20:15,990 - #43 p
+INFO  03:20:15,990 - #8 =
+ERROR 03:20:15,990 - Sintaksna greska na liniji: 6 poziciji: 3
+INFO  03:20:15,990 - #43 f
+INFO  03:20:15,990 - #5 ;
+INFO  03:20:15,990 - #3 {
+INFO  03:20:15,990 - #13 void
+INFO  03:20:15,990 - #43 f
+ERROR 03:20:15,990 - Greska prilikom definisanja, Izvrsen oporavak do ; u liniji 6 poziciji2
+INFO  03:20:15,991 - #6 (
+INFO  03:20:15,991 - #43 char
+INFO  03:20:15,991 - #43 ch
+INFO  03:20:15,991 - #11 ,
+INFO  03:20:15,991 - #43 int
+INFO  03:20:15,991 - #43 a
+INFO  03:20:15,991 - #11 ,
+INFO  03:20:15,991 - #43 int
+INFO  03:20:15,991 - #43 arg
+INFO  03:20:15,991 - #7 )
+INFO  03:20:15,991 - #43 int
+INFO  03:20:15,991 - #43 x
+INFO  03:20:15,991 - #5 ;
+INFO  03:20:15,992 - #3 {
+INFO  03:20:15,992 - #43 x
+INFO  03:20:15,992 - #8 =
+INFO  03:20:15,993 - #43 arg
+INFO  03:20:15,993 - #11 ,
+ERROR 03:20:15,994 - Sintaksna greska na liniji: 14 poziciji: 12
+INFO  03:20:15,994 - #5 ;
+INFO  03:20:15,994 - #4 }
+INFO  03:20:15,994 - #13 void
+INFO  03:20:15,994 - #43 cr
+ERROR 03:20:15,994 - Neispravna dodela: Izvrsen oporavak do ; u liniji 14
+INFO  03:20:15,994 - #6 (
+INFO  03:20:15,994 - #42 6
+ERROR 03:20:15,994 - Sintaksna greska na liniji: 16 poziciji: 13
+INFO  03:20:15,994 - #11 ,
+INFO  03:20:15,994 - #43 int
+INFO  03:20:15,994 - #43 a
+INFO  03:20:15,994 - #11 ,
+ERROR 03:20:15,995 - Greska prilikom deklaracija formalnog parametra funkcije, Izvrsen oporavak do , u liniji 16
+INFO  03:20:15,995 - #43 int
+INFO  03:20:15,995 - #42 4
+ERROR 03:20:15,995 - Sintaksna greska na liniji: 16 poziciji: 28
+INFO  03:20:15,995 - #5 ;
+INFO  03:20:15,995 - #7 )
+INFO  03:20:15,995 - #43 int
+INFO  03:20:15,995 - #43 x
+INFO  03:20:15,995 - #5 ;
+ERROR 03:20:15,995 - Greska prilikom deklaracija formalnog parametra funkcije, Izvrsen oporavak do ) u liniji 16
+INFO  03:20:15,995 - #3 {
+INFO  03:20:15,995 - #43 x
+INFO  03:20:15,995 - #8 =
+INFO  03:20:15,995 - #43 arg
+INFO  03:20:15,996 - #5 ;
+INFO  03:20:15,996 - #4 }
+INFO  03:20:15,996 - #13 void
+INFO  03:20:15,996 - #43 main
+INFO  03:20:15,996 - #6 (
+INFO  03:20:15,996 - #7 )
+INFO  03:20:15,996 - #43 int
+INFO  03:20:15,996 - #43 x
+INFO  03:20:15,996 - #11 ,
+INFO  03:20:15,997 - #43 i
+INFO  03:20:15,997 - #11 ,
+INFO  03:20:15,997 - #43 size
+INFO  03:20:15,997 - #5 ;
+INFO  03:20:15,997 - #43 char
+INFO  03:20:15,997 - #43 c
+INFO  03:20:15,997 - #5 ;
+INFO  03:20:15,997 - #3 {
+INFO  03:20:15,997 - #43 i
+INFO  03:20:15,997 - #8 =
+INFO  03:20:15,997 - #42 0
+INFO  03:20:15,997 - #11 ,
+ERROR 03:20:15,997 - Sintaksna greska na liniji: 23 poziciji: 8
+INFO  03:20:15,997 - #43 k
+INFO  03:20:15,997 - #8 =
+INFO  03:20:15,997 - #42 0
+INFO  03:20:15,997 - #5 ;
+INFO  03:20:15,997 - #36 do
+INFO  03:20:15,997 - #3 {
+INFO  03:20:15,997 - #43 i
+ERROR 03:20:15,997 - Neispravna dodela: Izvrsen oporavak do ; u liniji 23
+INFO  03:20:15,998 - #33 ++
+INFO  03:20:15,998 - #5 ;
+INFO  03:20:15,998 - #43 pos
+INFO  03:20:15,998 - #8 =
+INFO  03:20:15,998 - #43 neg
+INFO  03:20:15,998 - #27 [
+INFO  03:20:15,998 - #42 2
+INFO  03:20:15,999 - #25 ]
+INFO  03:20:15,999 - #24 -
+INFO  03:20:15,999 - #42 1
+INFO  03:20:15,999 - #5 ;
+INFO  03:20:15,999 - #4 }
+INFO  03:20:15,999 - #34 while
+INFO  03:20:15,999 - #6 (
+INFO  03:20:16,000 - #43 i
+INFO  03:20:16,000 - #48 <
+INFO  03:20:16,000 - #43 size
+INFO  03:20:16,000 - #7 )
+INFO  03:20:16,000 - #5 ;
+INFO  03:20:16,000 - #43 f
+INFO  03:20:16,000 - #6 (
+INFO  03:20:16,000 - #43 c
+INFO  03:20:16,000 - #11 ,
+INFO  03:20:16,000 - #43 x
+INFO  03:20:16,000 - #11 ,
+INFO  03:20:16,000 - #43 i
+INFO  03:20:16,000 - #7 )
+INFO  03:20:16,000 - #5 ;
+INFO  03:20:16,000 - #32 read
+INFO  03:20:16,000 - #6 (
+INFO  03:20:16,000 - #43 x
+INFO  03:20:16,000 - #7 )
+INFO  03:20:16,000 - #5 ;
+INFO  03:20:16,000 - #36 do
+INFO  03:20:16,001 - #3 {
+INFO  03:20:16,001 - #51 if
+INFO  03:20:16,001 - #6 (
+INFO  03:20:16,001 - #42 5
+INFO  03:20:16,001 - #11 ,
+ERROR 03:20:16,001 - Sintaksna greska na liniji: 33 poziciji: 6
+INFO  03:20:16,001 - #42 8
+INFO  03:20:16,001 - #7 )
+INFO  03:20:16,001 - #30 break
+INFO  03:20:16,001 - #5 ;
+INFO  03:20:16,001 - #51 if
+ERROR 03:20:16,001 - Neispravan logicki izraz unutar if konstrukcije: Izvrsen oporavak do ) u liniji 33
+INFO  03:20:16,001 - #6 (
+INFO  03:20:16,001 - #42 0
+INFO  03:20:16,002 - #45 <=
+INFO  03:20:16,002 - #43 x
+INFO  03:20:16,002 - #19 &&
+INFO  03:20:16,002 - #43 x
+INFO  03:20:16,002 - #48 <
+INFO  03:20:16,002 - #43 size
+INFO  03:20:16,002 - #7 )
+INFO  03:20:16,002 - #3 {
+INFO  03:20:16,002 - #43 x
+INFO  03:20:16,002 - #14 --
+INFO  03:20:16,002 - #5 ;
+INFO  03:20:16,002 - #4 }
+INFO  03:20:16,002 - #52 else
+INFO  03:20:16,002 - #51 if
+INFO  03:20:16,003 - #6 (
+INFO  03:20:16,003 - #24 -
+INFO  03:20:16,003 - #43 size
+INFO  03:20:16,003 - #48 <
+INFO  03:20:16,003 - #43 x
+INFO  03:20:16,003 - #19 &&
+INFO  03:20:16,003 - #43 x
+INFO  03:20:16,003 - #48 <
+INFO  03:20:16,003 - #42 0
+INFO  03:20:16,003 - #7 )
+INFO  03:20:16,003 - #3 {
+INFO  03:20:16,003 - #43 x
+INFO  03:20:16,003 - #33 ++
+INFO  03:20:16,003 - #5 ;
+INFO  03:20:16,003 - #4 }
+INFO  03:20:16,003 - #32 read
+INFO  03:20:16,003 - #6 (
+INFO  03:20:16,003 - #43 x
+INFO  03:20:16,003 - #7 )
+INFO  03:20:16,003 - #5 ;
+INFO  03:20:16,003 - #4 }
+INFO  03:20:16,003 - #34 while
+INFO  03:20:16,003 - #6 (
+INFO  03:20:16,003 - #41 false
+INFO  03:20:16,003 - #7 )
+INFO  03:20:16,004 - #5 ;
+INFO  03:20:16,004 - #12 print
+INFO  03:20:16,004 - #6 (
+INFO  03:20:16,004 - #43 x
+INFO  03:20:16,004 - #48 <
+ERROR 03:20:16,004 - Sintaksna greska na liniji: 45 poziciji: 9
+INFO  03:20:16,004 - #42 0
+INFO  03:20:16,004 - #38 ?
+INFO  03:20:16,004 - #50 -
+INFO  03:20:16,004 - #16 :
+INFO  03:20:16,004 - #50 +
+INFO  03:20:16,004 - #7 )
+INFO  03:20:16,004 - #5 ;
+INFO  03:20:16,004 - #4 }
+INFO  03:20:16,004 - #4 }
+ERROR 03:20:16,004 - Neispravna dodela: Izvrsen oporavak do ; u liniji 45
+INFO  03:20:16,005 - ===================================
+INFO  03:20:16,010 - Pretraga na 19(x), nadjena upotreba lokalne promenljive Var x: int, 1, 1 
+ERROR 03:20:16,010 - Greska na 19(arg), nije nadjeno
+ERROR 03:20:16,010 - Greska na 19 : neispravan izraz! 
+INFO  03:20:16,011 - Pretraga na 25(i), nadjena upotreba lokalne promenljive Var i: int, 1, 1 
+INFO  03:20:16,011 - Pretraga na 26(pos), nadjena upotreba globalne promenljive Var pos: int, 0, 0 
+INFO  03:20:16,011 - Pretraga na 26(neg), nadjen pristup elementu niza Var neg: Arr of int, 1, 0 
+INFO  03:20:16,011 - Pretraga na 28(i), nadjena upotreba lokalne promenljive Var i: int, 1, 1 
+INFO  03:20:16,011 - Pretraga na 28(size), nadjena upotreba lokalne promenljive Var size: int, 2, 1 
+INFO  03:20:16,011 - Pretraga na 29(c), nadjena upotreba lokalne promenljive Var c: char, 3, 1 
+INFO  03:20:16,011 - Pretraga na 29(x), nadjena upotreba lokalne promenljive Var x: int, 0, 1 
+INFO  03:20:16,011 - Pretraga na 29(i), nadjena upotreba lokalne promenljive Var i: int, 1, 1 
+INFO  03:20:16,011 - Pretraga na 29(f), nadjen poziv funkcije Meth f: notype, 0, 3 
+   Var ch: char, 0, 1 
+   Var a: int, 1, 1 
+   Var arg: int, 2, 1 
+   Var x: int, 3, 1 
+
+INFO  03:20:16,011 - Pretraga na 31(x), nadjena upotreba lokalne promenljive Var x: int, 0, 1 
+INFO  03:20:16,011 - Pretraga na 35(x), nadjena upotreba lokalne promenljive Var x: int, 0, 1 
+INFO  03:20:16,011 - Pretraga na 35(x), nadjena upotreba lokalne promenljive Var x: int, 0, 1 
+INFO  03:20:16,011 - Pretraga na 35(size), nadjena upotreba lokalne promenljive Var size: int, 2, 1 
+INFO  03:20:16,011 - Pretraga na 37(x), nadjena upotreba lokalne promenljive Var x: int, 0, 1 
+INFO  03:20:16,011 - Pretraga na 39(size), nadjena upotreba lokalne promenljive Var size: int, 2, 1 
+INFO  03:20:16,011 - Pretraga na 39(x), nadjena upotreba lokalne promenljive Var x: int, 0, 1 
+INFO  03:20:16,011 - Pretraga na 39(x), nadjena upotreba lokalne promenljive Var x: int, 0, 1 
+INFO  03:20:16,011 - Pretraga na 41(x), nadjena upotreba lokalne promenljive Var x: int, 0, 1 
+INFO  03:20:16,011 - Pretraga na 43(x), nadjena upotreba lokalne promenljive Var x: int, 0, 1 
+INFO  03:20:16,011 - ===================================
+INFO  03:20:16,012 -  Print count calls = 0
+INFO  03:20:16,012 - ===================================
+INFO  03:20:16,012 - ===================================
+ERROR 03:20:16,012 - Parsiranje NIJE uspesno zavrseno!
+

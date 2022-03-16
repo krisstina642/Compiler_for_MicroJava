@@ -1,0 +1,172 @@
+INFO  01:18:04,035 - Compiling source file: C:\Users\Kristina\Desktop\prof\MJCompiler\test\program.mj
+INFO  01:18:04,069 - #2 program
+INFO  01:18:04,069 - #43 test302
+INFO  01:18:04,069 - #26 const
+INFO  01:18:04,070 - #43 int
+INFO  01:18:04,070 - #43 jedan
+INFO  01:18:04,070 - #8 =
+INFO  01:18:04,070 - #42 1
+INFO  01:18:04,070 - #5 ;
+INFO  01:18:04,070 - #43 int
+INFO  01:18:04,071 - #43 i
+INFO  01:18:04,071 - #11 ,
+INFO  01:18:04,071 - #43 j
+INFO  01:18:04,071 - #5 ;
+INFO  01:18:04,071 - #43 bool
+INFO  01:18:04,072 - #43 ibool
+INFO  01:18:04,072 - #5 ;
+INFO  01:18:04,072 - #43 int
+INFO  01:18:04,072 - #43 niz1
+INFO  01:18:04,072 - #27 [
+INFO  01:18:04,072 - #25 ]
+INFO  01:18:04,072 - #5 ;
+INFO  01:18:04,072 - #43 int
+INFO  01:18:04,073 - #43 niz2
+INFO  01:18:04,073 - #27 [
+INFO  01:18:04,073 - #25 ]
+INFO  01:18:04,073 - #5 ;
+INFO  01:18:04,073 - #43 int
+INFO  01:18:04,073 - #43 niz3
+INFO  01:18:04,073 - #27 [
+INFO  01:18:04,073 - #25 ]
+INFO  01:18:04,073 - #5 ;
+INFO  01:18:04,073 - #3 {
+INFO  01:18:04,073 - #13 void
+INFO  01:18:04,073 - #43 main
+INFO  01:18:04,073 - #6 (
+INFO  01:18:04,073 - #7 )
+INFO  01:18:04,073 - #3 {
+INFO  01:18:04,074 - #43 niz1
+INFO  01:18:04,074 - #8 =
+INFO  01:18:04,075 - #18 new
+INFO  01:18:04,076 - #43 int
+INFO  01:18:04,076 - #27 [
+INFO  01:18:04,076 - #42 7
+INFO  01:18:04,076 - #25 ]
+INFO  01:18:04,076 - #5 ;
+INFO  01:18:04,076 - #43 niz2
+INFO  01:18:04,076 - #8 =
+INFO  01:18:04,076 - #18 new
+INFO  01:18:04,076 - #43 int
+INFO  01:18:04,076 - #27 [
+INFO  01:18:04,076 - #42 7
+INFO  01:18:04,076 - #25 ]
+INFO  01:18:04,076 - #5 ;
+INFO  01:18:04,076 - #43 i
+INFO  01:18:04,077 - #8 =
+INFO  01:18:04,077 - #42 0
+INFO  01:18:04,077 - #5 ;
+INFO  01:18:04,077 - #36 do
+INFO  01:18:04,077 - #3 {
+INFO  01:18:04,077 - #43 niz1
+INFO  01:18:04,077 - #27 [
+INFO  01:18:04,077 - #43 i
+INFO  01:18:04,078 - #25 ]
+INFO  01:18:04,078 - #8 =
+INFO  01:18:04,078 - #43 i
+INFO  01:18:04,078 - #5 ;
+INFO  01:18:04,078 - #43 i
+INFO  01:18:04,078 - #33 ++
+INFO  01:18:04,078 - #5 ;
+INFO  01:18:04,079 - #4 }
+INFO  01:18:04,079 - #34 while
+INFO  01:18:04,079 - #6 (
+INFO  01:18:04,079 - #43 i
+INFO  01:18:04,079 - #48 <
+INFO  01:18:04,079 - #43 len
+INFO  01:18:04,079 - #6 (
+INFO  01:18:04,079 - #43 niz1
+INFO  01:18:04,079 - #7 )
+INFO  01:18:04,079 - #7 )
+INFO  01:18:04,079 - #5 ;
+INFO  01:18:04,079 - #43 i
+INFO  01:18:04,079 - #8 =
+INFO  01:18:04,079 - #42 0
+INFO  01:18:04,079 - #36 do
+ERROR 01:18:04,079 - Sintaksna greska na liniji: 30 poziciji: 2
+INFO  01:18:04,080 - #3 {
+INFO  01:18:04,080 - #43 niz2
+INFO  01:18:04,080 - #27 [
+INFO  01:18:04,080 - #43 i
+INFO  01:18:04,080 - #25 ]
+INFO  01:18:04,080 - #8 =
+INFO  01:18:04,080 - #43 i
+INFO  01:18:04,080 - #5 ;
+INFO  01:18:04,080 - #43 i
+INFO  01:18:04,080 - #33 ++
+INFO  01:18:04,081 - #5 ;
+ERROR 01:18:04,081 - Neispravna dodela: Izvrsen oporavak do ; u liniji 29
+INFO  01:18:04,081 - #4 }
+INFO  01:18:04,081 - #34 while
+ERROR 01:18:04,081 - Sintaksna greska na liniji: 35 poziciji: 2
+INFO  01:18:04,081 - #6 (
+INFO  01:18:04,081 - #43 i
+INFO  01:18:04,081 - #48 <
+INFO  01:18:04,081 - #43 len
+INFO  01:18:04,081 - #6 (
+INFO  01:18:04,081 - #43 niz2
+INFO  01:18:04,081 - #7 )
+INFO  01:18:04,081 - #7 )
+INFO  01:18:04,081 - #5 ;
+INFO  01:18:04,081 - #43 niz3
+INFO  01:18:04,081 - #8 =
+INFO  01:18:04,081 - #43 niz2
+ERROR 01:18:04,081 - Neispravna dodela: Izvrsen oporavak do ; u liniji 34
+INFO  01:18:04,081 - #10 +
+INFO  01:18:04,081 - #43 niz1
+INFO  01:18:04,082 - #5 ;
+INFO  01:18:04,082 - #43 i
+INFO  01:18:04,082 - #8 =
+INFO  01:18:04,082 - #42 0
+INFO  01:18:04,082 - #5 ;
+INFO  01:18:04,082 - #36 do
+INFO  01:18:04,082 - #3 {
+INFO  01:18:04,082 - #12 print
+INFO  01:18:04,082 - #6 (
+INFO  01:18:04,082 - #43 niz3
+INFO  01:18:04,082 - #27 [
+INFO  01:18:04,082 - #43 i
+INFO  01:18:04,083 - #25 ]
+INFO  01:18:04,083 - #7 )
+INFO  01:18:04,083 - #5 ;
+INFO  01:18:04,083 - #43 i
+INFO  01:18:04,083 - #33 ++
+INFO  01:18:04,083 - #5 ;
+INFO  01:18:04,083 - #4 }
+INFO  01:18:04,083 - #34 while
+INFO  01:18:04,083 - #6 (
+INFO  01:18:04,083 - #43 i
+INFO  01:18:04,083 - #48 <
+INFO  01:18:04,083 - #43 len
+INFO  01:18:04,083 - #6 (
+INFO  01:18:04,083 - #43 niz3
+INFO  01:18:04,083 - #7 )
+INFO  01:18:04,083 - #7 )
+INFO  01:18:04,083 - #5 ;
+INFO  01:18:04,083 - #4 }
+INFO  01:18:04,083 - #4 }
+INFO  01:18:04,084 - ===================================
+INFO  01:18:04,090 - Pretraga na 17(niz1), nadjeno Var niz1: Arr of int, 3, 0 
+INFO  01:18:04,090 - Pretraga na 18(niz2), nadjeno Var niz2: Arr of int, 4, 0 
+INFO  01:18:04,090 - Pretraga na 20(i), nadjeno Var i: int, 0, 0 
+INFO  01:18:04,090 - Pretraga na 24(i), nadjeno Var i: int, 0, 0 
+INFO  01:18:04,090 - Pretraga na 24(niz1), nadjeno Var niz1: Arr of int, 3, 0 
+INFO  01:18:04,090 - Pretraga na 24(i), nadjeno Var i: int, 0, 0 
+INFO  01:18:04,090 - Pretraga na 25(i), nadjeno Var i: int, 0, 0 
+INFO  01:18:04,090 - Pretraga na 27(i), nadjeno Var i: int, 0, 0 
+INFO  01:18:04,090 - Pretraga na 27(niz1), nadjeno Var niz1: Arr of int, 3, 0 
+INFO  01:18:04,090 - Pretraga na 33(i), nadjeno Var i: int, 0, 0 
+INFO  01:18:04,090 - Pretraga na 38(niz3), nadjeno Var niz3: Arr of int, 5, 0 
+INFO  01:18:04,090 - Pretraga na 38(niz2), nadjeno Var niz2: Arr of int, 4, 0 
+INFO  01:18:04,090 - Pretraga na 38(niz1), nadjeno Var niz1: Arr of int, 3, 0 
+INFO  01:18:04,090 - Pretraga na 40(i), nadjeno Var i: int, 0, 0 
+INFO  01:18:04,090 - Pretraga na 44(i), nadjeno Var i: int, 0, 0 
+INFO  01:18:04,091 - Pretraga na 44(niz3), nadjeno Var niz3: Arr of int, 5, 0 
+INFO  01:18:04,091 - Pretraga na 45(i), nadjeno Var i: int, 0, 0 
+INFO  01:18:04,091 - Pretraga na 47(i), nadjeno Var i: int, 0, 0 
+INFO  01:18:04,091 - Pretraga na 47(niz3), nadjeno Var niz3: Arr of int, 5, 0 
+INFO  01:18:04,091 -  Print count calls = 1
+INFO  01:18:04,091 -  Deklarisanih promenljivih ima = 6
+INFO  01:18:04,091 - ===================================
+INFO  01:18:04,091 - ===================================
+ERROR 01:18:04,091 - Parsiranje NIJE uspesno zavrseno!

@@ -1,0 +1,10 @@
+package rs.ac.bg.etf.pp1.test;
+
+import java.util.List;
+
+import rs.ac.bg.etf.pp1.test.CompilerError;
+
+public interface Compiler2 {
+	
+	List<CompilerError> compile(String sourceFilePath, String outputFilePath);
+}

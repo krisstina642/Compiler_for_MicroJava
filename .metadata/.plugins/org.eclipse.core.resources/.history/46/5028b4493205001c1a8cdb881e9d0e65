@@ -1,0 +1,298 @@
+INFO  20:52:38,345 - Compiling source file: C:\Users\Kristina\Desktop\prof\MJCompiler\test\program.mj
+INFO  20:52:38,399 - #2 program
+INFO  20:52:38,399 - #43 test302
+INFO  20:52:38,399 - #26 const
+INFO  20:52:38,407 - #43 int
+INFO  20:52:38,407 - #43 jedan
+INFO  20:52:38,407 - #8 =
+INFO  20:52:38,407 - #42 1
+INFO  20:52:38,407 - #5 ;
+INFO  20:52:38,408 - #43 int
+INFO  20:52:38,408 - #43 i
+INFO  20:52:38,408 - #11 ,
+INFO  20:52:38,409 - #43 j
+INFO  20:52:38,409 - #5 ;
+INFO  20:52:38,409 - #43 bool
+INFO  20:52:38,410 - #43 ibool
+INFO  20:52:38,410 - #5 ;
+INFO  20:52:38,410 - #43 int
+INFO  20:52:38,410 - #43 niz1
+INFO  20:52:38,410 - #27 [
+INFO  20:52:38,410 - #25 ]
+INFO  20:52:38,410 - #5 ;
+INFO  20:52:38,410 - #43 int
+INFO  20:52:38,415 - #43 niz2
+INFO  20:52:38,415 - #27 [
+INFO  20:52:38,415 - #25 ]
+INFO  20:52:38,415 - #5 ;
+INFO  20:52:38,415 - #43 int
+INFO  20:52:38,415 - #43 niz3
+INFO  20:52:38,415 - #27 [
+INFO  20:52:38,415 - #25 ]
+INFO  20:52:38,415 - #5 ;
+INFO  20:52:38,415 - #3 {
+INFO  20:52:38,415 - #43 int
+INFO  20:52:38,415 - #43 sum
+INFO  20:52:38,415 - #6 (
+INFO  20:52:38,415 - #43 int
+INFO  20:52:38,415 - #43 z
+INFO  20:52:38,415 - #11 ,
+INFO  20:52:38,415 - #43 int
+INFO  20:52:38,415 - #43 d
+INFO  20:52:38,415 - #7 )
+INFO  20:52:38,415 - #3 {
+INFO  20:52:38,415 - #9 return
+INFO  20:52:38,415 - #43 z
+INFO  20:52:38,415 - #10 +
+INFO  20:52:38,415 - #43 d
+INFO  20:52:38,424 - #5 ;
+INFO  20:52:38,424 - #4 }
+INFO  20:52:38,424 - #13 void
+INFO  20:52:38,424 - #43 fibonaci
+INFO  20:52:38,424 - #6 (
+INFO  20:52:38,424 - #43 int
+INFO  20:52:38,424 - #43 a
+INFO  20:52:38,424 - #27 [
+INFO  20:52:38,424 - #25 ]
+INFO  20:52:38,424 - #7 )
+INFO  20:52:38,424 - #43 int
+INFO  20:52:38,424 - #43 pom
+INFO  20:52:38,424 - #11 ,
+INFO  20:52:38,424 - #43 l
+INFO  20:52:38,424 - #5 ;
+INFO  20:52:38,424 - #3 {
+INFO  20:52:38,424 - #43 pom
+INFO  20:52:38,424 - #8 =
+INFO  20:52:38,424 - #43 len
+INFO  20:52:38,424 - #6 (
+INFO  20:52:38,424 - #43 a
+INFO  20:52:38,424 - #7 )
+INFO  20:52:38,424 - #5 ;
+INFO  20:52:38,424 - #51 if
+INFO  20:52:38,424 - #6 (
+INFO  20:52:38,424 - #43 pom
+INFO  20:52:38,424 - #48 <
+INFO  20:52:38,424 - #42 1
+INFO  20:52:38,424 - #7 )
+INFO  20:52:38,424 - #9 return
+INFO  20:52:38,424 - #5 ;
+INFO  20:52:38,424 - #43 l
+INFO  20:52:38,424 - #8 =
+INFO  20:52:38,424 - #42 2
+INFO  20:52:38,424 - #5 ;
+INFO  20:52:38,424 - #43 a
+INFO  20:52:38,424 - #27 [
+INFO  20:52:38,424 - #42 0
+INFO  20:52:38,424 - #25 ]
+INFO  20:52:38,424 - #8 =
+INFO  20:52:38,424 - #42 0
+INFO  20:52:38,424 - #5 ;
+INFO  20:52:38,424 - #51 if
+INFO  20:52:38,424 - #6 (
+INFO  20:52:38,424 - #43 pom
+INFO  20:52:38,424 - #48 <
+INFO  20:52:38,424 - #42 2
+INFO  20:52:38,424 - #7 )
+INFO  20:52:38,424 - #9 return
+INFO  20:52:38,424 - #5 ;
+INFO  20:52:38,424 - #43 a
+INFO  20:52:38,424 - #27 [
+INFO  20:52:38,424 - #42 1
+INFO  20:52:38,424 - #25 ]
+INFO  20:52:38,424 - #8 =
+INFO  20:52:38,424 - #42 1
+INFO  20:52:38,424 - #5 ;
+INFO  20:52:38,424 - #51 if
+INFO  20:52:38,424 - #6 (
+INFO  20:52:38,424 - #43 pom
+INFO  20:52:38,424 - #48 <
+INFO  20:52:38,424 - #42 3
+INFO  20:52:38,424 - #7 )
+INFO  20:52:38,424 - #9 return
+INFO  20:52:38,424 - #5 ;
+INFO  20:52:38,424 - #36 do
+INFO  20:52:38,424 - #3 {
+INFO  20:52:38,434 - #43 a
+INFO  20:52:38,434 - #27 [
+INFO  20:52:38,434 - #43 l
+INFO  20:52:38,434 - #25 ]
+INFO  20:52:38,434 - #8 =
+INFO  20:52:38,434 - #43 sum
+INFO  20:52:38,434 - #6 (
+INFO  20:52:38,434 - #43 a
+INFO  20:52:38,434 - #27 [
+INFO  20:52:38,434 - #43 l
+INFO  20:52:38,435 - #24 -
+INFO  20:52:38,435 - #42 1
+INFO  20:52:38,435 - #25 ]
+INFO  20:52:38,435 - #11 ,
+INFO  20:52:38,435 - #43 a
+INFO  20:52:38,435 - #27 [
+INFO  20:52:38,435 - #43 l
+INFO  20:52:38,435 - #24 -
+INFO  20:52:38,435 - #42 2
+INFO  20:52:38,435 - #25 ]
+INFO  20:52:38,435 - #7 )
+INFO  20:52:38,435 - #5 ;
+INFO  20:52:38,435 - #43 l
+INFO  20:52:38,435 - #33 ++
+INFO  20:52:38,435 - #5 ;
+INFO  20:52:38,435 - #4 }
+INFO  20:52:38,435 - #34 while
+INFO  20:52:38,435 - #6 (
+INFO  20:52:38,435 - #43 l
+INFO  20:52:38,435 - #48 <
+INFO  20:52:38,435 - #43 pom
+INFO  20:52:38,435 - #7 )
+INFO  20:52:38,435 - #5 ;
+INFO  20:52:38,435 - #4 }
+INFO  20:52:38,435 - #13 void
+INFO  20:52:38,435 - #43 main
+INFO  20:52:38,435 - #6 (
+INFO  20:52:38,435 - #7 )
+INFO  20:52:38,435 - #3 {
+INFO  20:52:38,435 - #43 niz1
+INFO  20:52:38,435 - #8 =
+INFO  20:52:38,435 - #18 new
+INFO  20:52:38,435 - #43 int
+INFO  20:52:38,435 - #27 [
+INFO  20:52:38,435 - #42 7
+INFO  20:52:38,435 - #25 ]
+INFO  20:52:38,435 - #5 ;
+INFO  20:52:38,435 - #43 niz2
+INFO  20:52:38,435 - #8 =
+INFO  20:52:38,435 - #18 new
+INFO  20:52:38,435 - #43 int
+INFO  20:52:38,435 - #27 [
+INFO  20:52:38,435 - #42 7
+INFO  20:52:38,435 - #25 ]
+INFO  20:52:38,435 - #5 ;
+INFO  20:52:38,435 - #43 niz3
+INFO  20:52:38,435 - #8 =
+INFO  20:52:38,435 - #18 new
+INFO  20:52:38,435 - #43 int
+INFO  20:52:38,435 - #27 [
+INFO  20:52:38,435 - #42 7
+INFO  20:52:38,440 - #25 ]
+INFO  20:52:38,440 - #5 ;
+INFO  20:52:38,440 - #43 fibonaci
+INFO  20:52:38,440 - #6 (
+INFO  20:52:38,440 - #43 niz1
+INFO  20:52:38,440 - #7 )
+INFO  20:52:38,440 - #5 ;
+INFO  20:52:38,440 - #43 fibonaci
+INFO  20:52:38,440 - #6 (
+INFO  20:52:38,440 - #43 niz2
+INFO  20:52:38,440 - #7 )
+INFO  20:52:38,440 - #5 ;
+INFO  20:52:38,440 - #43 i
+INFO  20:52:38,440 - #8 =
+INFO  20:52:38,440 - #42 0
+INFO  20:52:38,440 - #5 ;
+INFO  20:52:38,440 - #36 do
+INFO  20:52:38,440 - #3 {
+INFO  20:52:38,440 - #43 niz3
+INFO  20:52:38,440 - #8 =
+INFO  20:52:38,440 - #43 niz2
+INFO  20:52:38,440 - #15 "*"
+INFO  20:52:38,440 - #43 niz1
+INFO  20:52:38,440 - #5 ;
+INFO  20:52:38,440 - #43 i
+INFO  20:52:38,440 - #33 ++
+INFO  20:52:38,440 - #5 ;
+INFO  20:52:38,440 - #4 }
+INFO  20:52:38,440 - #34 while
+INFO  20:52:38,440 - #6 (
+INFO  20:52:38,440 - #43 i
+INFO  20:52:38,440 - #48 <
+INFO  20:52:38,440 - #43 len
+INFO  20:52:38,440 - #6 (
+INFO  20:52:38,440 - #43 niz1
+INFO  20:52:38,440 - #7 )
+INFO  20:52:38,440 - #7 )
+INFO  20:52:38,440 - #5 ;
+INFO  20:52:38,440 - #43 i
+INFO  20:52:38,440 - #8 =
+INFO  20:52:38,440 - #42 0
+INFO  20:52:38,440 - #5 ;
+INFO  20:52:38,440 - #36 do
+INFO  20:52:38,440 - #3 {
+INFO  20:52:38,440 - #12 print
+INFO  20:52:38,440 - #6 (
+INFO  20:52:38,440 - #43 niz3
+INFO  20:52:38,440 - #27 [
+INFO  20:52:38,440 - #43 i
+INFO  20:52:38,440 - #25 ]
+INFO  20:52:38,440 - #7 )
+INFO  20:52:38,440 - #5 ;
+INFO  20:52:38,440 - #43 i
+INFO  20:52:38,440 - #33 ++
+INFO  20:52:38,445 - #5 ;
+INFO  20:52:38,445 - #4 }
+INFO  20:52:38,445 - #34 while
+INFO  20:52:38,445 - #6 (
+INFO  20:52:38,445 - #43 i
+INFO  20:52:38,445 - #48 <
+INFO  20:52:38,445 - #43 len
+INFO  20:52:38,445 - #6 (
+INFO  20:52:38,445 - #43 niz2
+INFO  20:52:38,445 - #7 )
+INFO  20:52:38,445 - #7 )
+INFO  20:52:38,445 - #5 ;
+INFO  20:52:38,445 - #12 print
+INFO  20:52:38,445 - #6 (
+INFO  20:52:38,445 - #43 eol
+INFO  20:52:38,445 - #7 )
+INFO  20:52:38,445 - #5 ;
+INFO  20:52:38,445 - #12 print
+INFO  20:52:38,445 - #6 (
+INFO  20:52:38,445 - #43 i
+INFO  20:52:38,445 - #7 )
+INFO  20:52:38,445 - #5 ;
+INFO  20:52:38,445 - #4 }
+INFO  20:52:38,445 - #4 }
+INFO  20:52:38,445 - ===================================
+INFO  20:52:38,455 - Pretraga na 18(z), nadjeno Var z: int, 0, 1 
+INFO  20:52:38,455 - Pretraga na 18(d), nadjeno Var d: int, 1, 1 
+INFO  20:52:38,455 - Pretraga na 24(pom), nadjeno Var pom: int, 1, 1 
+INFO  20:52:38,455 - Pretraga na 24(a), nadjeno Var a: Arr of int, 0, 1 
+INFO  20:52:38,455 - Pretraga na 26(pom), nadjeno Var pom: int, 1, 1 
+INFO  20:52:38,455 - Pretraga na 27(l), nadjeno Var l: int, 2, 1 
+INFO  20:52:38,455 - Pretraga na 28(a), nadjeno Var a: Arr of int, 0, 1 
+INFO  20:52:38,455 - Pretraga na 29(pom), nadjeno Var pom: int, 1, 1 
+INFO  20:52:38,455 - Pretraga na 30(a), nadjeno Var a: Arr of int, 0, 1 
+INFO  20:52:38,455 - Pretraga na 32(pom), nadjeno Var pom: int, 1, 1 
+INFO  20:52:38,455 - Pretraga na 36(l), nadjeno Var l: int, 2, 1 
+INFO  20:52:38,455 - Pretraga na 36(a), nadjeno Var a: Arr of int, 0, 1 
+INFO  20:52:38,455 - Pretraga na 36(l), nadjeno Var l: int, 2, 1 
+INFO  20:52:38,455 - Pretraga na 36(a), nadjeno Var a: Arr of int, 0, 1 
+INFO  20:52:38,455 - Pretraga na 36(l), nadjeno Var l: int, 2, 1 
+INFO  20:52:38,455 - Pretraga na 36(a), nadjeno Var a: Arr of int, 0, 1 
+INFO  20:52:38,455 - Pretraga na 37(l), nadjeno Var l: int, 2, 1 
+INFO  20:52:38,455 - Pretraga na 39(l), nadjeno Var l: int, 2, 1 
+INFO  20:52:38,455 - Pretraga na 39(pom), nadjeno Var pom: int, 1, 1 
+INFO  20:52:38,455 - Pretraga na 46(niz1), nadjeno Var niz1: Arr of int, 3, 0 
+INFO  20:52:38,455 - Pretraga na 47(niz2), nadjeno Var niz2: Arr of int, 4, 0 
+INFO  20:52:38,455 - Pretraga na 48(niz3), nadjeno Var niz3: Arr of int, 5, 0 
+INFO  20:52:38,455 - Pretraga na 49(niz1), nadjeno Var niz1: Arr of int, 3, 0 
+INFO  20:52:38,455 - Pretraga na 50(niz2), nadjeno Var niz2: Arr of int, 4, 0 
+INFO  20:52:38,455 - Pretraga na 51(i), nadjeno Var i: int, 0, 0 
+INFO  20:52:38,455 - Pretraga na 55(niz3), nadjeno Var niz3: Arr of int, 5, 0 
+INFO  20:52:38,455 - Pretraga na 55(niz2), nadjeno Var niz2: Arr of int, 4, 0 
+INFO  20:52:38,455 - Pretraga na 55(niz1), nadjeno Var niz1: Arr of int, 3, 0 
+INFO  20:52:38,455 - Pretraga na 56(i), nadjeno Var i: int, 0, 0 
+INFO  20:52:38,455 - Pretraga na 58(i), nadjeno Var i: int, 0, 0 
+INFO  20:52:38,455 - Pretraga na 58(niz1), nadjeno Var niz1: Arr of int, 3, 0 
+INFO  20:52:38,455 - Pretraga na 60(i), nadjeno Var i: int, 0, 0 
+INFO  20:52:38,455 - Pretraga na 64(i), nadjeno Var i: int, 0, 0 
+INFO  20:52:38,455 - Pretraga na 64(niz3), nadjeno Var niz3: Arr of int, 5, 0 
+INFO  20:52:38,455 - Pretraga na 65(i), nadjeno Var i: int, 0, 0 
+INFO  20:52:38,455 - Pretraga na 67(i), nadjeno Var i: int, 0, 0 
+INFO  20:52:38,455 - Pretraga na 67(niz2), nadjeno Var niz2: Arr of int, 4, 0 
+INFO  20:52:38,455 - Pretraga na 69(eol), nadjeno Con eol: char, 10, 0 
+INFO  20:52:38,455 - Pretraga na 70(i), nadjeno Var i: int, 0, 0 
+INFO  20:52:38,455 -  Print count calls = 3
+INFO  20:52:38,455 -  Deklarisanih promenljivih ima = 8
+INFO  20:52:38,455 - ===================================
+INFO  20:52:38,455 - ===================================
+INFO  20:52:38,465 - Parsiranje uspesno zavrseno!

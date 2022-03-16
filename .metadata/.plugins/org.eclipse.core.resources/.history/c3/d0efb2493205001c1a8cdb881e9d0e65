@@ -1,0 +1,91 @@
+INFO  21:07:57,325 - Compiling source file: C:\Users\Kristina\Desktop\prof\MJCompiler\test\program.mj
+INFO  21:07:57,379 - #2 program
+INFO  21:07:57,379 - #43 test302
+INFO  21:07:57,379 - #26 const
+INFO  21:07:57,379 - #43 int
+INFO  21:07:57,379 - #43 jedan
+INFO  21:07:57,379 - #8 =
+INFO  21:07:57,379 - #42 1
+INFO  21:07:57,379 - #5 ;
+INFO  21:07:57,379 - #43 int
+INFO  21:07:57,379 - #43 i
+INFO  21:07:57,379 - #11 ,
+INFO  21:07:57,379 - #43 j
+INFO  21:07:57,379 - #5 ;
+INFO  21:07:57,379 - #43 bool
+INFO  21:07:57,379 - #43 ibool
+INFO  21:07:57,379 - #5 ;
+INFO  21:07:57,379 - #43 int
+INFO  21:07:57,379 - #43 niz1
+INFO  21:07:57,379 - #27 [
+INFO  21:07:57,379 - #25 ]
+INFO  21:07:57,379 - #5 ;
+INFO  21:07:57,395 - #43 int
+INFO  21:07:57,398 - #43 niz2
+INFO  21:07:57,398 - #27 [
+INFO  21:07:57,398 - #25 ]
+INFO  21:07:57,398 - #5 ;
+INFO  21:07:57,398 - #43 int
+INFO  21:07:57,398 - #43 niz3
+INFO  21:07:57,398 - #27 [
+INFO  21:07:57,398 - #25 ]
+INFO  21:07:57,398 - #5 ;
+INFO  21:07:57,398 - #3 {
+INFO  21:07:57,398 - #13 void
+INFO  21:07:57,398 - #43 main
+INFO  21:07:57,398 - #6 (
+INFO  21:07:57,398 - #7 )
+INFO  21:07:57,398 - #3 {
+INFO  21:07:57,398 - #43 niz1
+INFO  21:07:57,398 - #8 =
+INFO  21:07:57,398 - #18 new
+INFO  21:07:57,398 - #43 int
+INFO  21:07:57,398 - #27 [
+INFO  21:07:57,398 - #42 7
+INFO  21:07:57,398 - #25 ]
+INFO  21:07:57,398 - #5 ;
+INFO  21:07:57,398 - #43 niz2
+INFO  21:07:57,398 - #8 =
+INFO  21:07:57,398 - #18 new
+INFO  21:07:57,398 - #43 int
+INFO  21:07:57,398 - #27 [
+INFO  21:07:57,398 - #42 7
+INFO  21:07:57,398 - #25 ]
+INFO  21:07:57,398 - #5 ;
+INFO  21:07:57,414 - #43 niz3
+INFO  21:07:57,414 - #8 =
+INFO  21:07:57,414 - #18 new
+INFO  21:07:57,414 - #43 int
+INFO  21:07:57,414 - #27 [
+INFO  21:07:57,414 - #42 7
+INFO  21:07:57,414 - #25 ]
+INFO  21:07:57,414 - #5 ;
+INFO  21:07:57,414 - #43 niz3
+INFO  21:07:57,414 - #8 =
+INFO  21:07:57,414 - #43 niz2
+INFO  21:07:57,414 - #10 +
+INFO  21:07:57,414 - #43 niz1
+INFO  21:07:57,414 - #5 ;
+INFO  21:07:57,414 - #12 print
+INFO  21:07:57,414 - #6 (
+INFO  21:07:57,414 - #43 niz3
+INFO  21:07:57,414 - #27 [
+INFO  21:07:57,414 - #42 5
+INFO  21:07:57,414 - #25 ]
+INFO  21:07:57,414 - #7 )
+INFO  21:07:57,414 - #5 ;
+INFO  21:07:57,414 - #4 }
+INFO  21:07:57,414 - #4 }
+INFO  21:07:57,414 - ===================================
+INFO  21:07:57,414 - Pretraga na 17(niz1), nadjeno Var niz1: Arr of int, 3, 0 
+INFO  21:07:57,414 - Pretraga na 18(niz2), nadjeno Var niz2: Arr of int, 4, 0 
+INFO  21:07:57,414 - Pretraga na 19(niz3), nadjeno Var niz3: Arr of int, 5, 0 
+INFO  21:07:57,414 - Pretraga na 23(niz3), nadjeno Var niz3: Arr of int, 5, 0 
+INFO  21:07:57,414 - Pretraga na 23(niz2), nadjeno Var niz2: Arr of int, 4, 0 
+INFO  21:07:57,414 - Pretraga na 23(niz1), nadjeno Var niz1: Arr of int, 3, 0 
+INFO  21:07:57,414 - Pretraga na 27(niz3), nadjeno Var niz3: Arr of int, 5, 0 
+INFO  21:07:57,414 -  Print count calls = 1
+INFO  21:07:57,414 -  Deklarisanih promenljivih ima = 6
+INFO  21:07:57,414 - ===================================
+INFO  21:07:57,414 - ===================================
+INFO  21:07:57,429 - Parsiranje uspesno zavrseno!

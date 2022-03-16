@@ -1,0 +1,19 @@
+INFO  07:00:37,344 - Compiling source file: C:\Users\Kristina\Desktop\prof\MJCompiler\test\program.mj
+INFO  07:00:37,377 - #2 program
+INFO  07:00:37,377 - #43 test304
+INFO  07:00:37,377 - #26 const
+INFO  07:00:37,377 - #43 int
+INFO  07:00:37,378 - #43 jedan
+INFO  07:00:37,378 - #8 =
+INFO  07:00:37,378 - #42 1
+INFO  07:00:37,378 - #5 ;
+INFO  07:00:37,378 - #43 int
+INFO  07:00:37,378 - #43 i
+INFO  07:00:37,378 - #11 ,
+INFO  07:00:37,379 - #43 j
+INFO  07:00:37,379 - #11 ,
+INFO  07:00:37,379 - #42 5
+INFO  07:00:37,379 - #5 ;
+INFO  07:00:37,379 - #43 bool
+INFO  07:00:37,379 - #43 ibool
+INFO  07:00:37,380 - #5 ;

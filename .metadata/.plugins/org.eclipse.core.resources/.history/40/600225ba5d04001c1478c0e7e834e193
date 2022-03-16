@@ -1,0 +1,12 @@
+program Program
+ int i;
+
+
+
+{
+ void main()
+ 	int j;
+ 	
+ 	read(j);
+ 	print(j);
+}

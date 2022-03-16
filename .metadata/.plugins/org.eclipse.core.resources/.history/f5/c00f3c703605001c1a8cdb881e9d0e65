@@ -1,0 +1,126 @@
+INFO  21:51:20,550 - Compiling source file: C:\Users\Kristina\Desktop\prof\MJCompiler\test\program.mj
+INFO  21:51:20,606 - #2 program
+INFO  21:51:20,606 - #43 test302
+INFO  21:51:20,607 - #26 const
+INFO  21:51:20,607 - #43 int
+INFO  21:51:20,608 - #43 jedan
+INFO  21:51:20,608 - #8 =
+INFO  21:51:20,608 - #42 1
+INFO  21:51:20,608 - #5 ;
+INFO  21:51:20,609 - #43 int
+INFO  21:51:20,609 - #43 i
+INFO  21:51:20,609 - #11 ,
+INFO  21:51:20,610 - #43 j
+INFO  21:51:20,610 - #5 ;
+INFO  21:51:20,610 - #43 bool
+INFO  21:51:20,611 - #43 ibool
+INFO  21:51:20,611 - #5 ;
+INFO  21:51:20,611 - #43 int
+INFO  21:51:20,611 - #43 niz
+INFO  21:51:20,611 - #27 [
+INFO  21:51:20,611 - #25 ]
+INFO  21:51:20,611 - #5 ;
+INFO  21:51:20,612 - #3 {
+INFO  21:51:20,623 - #43 int
+INFO  21:51:20,623 - #43 sum
+INFO  21:51:20,623 - #6 (
+INFO  21:51:20,623 - #43 int
+INFO  21:51:20,623 - #43 z
+INFO  21:51:20,624 - #11 ,
+INFO  21:51:20,624 - #43 int
+INFO  21:51:20,624 - #43 d
+INFO  21:51:20,624 - #7 )
+INFO  21:51:20,624 - #3 {
+INFO  21:51:20,626 - #9 return
+INFO  21:51:20,626 - #43 z
+INFO  21:51:20,626 - #10 +
+INFO  21:51:20,628 - #43 d
+INFO  21:51:20,628 - #5 ;
+INFO  21:51:20,629 - #4 }
+INFO  21:51:20,629 - #43 int
+INFO  21:51:20,629 - #43 fibonaci
+INFO  21:51:20,629 - #6 (
+INFO  21:51:20,629 - #43 int
+INFO  21:51:20,629 - #43 n
+INFO  21:51:20,629 - #7 )
+INFO  21:51:20,629 - #43 int
+INFO  21:51:20,630 - #43 pom
+INFO  21:51:20,630 - #5 ;
+INFO  21:51:20,630 - #3 {
+INFO  21:51:20,630 - #51 if
+INFO  21:51:20,630 - #6 (
+INFO  21:51:20,630 - #43 n
+INFO  21:51:20,630 - #44 ==
+INFO  21:51:20,630 - #42 1
+INFO  21:51:20,630 - #7 )
+INFO  21:51:20,631 - #9 return
+INFO  21:51:20,631 - #42 0
+INFO  21:51:20,631 - #5 ;
+INFO  21:51:20,631 - #51 if
+INFO  21:51:20,631 - #6 (
+INFO  21:51:20,631 - #43 n
+INFO  21:51:20,631 - #44 ==
+INFO  21:51:20,631 - #42 2
+INFO  21:51:20,632 - #7 )
+INFO  21:51:20,632 - #9 return
+INFO  21:51:20,632 - #42 1
+INFO  21:51:20,632 - #5 ;
+INFO  21:51:20,632 - #43 pom
+INFO  21:51:20,632 - #8 =
+INFO  21:51:20,632 - #43 sum
+INFO  21:51:20,633 - #6 (
+INFO  21:51:20,633 - #43 fibonaci
+INFO  21:51:20,633 - #6 (
+INFO  21:51:20,633 - #43 n
+INFO  21:51:20,633 - #24 -
+INFO  21:51:20,633 - #42 2
+INFO  21:51:20,634 - #7 )
+INFO  21:51:20,634 - #11 ,
+INFO  21:51:20,634 - #43 fibonaci
+INFO  21:51:20,634 - #6 (
+INFO  21:51:20,634 - #43 n
+INFO  21:51:20,634 - #24 -
+INFO  21:51:20,634 - #42 1
+INFO  21:51:20,634 - #7 )
+INFO  21:51:20,634 - #7 )
+INFO  21:51:20,635 - #5 ;
+INFO  21:51:20,635 - #9 return
+INFO  21:51:20,635 - #43 pom
+INFO  21:51:20,635 - #5 ;
+INFO  21:51:20,635 - #4 }
+INFO  21:51:20,635 - #13 void
+INFO  21:51:20,635 - #43 main
+INFO  21:51:20,635 - #6 (
+INFO  21:51:20,635 - #7 )
+INFO  21:51:20,635 - #3 {
+INFO  21:51:20,636 - #12 print
+INFO  21:51:20,636 - #6 (
+INFO  21:51:20,636 - #43 fibonaci
+INFO  21:51:20,636 - #6 (
+INFO  21:51:20,636 - #42 30
+INFO  21:51:20,636 - #7 )
+INFO  21:51:20,636 - #7 )
+INFO  21:51:20,636 - #5 ;
+INFO  21:51:20,637 - #4 }
+INFO  21:51:20,637 - #4 }
+INFO  21:51:20,638 - ===================================
+INFO  21:51:20,648 - Pretraga na 14(z), nadjeno Var z: int, 0, 1  na liniji 14
+INFO  21:51:20,648 - Pretraga na 14(d), nadjeno Var d: int, 1, 1  na liniji 14
+INFO  21:51:20,649 - Pretraga na 22(n), nadjeno Var n: int, 0, 1  na liniji 22
+INFO  21:51:20,649 - Pretraga na 23(n), nadjeno Var n: int, 0, 1  na liniji 23
+INFO  21:51:20,649 - Pretraga na 24(pom), nadjeno Var pom: int, 1, 1  na liniji 24
+INFO  21:51:20,649 - Pretraga na 24(n), nadjeno Var n: int, 0, 1  na liniji 24
+ERROR 21:51:20,650 - Greska na liniji 0 1 :  poziv funkcije fibonaci nema odgovarajuci broj formalnih parametara 
+ERROR 21:51:20,650 - Greska na liniji 24 :  poziv funkcije fibonaci nema odgovarajuci broj formalnih parametara 
+INFO  21:51:20,650 - Pretraga na 24(n), nadjeno Var n: int, 0, 1  na liniji 24
+ERROR 21:51:20,650 - Greska na liniji 0 1 :  poziv funkcije fibonaci nema odgovarajuci broj formalnih parametara 
+ERROR 21:51:20,650 - Greska na liniji 24 :  poziv funkcije fibonaci nema odgovarajuci broj formalnih parametara 
+ERROR 21:51:20,651 - Greska na liniji 2 2 :  poziv funkcije sum nema odgovarajuci broj formalnih parametara 
+INFO  21:51:20,651 - Pretraga na 25(pom), nadjeno Var pom: int, 1, 1  na liniji 25
+ERROR 21:51:20,651 - Greska na liniji 1 1 :  poziv funkcije fibonaci nema odgovarajuci broj formalnih parametara 
+INFO  21:51:20,651 - ===================================
+INFO  21:51:20,651 -  Print count calls = 1
+INFO  21:51:20,651 - ===================================
+INFO  21:51:20,651 - ===================================
+ERROR 21:51:20,651 - Parsiranje NIJE uspesno zavrseno!
+

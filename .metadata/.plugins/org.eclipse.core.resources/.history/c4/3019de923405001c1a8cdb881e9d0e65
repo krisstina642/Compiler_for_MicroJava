@@ -1,0 +1,64 @@
+INFO  09:50:54,504 - Compiling source file: C:\Users\Kristina\Desktop\prof\MJCompiler\test\program.mj
+INFO  09:50:54,543 - #2 program
+INFO  09:50:54,543 - #43 test301
+INFO  09:50:54,543 - #26 const
+INFO  09:50:54,544 - #43 int
+INFO  09:50:54,544 - #43 nula
+INFO  09:50:54,544 - #8 =
+INFO  09:50:54,544 - #42 0
+INFO  09:50:54,544 - #5 ;
+INFO  09:50:54,544 - #26 const
+INFO  09:50:54,545 - #43 int
+INFO  09:50:54,545 - #43 jedan
+INFO  09:50:54,545 - #8 =
+INFO  09:50:54,545 - #42 1
+INFO  09:50:54,545 - #5 ;
+INFO  09:50:54,545 - #26 const
+INFO  09:50:54,545 - #43 int
+INFO  09:50:54,545 - #43 pet
+INFO  09:50:54,545 - #8 =
+INFO  09:50:54,545 - #42 5
+INFO  09:50:54,545 - #5 ;
+INFO  09:50:54,545 - #43 int
+INFO  09:50:54,545 - #43 niz
+INFO  09:50:54,545 - #27 [
+INFO  09:50:54,546 - #25 ]
+INFO  09:50:54,546 - #5 ;
+INFO  09:50:54,546 - #43 char
+INFO  09:50:54,546 - #43 nizch
+INFO  09:50:54,546 - #27 [
+INFO  09:50:54,546 - #25 ]
+INFO  09:50:54,547 - #5 ;
+INFO  09:50:54,547 - #3 {
+INFO  09:50:54,547 - #13 void
+INFO  09:50:54,547 - #43 main
+INFO  09:50:54,547 - #6 (
+INFO  09:50:54,547 - #7 )
+INFO  09:50:54,547 - #43 int
+INFO  09:50:54,547 - #43 bodovi
+INFO  09:50:54,547 - #5 ;
+INFO  09:50:54,548 - #3 {
+INFO  09:50:54,548 - #43 bodovi
+INFO  09:50:54,548 - #8 =
+INFO  09:50:54,549 - #42 5
+INFO  09:50:54,550 - #29 *
+INFO  09:50:54,550 - #42 4
+INFO  09:50:54,550 - #29 *
+INFO  09:50:54,551 - #42 2
+INFO  09:50:54,551 - #5 ;
+INFO  09:50:54,551 - #12 print
+INFO  09:50:54,551 - #6 (
+INFO  09:50:54,551 - #43 bodovi
+INFO  09:50:54,551 - #7 )
+INFO  09:50:54,551 - #5 ;
+INFO  09:50:54,551 - #4 }
+INFO  09:50:54,551 - #4 }
+INFO  09:50:54,552 - ===================================
+INFO  09:50:54,558 - Pretraga na 16(bodovi), nadjeno Var bodovi: int, 0, 1  na liniji 16
+INFO  09:50:54,558 - Pretraga na 18(bodovi), nadjeno Var bodovi: int, 0, 1  na liniji 18
+INFO  09:50:54,558 - ===================================
+INFO  09:50:54,558 -  Print count calls = 1
+INFO  09:50:54,558 - ===================================
+INFO  09:50:54,558 - ===================================
+INFO  09:50:54,563 - Parsiranje uspesno zavrseno!
+

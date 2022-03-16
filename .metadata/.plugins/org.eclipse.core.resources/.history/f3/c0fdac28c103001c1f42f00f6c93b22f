@@ -1,0 +1,29 @@
+package rs.ac.bg.etf.pp1;
+
+import java.util.ArrayList;
+import java.util.List;
+
+import rs.ac.bg.etf.pp1.test.CompilerError;
+import rs.ac.bg.etf.pp1.test.CompilerError.CompilerErrorType;
+
+public class Compiler2 implements rs.ac.bg.etf.pp1.test.Compiler{
+	private static List<CompilerError> compileErrors;
+	
+	public static void addError(int line, String message, CompilerErrorType type) {
+		compileErrors.add(new CompilerError(line, message, type));
+	}
+
+	@Override
+	public List<CompilerError> compile(String sourceFilePath, String outputFilePath) {
+		compileErrors=new ArrayList<CompilerError>();
+		
+		
+		
+		
+		
+		return compileErrors;
+	}
+	
+	
+
+}
